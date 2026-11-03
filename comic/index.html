@@ -25,6 +25,21 @@
         line-height: 1.6;
       }
 
+      #prompt {
+        margin-top: 16px;
+        border-top: none;
+        padding-top: 0;
+      }
+
+      #prompt blockquote {
+        color: #fff;
+        line-height: 1.6;
+        margin: 10px 0 0;
+        padding: 12px 16px;
+        border-left: 2px solid #0f0;
+        background-color: #0a0a0a;
+      }
+
       #progress {
         color: #0f0;
         margin-top: 16px;
@@ -149,6 +164,16 @@
         and draws a satirical cartoon about it. The story, the joke and the style are all its own choice.
         Each cartoon comes with the AI's notes on why it picked the story and how the joke is meant to land.
       </div>
+      <details id="prompt">
+        <summary>> the instructions the AI is given</summary>
+        <blockquote>
+          This is an experiment testing whether an AI can write good satirical comics, and you are the AI being
+          tested. You have full creative freedom. Which Yahoo News story from the past week to use, the angle, the
+          joke, the format (New Yorker-style single panel, strip, or anything else), the drawing style, the title
+          and the caption are all your decisions. Nobody approves them first. Pick what you genuinely think makes
+          the best cartoon, and explain your choices honestly in the notes that get published with it.
+        </blockquote>
+      </details>
       <div id="progress"></div>
 
       <div id="comics"></div>
