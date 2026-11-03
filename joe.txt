@@ -1,21 +1,21 @@
-<span id="a">joe@portfolio</span>:<span id="b">~</span><span id="c">$</span> cd Portfolio/<!-- laglaglaglaglaglag -->About_Me
-<span id="a">joe@portfolio</span>:<span id="b">~</span><span id="c">$</span> cat <!-- laglaglaglaglaglaglaglaglag -->joe.txt<br/><br/>
-You've reached Joe's homepage
+<span id="a">joe@arcade</span>:<span id="b">~</span><span id="c">$</span> cd <!-- laglaglaglaglaglag -->arcade/
+<span id="a">joe@arcade</span>:<span id="b">~/arcade</span><span id="c">$</span> cat <!-- laglaglaglaglaglaglaglaglag -->readme.txt<br/><br/>
+You've found Joe's arcade.
+<!-- laglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglag -->
+Small web games and silly apps I made for fun.
+Most take under a minute. None of them are useful.
 <!-- laglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglag -->
 My perfect date? "<span id="k">yy mm dd</span>". <!-- sjkfhskjf -->
 <!-- laglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglag -->
 
 
-<p>Click here for: <br> 
-<a href="cv.html">CV</a> <br> 
-<a href="projects.html">Projects</a> <br>
-<a href="research.html">Research</a> <br>
-<a href="blog.html">Blog</a> <br>
-<a href="globe.html">Where's Joe?</a> <br> 
+<p>
+&gt; <a href="arcade.html#games">Play games</a> <br>
+&gt; <a href="arcade.html#apps">Silly apps</a> <br>
+&gt; <a href="arcade.html#about">About</a> <br>
 
 
-Lately, I've been working on humanitarian data science projects, teaching snowboarding, and trying to find a PhD position.
-<br> Feel free to reach out, i'd love to hear from you<!-- slightdelayhere-->. <br>
+Found a bug or have an idea?<!-- slightdelayhere--> <br>
 <!-- longlonglongcomment -->Email me at [ <a href="mailto:e0641557@u.nus.edu">e0641557@u.nus.edu</a> ].
 
-<p>Cheers!<br>- Joe</p>
+<p>- Joe</p>
