@@ -1,8 +1,8 @@
 """Fetch today's candidate items for the feed.
 
-Applies the per-source rules, skips anything already in feed/items.json, and
-writes the new candidates (without descriptions) to a JSON file for the
-daily task to fill in. Uses only the Python standard library.
+Builds a pool of recent items from every source, skips anything already in
+feed/items.json, and writes the pool to a JSON file. The daily task picks
+which items to publish and writes their descriptions. Standard library only.
 
 Usage: python3 _feedbot/fetch.py OUT.json
 """
@@ -26,27 +26,27 @@ UA = "jjfaddoul-feed-bot/1.0 (+https://jjfaddoul.github.io/feed/)"
 NOW = datetime.datetime.now(datetime.timezone.utc)
 TODAY = datetime.date.today()
 
-# name, category, kind, url, how many, max age in hours
+# name, category, url, how many newest items go in the pool, max age in hours
 RSS_SOURCES = [
-    ("TechCrunch", "tech", "https://techcrunch.com/feed/", 2, 24),
-    ("Ars Technica", "tech", "https://feeds.arstechnica.com/arstechnica/index", 2, 24),
-    ("Hackaday", "tech", "https://hackaday.com/blog/feed/", 1, 24),
+    ("TechCrunch", "tech", "https://techcrunch.com/feed/", 6, 24),
+    ("Ars Technica", "tech", "https://feeds.arstechnica.com/arstechnica/index", 6, 24),
+    ("Hackaday", "tech", "https://hackaday.com/blog/feed/", 3, 24),
     ("SMBC", "comics", "https://www.smbc-comics.com/comic/rss", 1, 168),
     ("Poorly Drawn Lines", "comics", "https://poorlydrawnlines.com/feed/", 1, 168),
     ("Existential Comics", "comics", "https://existentialcomics.com/rss.xml", 1, 168),
     ("The Oatmeal", "comics", "https://theoatmeal.com/feed/rss", 1, 168),
     ("Dinosaur Comics", "comics", "https://www.qwantz.com/rssfeed.php", 1, 168),
     ("War and Peas", "comics", "https://warandpeas.com/feed/", 1, 168),
-    ("Colossal", "art", "https://www.thisiscolossal.com/feed/", 1, 48),
-    ("Public Domain Review", "art", "https://publicdomainreview.org/rss.xml", 1, 168),
-    ("Louder", "music", "https://www.loudersound.com/feeds/all", 1, 24),
-    ("Stereogum", "music", "https://stereogum.com/feed", 1, 24),
+    ("Colossal", "art", "https://www.thisiscolossal.com/feed/", 3, 48),
+    ("Public Domain Review", "art", "https://publicdomainreview.org/rss.xml", 2, 168),
+    ("Louder", "music", "https://www.loudersound.com/feeds/all", 4, 24),
+    ("Stereogum", "music", "https://stereogum.com/feed", 4, 24),
     ("1000-Word Philosophy", "philosophy", "https://1000wordphilosophy.com/feed/", 1, 168),
-    ("Daily Nous", "philosophy", "https://dailynous.com/feed/", 1, 48),
-    ("UN News", "humanitarian", "https://news.un.org/feed/subscribe/en/news/all/rss.xml", 1, 24),
-    ("Positive News", "humanitarian", "https://www.positive.news/feed/", 1, 48),
-    ("FlowingData", "visual", "https://flowingdata.com/feed/", 1, 48),
-    ("Quanta Magazine", "nerdy", "https://www.quantamagazine.org/feed/", 1, 48),
+    ("Daily Nous", "philosophy", "https://dailynous.com/feed/", 2, 48),
+    ("UN News", "humanitarian", "https://news.un.org/feed/subscribe/en/news/all/rss.xml", 3, 24),
+    ("Positive News", "humanitarian", "https://www.positive.news/feed/", 3, 48),
+    ("FlowingData", "visual", "https://flowingdata.com/feed/", 2, 48),
+    ("Quanta Magazine", "nerdy", "https://www.quantamagazine.org/feed/", 2, 48),
 ]
 
 # Titles to skip, per source.
@@ -185,11 +185,11 @@ def fetch_rss(name, category, url, count, max_age, seen):
 
 
 def fetch_hacker_news(seen):
-    # The front page's top 5 stories. Ones already in the feed are skipped,
+    # The front page's top 15 stories. Ones already in the feed are skipped,
     # not replaced by stories further down.
     stories = []
-    for story_id in get_json("https://hacker-news.firebaseio.com/v0/topstories.json")[:10]:
-        if len(stories) >= 5:
+    for story_id in get_json("https://hacker-news.firebaseio.com/v0/topstories.json")[:25]:
+        if len(stories) >= 15:
             break
         s = get_json(f"https://hacker-news.firebaseio.com/v0/item/{story_id}.json") or {}
         if s.get("type") == "story" and s.get("title"):
@@ -219,8 +219,11 @@ def fetch_xkcd(seen):
 def fetch_met(seen):
     base = "https://collectionapi.metmuseum.org/public/collection/v1.1/search?q=*&isHighlight=true&hasImages=true"
     total = get_json(base + "&limit=1")["total"]
-    offset = (TODAY.toordinal() * 7) % max(total - 20, 1)
-    for object_id in get_json(f"{base}&offset={offset}&limit=20")["objectIDs"]:
+    offset = (TODAY.toordinal() * 7) % max(total - 30, 1)
+    options = []
+    for object_id in get_json(f"{base}&offset={offset}&limit=30")["objectIDs"]:
+        if len(options) >= 3:
+            break
         o = get_json(f"https://collectionapi.metmuseum.org/public/collection/v1/objects/{object_id}")
         time.sleep(0.2)
         if not o.get("isPublicDomain") or not o.get("primaryImageSmall") or not o.get("objectURL"):
@@ -229,9 +232,9 @@ def fetch_met(seen):
             continue
         artist = o.get("artistDisplayName") or o.get("culture") or "Unknown artist"
         summary = "; ".join(x for x in (artist, o.get("objectDate"), o.get("medium"), o.get("department")) if x)
-        return [item("The Met", "art", o["objectURL"], f"{o['title']} — {artist}", o["primaryImageSmall"],
-                     TODAY.isoformat(), summary)]
-    return []
+        options.append(item("The Met", "art", o["objectURL"], f"{o['title']} — {artist}", o["primaryImageSmall"],
+                            TODAY.isoformat(), summary, choose_one=True))
+    return options
 
 
 def fetch_wikimedia_potd(seen):
@@ -287,7 +290,10 @@ def main():
         candidates += found
         report.append(f"{name}: {len(found)} new")
 
-    out_path.write_text(json.dumps({"date": TODAY.isoformat(), "candidates": candidates}, indent=2, ensure_ascii=False))
+    day = {"date": TODAY.isoformat(), "model": "", "note": "", "candidates": candidates}
+    out_path.write_text(json.dumps(day, indent=2, ensure_ascii=False))
+    # An untouched copy, so merge.py can check the task didn't change or invent items.
+    out_path.with_suffix(".orig.json").write_text(json.dumps(day, indent=2, ensure_ascii=False))
     print("\n".join(report))
     print(f"TOTAL: {len(candidates)} candidates written to {out_path}")
 

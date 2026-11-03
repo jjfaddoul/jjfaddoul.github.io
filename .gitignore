@@ -4,3 +4,4 @@ __pycache__/
 _feedbot/comic_entry.json
 _feedbot/preview/
 _feedbot/joke_entry.json
+_feedbot/today.orig.json

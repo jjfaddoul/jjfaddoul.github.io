@@ -16,7 +16,13 @@ The feed page reads `feed/items.json`. The daily task adds new items to it.
       "published": "2026-11-02",
       "added": "2026-11-03"
     }
-  ]
+  ],
+  "notes": {
+    "2026-11-04": {
+      "model": "claude-sonnet-5-5",
+      "note": "The AI's note about the day's picks, shown above that day's cards."
+    }
+  }
 }
 ```
 
@@ -32,5 +38,6 @@ The feed page reads `feed/items.json`. The daily task adds new items to it.
 | `category` | One of: `tech`, `comics`, `art`, `music`, `philosophy`, `humanitarian`, `visual`, `nerdy`. |
 | `published` | The original publish date, `YYYY-MM-DD`. |
 | `added` | The date the task added it, `YYYY-MM-DD`. The page groups cards by this date. |
+| `notes` | One entry per day, keyed by date: the model that picked that day's items, and its note (plain text, 400 characters max). Days before the AI picked items have no note. |
 
 All values are plain text. No HTML anywhere.

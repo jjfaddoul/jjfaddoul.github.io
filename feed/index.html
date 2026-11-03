@@ -57,6 +57,21 @@
         margin: 32px 0 16px;
       }
 
+      .day-note {
+        color: #fff;
+        font-size: 13px;
+        line-height: 1.6;
+        border-left: 2px solid #0f0;
+        padding: 4px 12px;
+        margin: -4px 0 16px;
+      }
+
+      .day-note .by {
+        display: block;
+        color: #888;
+        font-size: 11px;
+      }
+
       .grid {
         display: grid;
         grid-template-columns: repeat(auto-fill, minmax(260px, 1fr));
@@ -171,7 +186,9 @@
 
       <h1>FEED</h1>
       <div id="subtitle">
-        A daily pick of tech, comics, art, rock, philosophy and good news. Updated every morning.<br>
+        Every morning we send an AI agent across the web to pull the latest from 24 news sources (tech, comics,
+        art, rock, philosophy and good news), and it collates a feed of the items it thinks you'll enjoy. It picks
+        every item, writes every description, and leaves a note on what it went for each day.<br>
         <span id="updated"></span>
       </div>
 
@@ -195,6 +212,7 @@
       var emptyEl = document.getElementById("empty");
 
       var items = [];
+      var notes = {};
       var filter = "all";
       var shown = PAGE_SIZE;
 
@@ -251,6 +269,12 @@
           if (item.added !== day) {
             day = item.added;
             feedEl.appendChild(el("div", "day", "── " + day + " ──"));
+            var note = notes[day];
+            if (note && note.note) {
+              var noteEl = el("div", "day-note", note.note);
+              noteEl.appendChild(el("span", "by", "picked by " + note.model));
+              feedEl.appendChild(noteEl);
+            }
             grid = feedEl.appendChild(el("div", "grid"));
           }
           grid.appendChild(card(item));
@@ -288,6 +312,7 @@
           items = (data.items || []).filter(function (i) {
             return safeUrl(i.url) && i.title && CATEGORIES.indexOf(i.category) !== -1;
           });
+          notes = data.notes || {};
           if (data.updated) document.getElementById("updated").textContent = "last updated: " + data.updated.slice(0, 10);
           render();
         })
