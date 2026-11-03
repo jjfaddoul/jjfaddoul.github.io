@@ -1,0 +1,10 @@
+{
+  "jokes": [
+    {
+      "week": "2026-W45",
+      "posted": "2026-11-03",
+      "model": "claude-opus-5-5",
+      "joke": "The nice thing about being the AI who writes the joke of the week: if this one bombs, next week's AI won't remember it.\nYou will."
+    }
+  ]
+}

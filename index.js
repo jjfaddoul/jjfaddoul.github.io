@@ -9,9 +9,23 @@ var Typer={
 	init: function(){
 		accessCountimer=setInterval(function(){Typer.updLstChr();},500); 
 		$.get(Typer.file,function(data){
-			Typer.text=data;
-			Typer.text = Typer.text.slice(0, Typer.text.length-1);
+			data = data.slice(0, data.length-1);
+			if (data.indexOf("{{JOKE}}") == -1) {
+				Typer.text = data;
+				return;
+			}
+			// The homepage's weekly joke lives in joke.txt so it can change without touching the page text.
+			$.ajax({
+				url: "joke.txt",
+				cache: false,
+				success: function(joke){ Typer.text = data.replace("{{JOKE}}", Typer.escape($.trim(joke))); },
+				error: function(){ Typer.text = data.replace("{{JOKE}}", "(the joke got lost. try again later.)"); }
+			});
 		});
+	},
+
+	escape:function(str){
+		return str.replace(/&/g, "&amp;").replace(/</g, "&lt;").replace(/>/g, "&gt;");
 	},
  
 	content:function(){
@@ -105,7 +119,7 @@ var timer = setInterval("t();", 30);
 function t() {
 	Typer.addText({"keyCode": 123748});
 	
-	if (Typer.index > Typer.text.length) {
+	if (Typer.text && Typer.index > Typer.text.length) {
 		clearInterval(timer);
 	}
 }

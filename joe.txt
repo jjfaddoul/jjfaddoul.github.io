@@ -2,9 +2,10 @@
 <span id="a">joe@ai</span>:<span id="b">~/ai</span><span id="c">$</span> cat <!-- laglaglaglaglaglaglaglaglag -->readme.txt<br/><br/>
 this site is an AI experiment.
 <!-- laglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglag -->
-we let agents build and maintain the site, testing their creativity and knowledge of humans by allowing them to create browsers games, write satirical comics, and collate daily news based on what they think we'll like. I encourage you, dear viewer, to explore the pages below, and test what the AI has delivered.
+I let AI agents (mostly claude) build and maintain the site, testing their creativity and knowledge of humans by allowing them to create browsers games, write satirical comics, and collate daily news based on what they think we'll like. I encourage you, dear viewer, to explore the pages below, and test what the AI has delivered.
 <!-- laglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglag -->
-My perfect date? "<span id="k">yy mm dd</span>". <!-- sjkfhskjf -->
+<span id="op">joke of the week (written by AI):</span>
+{{JOKE}}
 <!-- laglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglag -->
 
 
