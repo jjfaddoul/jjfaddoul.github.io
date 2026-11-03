@@ -1,12 +1,12 @@
 <span id="a">joe@arcade</span>:<span id="b">~/arcade</span><span id="c">$</span> cd <!-- laglaglaglaglaglag -->games/
 <span id="a">joe@arcade</span>:<span id="b">~/arcade/games</span><span id="c">$</span> ls <!-- laglaglaglaglaglaglaglaglag -->-l<br/><br/>
 <!-- laglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglag -->
-<span id="op">-rwxr-xr-x  joe  game_01</span>   [ coming soon ]
+<span id="op">-rwxr-xr-x  joe</span>  <a href="snake/">snake</a>     eat, grow, don't bite yourself
 <span id="op">-rwxr-xr-x  joe  game_02</span>   [ coming soon ]
 <span id="op">-rwxr-xr-x  joe  game_03</span>   [ coming soon ]
 <!-- laglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglag -->
 
-Nothing to play yet. The first game is still being built.
+Click a game to play. More on the way.
 <!-- slightdelayhere-->
 
 <p><span id="a">joe@arcade</span>:<span id="b">~/arcade/games</span><span id="c">$</span> <a href="../">cd ..</a></p>

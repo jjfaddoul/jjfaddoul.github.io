@@ -1,0 +1,258 @@
+<!doctype html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Joe's Arcade - Snake</title>
+    <link rel="stylesheet" type="text/css" href="../../index.css">
+    <style>
+      #console {
+        max-width: 100%;
+        padding: 0 16px;
+        box-sizing: border-box;
+        margin-top: 60px;
+      }
+
+      #board {
+        display: block;
+        width: 400px;
+        max-width: 100%;
+        aspect-ratio: 1;
+        margin: 16px 0;
+        border: 2px solid #0f0;
+        background-color: #0a0a0a;
+        touch-action: none;
+      }
+
+      #hud {
+        display: flex;
+        justify-content: space-between;
+        width: 400px;
+        max-width: 100%;
+      }
+
+      #status {
+        color: #0f0;
+        min-height: 1.2em;
+      }
+
+      #controls {
+        color: #888;
+        line-height: 1.6;
+      }
+    </style>
+  </head>
+  <body>
+    <div id="console">
+      <span id="a">joe@arcade</span>:<span id="b">~/arcade/games</span><span id="c">$</span> ./snake
+
+      <canvas id="board" width="400" height="400"></canvas>
+
+      <div id="hud">
+        <span>score: <span id="score">0</span></span>
+        <span>best: <span id="best">0</span></span>
+      </div>
+      <p id="status">press an arrow key to start</p>
+
+      <p id="controls">
+        arrows / WASD / swipe to steer<br>
+        space to pause, R to restart<br>
+        eat the green squares, don't hit the walls or yourself
+      </p>
+
+      <p><span id="a">joe@arcade</span>:<span id="b">~/arcade/games</span><span id="c">$</span> <a href="../">cd ..</a></p>
+    </div>
+
+    <script>
+      var GRID = 20;
+      var CELL = 20;
+      var START_SPEED = 130; // ms per step
+      var MIN_SPEED = 60;
+
+      var canvas = document.getElementById("board");
+      var ctx = canvas.getContext("2d");
+      var scoreEl = document.getElementById("score");
+      var bestEl = document.getElementById("best");
+      var statusEl = document.getElementById("status");
+
+      var DIRS = {
+        up: { x: 0, y: -1 },
+        down: { x: 0, y: 1 },
+        left: { x: -1, y: 0 },
+        right: { x: 1, y: 0 }
+      };
+
+      var KEYS = {
+        ArrowUp: "up", w: "up", W: "up",
+        ArrowDown: "down", s: "down", S: "down",
+        ArrowLeft: "left", a: "left", A: "left",
+        ArrowRight: "right", d: "right", D: "right"
+      };
+
+      var snake, dir, queue, food, score, best, state, timer;
+
+      function loadBest() {
+        try { return parseInt(localStorage.getItem("snake-best"), 10) || 0; }
+        catch (e) { return 0; }
+      }
+
+      function saveBest() {
+        try { localStorage.setItem("snake-best", best); } catch (e) {}
+      }
+
+      function reset() {
+        clearTimeout(timer);
+        snake = [{ x: 9, y: 10 }, { x: 8, y: 10 }, { x: 7, y: 10 }];
+        dir = DIRS.right;
+        queue = [];
+        score = 0;
+        state = "ready"; // ready | running | paused | over
+        scoreEl.textContent = score;
+        statusEl.textContent = "press an arrow key to start";
+        placeFood();
+        draw();
+      }
+
+      function placeFood() {
+        var free = [];
+        for (var x = 0; x < GRID; x++) {
+          for (var y = 0; y < GRID; y++) {
+            if (!onSnake(x, y)) free.push({ x: x, y: y });
+          }
+        }
+        food = free.length ? free[Math.floor(Math.random() * free.length)] : null;
+      }
+
+      function onSnake(x, y) {
+        for (var i = 0; i < snake.length; i++) {
+          if (snake[i].x === x && snake[i].y === y) return true;
+        }
+        return false;
+      }
+
+      function speed() {
+        return Math.max(MIN_SPEED, START_SPEED - score * 3);
+      }
+
+      // Queue turns so two quick key presses between steps both count,
+      // but never let the snake reverse into itself.
+      function turn(name) {
+        var next = DIRS[name];
+        var last = queue.length ? queue[queue.length - 1] : dir;
+        if (next === last || (next.x === -last.x && next.y === -last.y)) return;
+        if (queue.length < 2) queue.push(next);
+      }
+
+      function step() {
+        if (queue.length) dir = queue.shift();
+        var head = { x: snake[0].x + dir.x, y: snake[0].y + dir.y };
+        var eating = food && head.x === food.x && head.y === food.y;
+
+        // The tail moves out of the way this step unless the snake is growing.
+        var body = eating ? snake : snake.slice(0, -1);
+        var hitWall = head.x < 0 || head.y < 0 || head.x >= GRID || head.y >= GRID;
+        var hitSelf = body.some(function (p) { return p.x === head.x && p.y === head.y; });
+        if (hitWall || hitSelf) return gameOver("game over");
+
+        snake.unshift(head);
+        if (eating) {
+          score++;
+          scoreEl.textContent = score;
+          if (score > best) { best = score; bestEl.textContent = best; saveBest(); }
+          placeFood();
+          if (!food) return gameOver("you filled the board. you win!");
+        } else {
+          snake.pop();
+        }
+
+        draw();
+        timer = setTimeout(step, speed());
+      }
+
+      function gameOver(message) {
+        state = "over";
+        draw();
+        statusEl.textContent = message + " - press R or tap to play again";
+      }
+
+      function start() {
+        state = "running";
+        statusEl.textContent = "";
+        timer = setTimeout(step, speed());
+      }
+
+      function togglePause() {
+        if (state === "running") {
+          clearTimeout(timer);
+          state = "paused";
+          statusEl.textContent = "paused - press space to resume";
+        } else if (state === "paused") {
+          start();
+        }
+      }
+
+      function draw() {
+        ctx.fillStyle = "#0a0a0a";
+        ctx.fillRect(0, 0, canvas.width, canvas.height);
+
+        if (food) {
+          ctx.fillStyle = "#0f0";
+          ctx.fillRect(food.x * CELL + 4, food.y * CELL + 4, CELL - 8, CELL - 8);
+        }
+
+        snake.forEach(function (p, i) {
+          ctx.fillStyle = i === 0 ? "#ff0096" : "#0bc";
+          ctx.fillRect(p.x * CELL + 1, p.y * CELL + 1, CELL - 2, CELL - 2);
+        });
+
+        if (state === "over") {
+          ctx.fillStyle = "rgba(0, 0, 0, 0.6)";
+          ctx.fillRect(0, 0, canvas.width, canvas.height);
+          ctx.fillStyle = "#fff";
+          ctx.font = "bold 24px courier, monospace";
+          ctx.textAlign = "center";
+          ctx.fillText("GAME OVER", canvas.width / 2, canvas.height / 2);
+        }
+      }
+
+      function steer(name) {
+        if (state === "over") return;
+        turn(name);
+        if (state === "ready") start();
+      }
+
+      document.addEventListener("keydown", function (e) {
+        if (KEYS[e.key]) {
+          e.preventDefault();
+          steer(KEYS[e.key]);
+        } else if (e.key === " ") {
+          e.preventDefault();
+          togglePause();
+        } else if (e.key === "r" || e.key === "R") {
+          reset();
+        }
+      });
+
+      var touchStart = null;
+      canvas.addEventListener("touchstart", function (e) {
+        e.preventDefault();
+        touchStart = { x: e.touches[0].clientX, y: e.touches[0].clientY };
+      }, { passive: false });
+
+      canvas.addEventListener("touchend", function (e) {
+        if (!touchStart) return;
+        var dx = e.changedTouches[0].clientX - touchStart.x;
+        var dy = e.changedTouches[0].clientY - touchStart.y;
+        touchStart = null;
+        if (state === "over") return reset();
+        if (Math.max(Math.abs(dx), Math.abs(dy)) < 20) return togglePause();
+        if (Math.abs(dx) > Math.abs(dy)) steer(dx > 0 ? "right" : "left");
+        else steer(dy > 0 ? "down" : "up");
+      });
+
+      best = loadBest();
+      bestEl.textContent = best;
+      reset();
+    </script>
+  </body>
+</html>
