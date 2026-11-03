@@ -1,0 +1,285 @@
+{
+  "updated": "2026-11-03T16:30:40+08:00",
+  "items": [
+    {
+      "url": "https://rikiyat.github.io/blog/weight-space-programming/",
+      "title": "Astra can read and write weights to improve Qwen",
+      "description": "A Hacker News discussion about Astra, a tool that reads and writes model weights as a way to improve the Qwen language model.",
+      "image": "https://rikiyat.github.io/images/blog/weight-space-programming.png",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2026-11-02",
+      "added": "2026-11-03"
+    },
+    {
+      "url": "https://hackertimes.ca/",
+      "title": "Show HN: Hacker Times, a New York Times-inspired version of Hacker News",
+      "description": "A personal project that presents Hacker News as a newspaper-style front page, refreshed once an hour.",
+      "image": null,
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2026-11-03",
+      "added": "2026-11-03"
+    },
+    {
+      "url": "https://github.com/JiaFeiMiao-K-Cat/DiscImageStudio",
+      "title": "DiscImageStudio: burn visible artwork onto CDs, DVDs and Blu-ray discs",
+      "description": "A tool called DiscImageStudio that prints visible artwork onto the surface of CDs, DVDs and Blu-ray discs.",
+      "image": "https://opengraph.githubassets.com/54c23be507cf4b047b5466d6bd9bd69ff9a8393e1069a00320fcf105fab1dd20/JiaFeiMiao-K-Cat/DiscImageStudio",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2026-11-03",
+      "added": "2026-11-03"
+    },
+    {
+      "url": "https://erici.eu",
+      "title": "European RISC-V Industrial Computing Initiative",
+      "description": "A European initiative focused on RISC-V processors for industrial computing.",
+      "image": "https://erici.eu/img/og-card.png",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2026-11-02",
+      "added": "2026-11-03"
+    },
+    {
+      "url": "https://github.com/NVIDIA/auto-ontology",
+      "title": "Nvidia – open-source auto-ontology",
+      "description": "A Hacker News post about an open-source automatic ontology project from Nvidia.",
+      "image": "https://opengraph.githubassets.com/5442424f0129e5f2fa6ac94d3241f5ab6ab775720449228bd0f2916d6e5e8a8e/NVIDIA/auto-ontology",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2026-11-03",
+      "added": "2026-11-03"
+    },
+    {
+      "url": "https://xkcd.com/3319/",
+      "title": "Elevators",
+      "description": "An xkcd comic about elevators and a funny take on what a reusable one would save people from.",
+      "image": "https://imgs.xkcd.com/comics/elevators.png",
+      "source": "XKCD",
+      "category": "comics",
+      "published": "2026-11-02",
+      "added": "2026-11-03"
+    },
+    {
+      "url": "https://techcrunch.com/2026/11/03/yvonne-bajela-is-bringing-17m-in-fresh-capital-to-europes-startup-scene/",
+      "title": "Yvonne Bajela is bringing $17M in fresh capital to Europe’s startup scene",
+      "description": "Evertrue Capital launches a $17 million debut fund to back early-stage AI and fintech startups in Europe.",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/11/Yvonne.jpg?resize=1171,1200",
+      "source": "TechCrunch",
+      "category": "tech",
+      "published": "2026-11-03",
+      "added": "2026-11-03"
+    },
+    {
+      "url": "https://techcrunch.com/2026/11/02/apple-watchs-ai-features-for-rewinding-and-recapping-conversations-begin-beta-testing/",
+      "title": "Apple Watch’s AI features for rewinding and recapping conversations begin beta testing",
+      "description": "Apple's new Audio Intelligence features for Apple Watch enter beta, helping users recall or take notes on conversations.",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/11/live-rewind-restaurant.jpg?resize=1200,669",
+      "source": "TechCrunch",
+      "category": "tech",
+      "published": "2026-11-03",
+      "added": "2026-11-03"
+    },
+    {
+      "url": "https://arstechnica.com/space/2026/11/at-home-in-space-opens-caps-air-and-space-museum-renovation/",
+      "title": "\"At Home in Space\" opens, caps Air and Space Museum renovation",
+      "description": "The Smithsonian's National Air and Space Museum opens its \"At Home in Space\" gallery, finishing its renovation.",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/news-103026a-lg-1152x648.jpg",
+      "source": "Ars Technica",
+      "category": "tech",
+      "published": "2026-11-02",
+      "added": "2026-11-03"
+    },
+    {
+      "url": "https://arstechnica.com/science/2026/11/research-roundup-6-cool-science-stories-we-almost-missed-7/",
+      "title": "Why large dogs age faster than small ones, and other October research highlights",
+      "description": "A roundup of October science highlights, including why large dogs age faster, invisible tattoos and trapping one antimatter particle.",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/doggos-1152x648-1793464886.jpg",
+      "source": "Ars Technica",
+      "category": "tech",
+      "published": "2026-11-02",
+      "added": "2026-11-03"
+    },
+    {
+      "url": "https://hackaday.com/2026/11/02/nemesis-gives-you-control-over-your-hyundai-head-unit/",
+      "title": "NEMESIS Gives You Control Over Your Hyundai Head Unit",
+      "description": "NEMESIS is a project that lets owners take control of the infotainment head unit in their Hyundai.",
+      "image": "https://hackaday.com/wp-content/uploads/2025/11/hyundai-uk-ioniq-5-n-performance-blue.jpg?w=800",
+      "source": "Hackaday",
+      "category": "tech",
+      "published": "2026-11-03",
+      "added": "2026-11-03"
+    },
+    {
+      "url": "https://www.smbc-comics.com/comic/borated",
+      "title": "Borated",
+      "description": "An SMBC comic titled Borated, with a bonus panel for readers who click through.",
+      "image": "https://www.smbc-comics.com/comics/1793577832-20261102.png",
+      "source": "SMBC",
+      "category": "comics",
+      "published": "2026-11-02",
+      "added": "2026-11-03"
+    },
+    {
+      "url": "https://poorlydrawnlines.com/comic/fake-email/",
+      "title": "Fake Email",
+      "description": "A Poorly Drawn Lines comic about a fake email.",
+      "image": "https://poorlydrawnlines.com/wp-content/uploads/2026/10/fake-email.png",
+      "source": "Poorly Drawn Lines",
+      "category": "comics",
+      "published": "2026-10-27",
+      "added": "2026-11-03"
+    },
+    {
+      "url": "http://existentialcomics.com/comic/679",
+      "title": "The Story of Democracy",
+      "description": "An Existential Comics strip about the story of democracy.",
+      "image": "https://static.existentialcomics.com/comics/TheStoryofDemocracy.png",
+      "source": "Existential Comics",
+      "category": "comics",
+      "published": "2026-11-02",
+      "added": "2026-11-03"
+    },
+    {
+      "url": "http://www.qwantz.com/index.php?comic=4538",
+      "title": "NEXT: sherlock batman meets sherlock, batman",
+      "description": "A Dinosaur Comics strip in which the characters riff on a meeting of famous detective and superhero characters.",
+      "image": "http://www.qwantz.com/comics/comic2-5236.png",
+      "source": "Dinosaur Comics",
+      "category": "comics",
+      "published": "2026-11-02",
+      "added": "2026-11-03"
+    },
+    {
+      "url": "https://warandpeas.com/2026/11/01/horror-movie-haunted-house-comic/",
+      "title": "Horror Movie",
+      "description": "A War and Peas comic with a horror movie theme.",
+      "image": "https://warandpeas.com/wp-content/uploads/2026/11/horror-movie-5.jpg",
+      "source": "War and Peas",
+      "category": "comics",
+      "published": "2026-11-01",
+      "added": "2026-11-03"
+    },
+    {
+      "url": "https://www.thisiscolossal.com/2026/11/jeffrey-gibson-a-real-love-thing/",
+      "title": "Jeffrey Gibson’s ‘A Real Love Thing’ Surveys a Decade of the Artist’s Multidisciplinary Practice",
+      "description": "A look at Jeffrey Gibson's exhibition surveying a decade of work, with pattern, music and queer and Indigenous themes.",
+      "image": "https://www.thisiscolossal.com/wp-content/uploads/2026/11/gibson-1.jpeg",
+      "source": "Colossal",
+      "category": "art",
+      "published": "2026-11-02",
+      "added": "2026-11-03"
+    },
+    {
+      "url": "https://publicdomainreview.org/essay/wonderful-weather",
+      "title": "Wonderful Weather: Floods and Foreboding in 17th-Century Britain",
+      "description": "An essay on the 1607 Bristol Channel flood and how early modern printers fed public appetite for strange weather stories.",
+      "image": "https://pdr-assets.b-cdn.net//essays/wonderful-weather/flood-thumb.jpg",
+      "source": "Public Domain Review",
+      "category": "art",
+      "published": "2026-10-28",
+      "added": "2026-11-03"
+    },
+    {
+      "url": "https://www.loudersound.com/bands-artists/imelda-may-nine-songs-that-changed-my-life",
+      "title": "Imelda May: The nine songs that changed my life",
+      "description": "Singer Imelda May shares the nine songs that changed her life.",
+      "image": "https://cdn.mos.cms.futurecdn.net/6XD6NdCEFPTa49RZniD7Xj-1920-80.jpg",
+      "source": "Louder",
+      "category": "music",
+      "published": "2026-11-03",
+      "added": "2026-11-03"
+    },
+    {
+      "url": "https://stereogum.com/2516399/justin-timberlake-prepping-four-part-tell-all-docuseries-featuring-janet-jackson/news/",
+      "title": "Justin Timberlake Prepping Four-Part “Tell-All” Docuseries Featuring Janet Jackson",
+      "description": "Justin Timberlake is reportedly preparing a four-part docuseries that features Janet Jackson.",
+      "image": "https://lede-admin.stereogum.com/wp-content/uploads/sites/64/2026/11/GettyImages-2300754266.jpg?w=564",
+      "source": "Stereogum",
+      "category": "music",
+      "published": "2026-11-02",
+      "added": "2026-11-03"
+    },
+    {
+      "url": "https://dailynous.com/2026/11/02/building-ai-that-can-do-philosophy-better-than-us-guest-post/",
+      "title": "Building AI That Can Do Philosophy Better Than Us (guest post)",
+      "description": "A guest post on building AI systems aimed at producing high-quality philosophical judgment on demand.",
+      "image": "https://dailynous.com/wp-content/uploads/2026/11/gif-by-Erik-Soderberg.webp",
+      "source": "Daily Nous",
+      "category": "philosophy",
+      "published": "2026-11-02",
+      "added": "2026-11-03"
+    },
+    {
+      "url": "https://news.un.org/feed/view/en/story/2026/11/1168722",
+      "title": "Ukraine: WFP provides hot meals to Oleshky evacuees as UN pushes to restore power before winter",
+      "description": "The World Food Programme is giving hot meals to people evacuated from Oleshky, Ukraine, as the UN works to restore power before winter.",
+      "image": "https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Production%20Library/UNICEF%20Oleksii%20Filippov%204.jpg/image560x340cropped.jpg",
+      "source": "UN News",
+      "category": "humanitarian",
+      "published": "2026-11-02",
+      "added": "2026-11-03"
+    },
+    {
+      "url": "https://www.positive.news/society/the-womens-boxing-nights-helping-abuse-survivors/",
+      "title": "The women’s boxing nights helping abuse survivors",
+      "description": "A new series of women's boxing nights raises money for free classes that help abuse survivors rebuild confidence.",
+      "image": "https://www.positive.news/wp-content/uploads/2026/10/BQ3A3519-scaled.jpg",
+      "source": "Positive News",
+      "category": "humanitarian",
+      "published": "2026-11-02",
+      "added": "2026-11-03"
+    },
+    {
+      "url": "https://flowingdata.com/2026/11/02/early-voting-jumps/",
+      "title": "Early voting jumps",
+      "description": "A short note on New York Times charts showing how early voting numbers have risen ahead of the midterms.",
+      "image": "https://flowingdata.com/wp-content/uploads/2026/11/early-turnout-750x627.png",
+      "source": "FlowingData",
+      "category": "visual",
+      "published": "2026-11-02",
+      "added": "2026-11-03"
+    },
+    {
+      "url": "https://www.quantamagazine.org/is-there-anything-left-in-the-dream-of-cold-fusion-20261102/",
+      "title": "Is There Anything Left in the Dream of Cold Fusion?",
+      "description": "Quanta looks at the research still going on around cold fusion, including work with exotic atoms that pushes the limits of physics.",
+      "image": "https://www.quantamagazine.org/wp-content/uploads/2026/10/Qualia-Muon-Fusion-cr.Oleg-Borodin-Default.webp",
+      "source": "Quanta Magazine",
+      "category": "nerdy",
+      "published": "2026-11-02",
+      "added": "2026-11-03"
+    },
+    {
+      "url": "https://www.metmuseum.org/art/collection/search/545027",
+      "title": "Statue of a kneeling Kushite king — Unknown artist",
+      "description": "A bronze statue with gold leaf of a kneeling Kushite king from ancient Egypt, around 721 to 664 BCE, at the Met.",
+      "image": "https://images.metmuseum.org/CRDImages/eg/web-large/DP-38848-005.jpg",
+      "source": "The Met",
+      "category": "art",
+      "published": "2026-11-03",
+      "added": "2026-11-03"
+    },
+    {
+      "url": "https://commons.wikimedia.org/wiki/File:Pez_ballesta_ondulado_(Balistapus_undulatus),_mar_Rojo,_Egipto,_2023-04-15,_DD_45.jpg",
+      "title": "Orange-lined triggerfish in the Red Sea",
+      "description": "An orange-lined triggerfish swimming near a coral reef in the Red Sea off Egypt. The species lives across the Indo-western Pacific.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7a/Pez_ballesta_ondulado_%28Balistapus_undulatus%29%2C_mar_Rojo%2C_Egipto%2C_2023-04-15%2C_DD_45.jpg/960px-Pez_ballesta_ondulado_%28Balistapus_undulatus%29%2C_mar_Rojo%2C_Egipto%2C_2023-04-15%2C_DD_45.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "source": "Wikimedia Picture of the Day",
+      "category": "visual",
+      "published": "2026-11-03",
+      "added": "2026-11-03"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Sputnik_2",
+      "title": "On this day in 1957",
+      "description": "The Soviet Union launches Sputnik 2, carrying the dog Laika, the first living creature to orbit Earth.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/33/Laika_ac_Sputnik_2_Replica_%286995685051%29.jpg/330px-Laika_ac_Sputnik_2_Replica_%286995685051%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "source": "Wikipedia On this day",
+      "category": "nerdy",
+      "published": "2026-11-03",
+      "added": "2026-11-03"
+    }
+  ]
+}
