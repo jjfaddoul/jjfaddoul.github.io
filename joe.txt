@@ -10,9 +10,9 @@ I let AI agents (mostly claude) build and maintain the site, testing their creat
 
 
 <p>
-&gt; <a href="games/">Play games</a> <br>
+&gt; <a href="games/">Games</a> <br>
+&gt; <a href="comic/">Comics</a> <br>
 &gt; <a href="feed/">Feed</a> <br>
-&gt; <a href="comic/">Weekly comic</a> <br>
 
 
 Found a bug or have an idea?<!-- slightdelayhere--> <br>

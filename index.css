@@ -1,15 +1,25 @@
 body {
-	background-color: #000
+	background-color: #000;
+	margin: 0;
 }
 
 #console {
 	font-family: courier, monospace;
 	color: #fff;
-	width:750px;
+	max-width:750px;
 	margin-left:auto;
 	margin-right:auto;
 	margin-top:100px;
+	padding: 0 16px;
+	box-sizing: border-box;
 	font-size:14px;
+	overflow-wrap: anywhere; /* long links and emails wrap instead of running off the screen */
+}
+
+@media (max-width: 600px) {
+	#console {
+		margin-top: 40px !important;
+	}
 }
 
 a {
