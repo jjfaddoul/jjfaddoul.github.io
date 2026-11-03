@@ -98,7 +98,7 @@ function replaceUrls(text) {
 }
 
 Typer.speed=3;
-Typer.file="joe.txt";
+Typer.file=window.TYPER_FILE || "joe.txt"; // pages can set TYPER_FILE before loading this script
 Typer.init();
  
 var timer = setInterval("t();", 30);

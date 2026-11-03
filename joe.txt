@@ -2,7 +2,7 @@
 <span id="a">joe@arcade</span>:<span id="b">~/arcade</span><span id="c">$</span> cat <!-- laglaglaglaglaglaglaglaglag -->readme.txt<br/><br/>
 You've found Joe's arcade.
 <!-- laglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglag -->
-Small web games and silly apps I made for fun.
+Small web games I made for fun.
 Most take under a minute. None of them are useful.
 <!-- laglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglag -->
 My perfect date? "<span id="k">yy mm dd</span>". <!-- sjkfhskjf -->
@@ -11,7 +11,6 @@ My perfect date? "<span id="k">yy mm dd</span>". <!-- sjkfhskjf -->
 
 <p>
 &gt; <a href="games/">Play games</a> <br>
-&gt; <a href="apps/">Silly apps</a> <br>
 
 
 Found a bug or have an idea?<!-- slightdelayhere--> <br>
