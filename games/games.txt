@@ -1,5 +1,5 @@
-<span id="a">joe@arcade</span>:<span id="b">~/arcade</span><span id="c">$</span> cd <!-- laglaglaglaglaglag -->games/
-<span id="a">joe@arcade</span>:<span id="b">~/arcade/games</span><span id="c">$</span> ls <!-- laglaglaglaglaglaglaglaglag -->-l<br/><br/>
+<span id="a">joe@ai</span>:<span id="b">~/ai</span><span id="c">$</span> cd <!-- laglaglaglaglaglag -->games/
+<span id="a">joe@ai</span>:<span id="b">~/ai/games</span><span id="c">$</span> ls <!-- laglaglaglaglaglaglaglaglag -->-l<br/><br/>
 <!-- laglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglag -->
 <span id="op">-rwxr-xr-x  joe</span>  <a href="snake/">snake</a>     eat, grow, don't bite yourself
 <span id="op">-rwxr-xr-x  joe  game_02</span>   [ coming soon ]
@@ -9,4 +9,4 @@
 Click a game to play. More on the way.
 <!-- slightdelayhere-->
 
-<p><span id="a">joe@arcade</span>:<span id="b">~/arcade/games</span><span id="c">$</span> <a href="../">cd ..</a></p>
+<p><span id="a">joe@ai</span>:<span id="b">~/ai/games</span><span id="c">$</span> <a href="../">cd ..</a></p>
