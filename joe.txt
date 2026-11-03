@@ -10,9 +10,8 @@ My perfect date? "<span id="k">yy mm dd</span>". <!-- sjkfhskjf -->
 
 
 <p>
-&gt; <a href="arcade.html#games">Play games</a> <br>
-&gt; <a href="arcade.html#apps">Silly apps</a> <br>
-&gt; <a href="arcade.html#about">About</a> <br>
+&gt; <a href="games/">Play games</a> <br>
+&gt; <a href="apps/">Silly apps</a> <br>
 
 
 Found a bug or have an idea?<!-- slightdelayhere--> <br>
