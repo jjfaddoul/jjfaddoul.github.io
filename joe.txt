@@ -11,6 +11,7 @@ My perfect date? "<span id="k">yy mm dd</span>". <!-- sjkfhskjf -->
 
 <p>
 &gt; <a href="games/">Play games</a> <br>
+&gt; <a href="feed/">Feed</a> <br>
 
 
 Found a bug or have an idea?<!-- slightdelayhere--> <br>

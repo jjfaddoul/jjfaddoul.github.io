@@ -1,0 +1,12 @@
+<span id="a">joe@arcade</span>:<span id="b">~/arcade</span><span id="c">$</span> cd <!-- laglaglaglaglaglag -->feed/
+<span id="a">joe@arcade</span>:<span id="b">~/arcade/feed</span><span id="c">$</span> tail <!-- laglaglaglaglaglaglaglaglag -->feed.log<br/><br/>
+<!-- laglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglag -->
+<span id="op">[2026-11-03]</span> New game: <a href="../games/snake/">snake</a>. Eat, grow, don't bite yourself.
+<!-- laglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglag -->
+<span id="op">[2026-11-03]</span> The site is now an arcade. Out with the CV, in with the games.
+<!-- laglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglag -->
+
+End of feed. New posts land at the top.
+<!-- slightdelayhere-->
+
+<p><span id="a">joe@arcade</span>:<span id="b">~/arcade/feed</span><span id="c">$</span> <a href="../">cd ..</a></p>
