@@ -1,0 +1,270 @@
+<!doctype html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Joe's Arcade - Weekly Comic</title>
+    <link rel="stylesheet" type="text/css" href="../index.css">
+    <style>
+      #console {
+        width: auto;
+        max-width: 800px;
+        padding: 0 16px;
+        margin-top: 60px;
+        box-sizing: border-box;
+      }
+
+      h1 {
+        color: #0f0;
+        font-size: 28px;
+        margin: 16px 0 8px;
+      }
+
+      #subtitle {
+        color: #888;
+        line-height: 1.6;
+      }
+
+      #progress {
+        color: #0f0;
+        margin-top: 16px;
+      }
+
+      .strip {
+        border: 2px solid #0f0;
+        background-color: #0a0a0a;
+        margin-top: 32px;
+      }
+
+      .strip-head {
+        display: flex;
+        justify-content: space-between;
+        gap: 16px;
+        padding: 12px 16px;
+        border-bottom: 1px solid #0f0;
+        font-size: 12px;
+      }
+
+      .week {
+        color: #ff0096;
+        text-transform: uppercase;
+      }
+
+      .date {
+        color: #888;
+      }
+
+      .art {
+        display: block;
+        background-color: #fff;
+      }
+
+      .art img {
+        display: block;
+        width: 100%;
+        height: auto;
+      }
+
+      .missing {
+        color: #0f0;
+        background-color: #1a1a1a;
+        padding: 80px 16px;
+        text-align: center;
+      }
+
+      .strip-body {
+        padding: 16px;
+        display: flex;
+        flex-direction: column;
+        gap: 10px;
+      }
+
+      .caption {
+        color: #fff;
+        font-family: Georgia, "Times New Roman", serif;
+        font-style: italic;
+        font-size: 16px;
+        line-height: 1.5;
+        text-align: center;
+        padding-bottom: 6px;
+      }
+
+      .title {
+        color: #0bc;
+        font-size: 18px;
+        font-weight: bold;
+      }
+
+      .story,
+      .meta {
+        color: #888;
+        font-size: 12px;
+        line-height: 1.5;
+      }
+
+      details {
+        border-top: 1px solid #333;
+        padding-top: 10px;
+        font-size: 13px;
+      }
+
+      summary {
+        color: #0f0;
+        cursor: pointer;
+      }
+
+      .why h3 {
+        color: #ff0096;
+        font-size: 11px;
+        text-transform: uppercase;
+        margin: 14px 0 4px;
+      }
+
+      .why p {
+        color: #fff;
+        line-height: 1.6;
+        margin: 0;
+      }
+
+      #empty {
+        color: #888;
+        margin-top: 32px;
+        line-height: 1.6;
+      }
+
+      #back {
+        margin: 40px 0;
+        padding-top: 20px;
+        border-top: 1px solid #888;
+      }
+    </style>
+  </head>
+  <body>
+    <div id="console">
+      <span id="a">joe@arcade</span>:<span id="b">~/arcade/comic</span><span id="c">$</span> ls weekly/
+
+      <h1>WEEKLY COMIC</h1>
+      <div id="subtitle">
+        An experiment in whether AI can write satire. Once a week an AI picks a story from Yahoo News
+        and draws a satirical cartoon about it. The story, the joke and the style are all its own choice.
+        Each cartoon comes with the AI's notes on why it picked the story and how the joke is meant to land.
+      </div>
+      <div id="progress"></div>
+
+      <div id="comics"></div>
+      <p id="empty" hidden></p>
+
+      <div id="back">
+        <span id="a">joe@arcade</span>:<span id="b">~/arcade/comic</span><span id="c">$</span> <a href="../">cd ..</a>
+      </div>
+    </div>
+
+    <script>
+      var TARGET = 52;
+      var NOTES = [
+        ["why_this_story", "why this story"],
+        ["how_the_joke_works", "how the joke works"],
+        ["intended_landing", "how it's meant to land"]
+      ];
+      var listEl = document.getElementById("comics");
+      var emptyEl = document.getElementById("empty");
+
+      function el(tag, className, text) {
+        var node = document.createElement(tag);
+        if (className) node.className = className;
+        if (text) node.textContent = text;
+        return node;
+      }
+
+      function safeUrl(url) {
+        return /^https?:\/\//i.test(url || "") ? url : null;
+      }
+
+      // Comic images live next to this page; allow only plain file names.
+      function safeImage(name) {
+        return /^[\w.-]+\.(png|jpe?g|gif|webp|svg)$/i.test(name || "") ? name : null;
+      }
+
+      function link(text, href) {
+        var a = el("a", "", text);
+        a.href = href;
+        a.target = "_blank";
+        a.rel = "noopener";
+        return a;
+      }
+
+      function strip(comic, number) {
+        var box = el("article", "strip");
+
+        var head = el("div", "strip-head");
+        head.appendChild(el("span", "week", "#" + number + " · week " + comic.week));
+        head.appendChild(el("span", "date", comic.posted));
+        box.appendChild(head);
+
+        var image = safeImage(comic.image);
+        if (image) {
+          var art = link("", image);
+          art.className = "art";
+          var img = el("img");
+          img.src = image;
+          img.alt = comic.alt || comic.title;
+          img.loading = "lazy";
+          img.onerror = function () { art.replaceWith(el("div", "missing", "> comic not found_")); };
+          art.appendChild(img);
+          box.appendChild(art);
+        } else {
+          box.appendChild(el("div", "missing", "> comic not found_"));
+        }
+
+        var body = el("div", "strip-body");
+        if (comic.caption) body.appendChild(el("div", "caption", comic.caption));
+        body.appendChild(el("div", "title", comic.title));
+
+        var story = comic.story || {};
+        var storyUrl = safeUrl(story.url);
+        if (storyUrl) {
+          var ref = el("div", "story", "based on: ");
+          ref.appendChild(link(story.title || storyUrl, storyUrl));
+          var extra = [story.source, story.published].filter(Boolean).join(", ");
+          if (extra) ref.appendChild(document.createTextNode(" (" + extra + ")"));
+          body.appendChild(ref);
+        }
+
+        body.appendChild(el("div", "meta", "drawn by " + comic.model + " · posted " + comic.posted));
+
+        var notes = comic.rationale || {};
+        if (NOTES.some(function (n) { return notes[n[0]]; })) {
+          var details = el("details");
+          details.appendChild(el("summary", "", "> the AI's notes"));
+          var why = el("div", "why");
+          NOTES.forEach(function (n) {
+            if (!notes[n[0]]) return;
+            why.appendChild(el("h3", "", n[1]));
+            why.appendChild(el("p", "", notes[n[0]]));
+          });
+          details.appendChild(why);
+          body.appendChild(details);
+        }
+
+        box.appendChild(body);
+        return box;
+      }
+
+      fetch("comics.json", { cache: "no-cache" })
+        .then(function (r) { return r.json(); })
+        .then(function (data) {
+          var comics = (data.comics || []).filter(function (c) { return c.title && c.posted && c.week; });
+          document.getElementById("progress").textContent = "[" + comics.length + "/" + TARGET + "] comics";
+          comics.forEach(function (c, i) { listEl.appendChild(strip(c, comics.length - i)); });
+          if (!comics.length) {
+            emptyEl.hidden = false;
+            emptyEl.textContent = "the first comic is on its way.";
+          }
+        })
+        .catch(function () {
+          emptyEl.hidden = false;
+          emptyEl.textContent = "the comics couldn't load. try again later.";
+        });
+    </script>
+  </body>
+</html>

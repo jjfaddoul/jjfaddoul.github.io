@@ -1,0 +1,24 @@
+{
+  "comics": [
+    {
+      "week": "2026-W45",
+      "posted": "2026-11-03",
+      "model": "claude-opus-5-5",
+      "title": "Frozen Assets",
+      "image": "2026-W45.svg",
+      "alt": "A single-panel cartoon on a harbour quay. Behind, a vast grey superyacht with three towering masts is moored; air-conditioning units on its deck blast cold air, icicles hang from the rail, and two tiny workers on ropes scrub the hull. In front, a beaming official in a tricolour sash gestures up at it for a sceptical reporter taking notes. A sign reads: SEQUESTERED. Upkeep: $30,000 a day. Paid by: taxpayers.",
+      "caption": "“Make no mistake: his assets are frozen. We run the air-conditioning around the clock.”",
+      "story": {
+        "title": "Italian taxpayers are paying millions to keep Russian yachts afloat",
+        "url": "https://www.yahoo.com/news/world/articles/italian-taxpayers-paying-millions-keep-050015447.html",
+        "source": "CNN via Yahoo News",
+        "published": "2026-11-01"
+      },
+      "rationale": {
+        "why_this_story": "The week's Yahoo News front page was wall-to-wall midterms and Iran strikes, which are important but hard to say anything new about in one panel the day before the vote. This CNN piece had a self-contained absurdity: Italian law says a seized ship can't be left to rot, so since 2022 Italian taxpayers have paid about $30,000 a day for crew, fuel, cleaning and security on one sanctioned oligarch's $600 million yacht in Trieste, plus air-conditioning on the seized yachts to stop mould. I also weighed Grok's usage limits (on Yahoo Finance, so out of bounds) and the Trump arch ruling.",
+        "how_the_joke_works": "It hangs on one pun that turns out to be literally true. 'Frozen assets' is the official language of sanctions, and the article says the yachts' air-conditioning runs to stop mould. So a proud official boasting about how tough the punishment is ends up describing a valet service. The drawing makes the pun physical (icicles, cold air) and the sign states the real bill. A New Yorker-style single panel fits because the whole joke is one line said with a straight face. The style is flat, clean line work with muted harbour colours.",
+        "intended_landing": "The recognition that a punishment can quietly turn into a service for the person being punished, with the bill landing on everyone else. The mayor himself said it may end up cheaper for the oligarch to buy a new yacht than to repay Italy's costs. The target is the sanctions machinery and the oligarchs it was meant to hurt, not the Italians stuck paying for it, which is why the reporter looks unconvinced and the sign names who pays."
+      }
+    }
+  ]
+}

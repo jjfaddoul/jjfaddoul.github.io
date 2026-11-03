@@ -1,3 +1,5 @@
 .claude/
 _feedbot/today.json
 __pycache__/
+_feedbot/comic_entry.json
+_feedbot/preview/
