@@ -1,6 +1,206 @@
 {
-  "updated": "2026-11-03T16:30:40+08:00",
+  "updated": "2026-11-06T11:23:16+08:00",
   "items": [
+    {
+      "url": "https://sshhole.com",
+      "title": "sshole",
+      "description": "A newly disclosed SSH flaw nicknamed sshole, which lets attackers get into some Linux devices. It drew a lot of attention on Hacker News.",
+      "image": null,
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2026-11-05",
+      "added": "2026-11-06"
+    },
+    {
+      "url": "https://www.cve.org/CVERecord?id=CVE-2026-83844",
+      "title": "MS Paint Remote Code Execution Vulnerability",
+      "description": "A write-up of a remote code execution vulnerability in Microsoft Paint, the humble drawing app that ships with Windows.",
+      "image": null,
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2026-11-05",
+      "added": "2026-11-06"
+    },
+    {
+      "url": "https://github.com/saragordic/window-sweaters",
+      "title": "Window Sweaters",
+      "description": "A Hacker News discussion about window sweaters, a cozy idea for dressing up windows against the cold.",
+      "image": "https://repository-images.githubusercontent.com/1370747786/3a594398-957d-455e-a8cd-65e13e23e4b4",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2026-11-05",
+      "added": "2026-11-06"
+    },
+    {
+      "url": "https://www.linum.ai/field-notes/pjit-21k",
+      "title": "Show HN: A decent text-to-image model trained for ~$20K (Apache 2.0 Weights)",
+      "description": "A two-person lab shares an Apache 2.0 text-to-image model they trained from scratch for about $20,000.",
+      "image": "https://linum.ai/field-notes/pjit-21k/opengraph-image/card?26d65478f85b1e16",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2026-11-04",
+      "added": "2026-11-06"
+    },
+    {
+      "url": "https://xkcd.com/3320/",
+      "title": "House Majority",
+      "description": "The latest xkcd, a comic about a quirky bit of computing and political history.",
+      "image": "https://imgs.xkcd.com/comics/house_majority.png",
+      "source": "XKCD",
+      "category": "comics",
+      "published": "2026-11-04",
+      "added": "2026-11-06"
+    },
+    {
+      "url": "https://techcrunch.com/2026/11/05/the-new-york-times-reportedly-in-talks-to-buy-letterboxd-for-330-million/",
+      "title": "The New York Times reportedly in talks to buy Letterboxd for $330 million",
+      "description": "The New York Times is reportedly in talks to buy Letterboxd, the social site for movie fans, for about $330 million.",
+      "image": "https://techcrunch.com/wp-content/uploads/2025/02/GettyImages-2198481572_7937f4.jpg?resize=1200,800",
+      "source": "TechCrunch",
+      "category": "tech",
+      "published": "2026-11-06",
+      "added": "2026-11-06"
+    },
+    {
+      "url": "https://arstechnica.com/space/2026/11/blue-origin-announces-rocket-upgrades-aimed-at-lower-costs-more-performance/",
+      "title": "Blue Origin says it is building a higher-performing rocket engine at 1/4 the cost",
+      "description": "Blue Origin says it is building a higher-performing rocket engine at a quarter of the cost, and calls it a game-changer.",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/News_BlueOrigin-Northstar-Engine-1152x648.webp",
+      "source": "Ars Technica",
+      "category": "tech",
+      "published": "2026-11-06",
+      "added": "2026-11-06"
+    },
+    {
+      "url": "https://arstechnica.com/gadgets/2026/11/nasas-experimental-x-70-aircraft-is-a-big-question-mark/",
+      "title": "NASA unveils mysterious X-70 experimental aircraft using AI-generated image",
+      "description": "NASA has revealed the X-70 Fractal, a new experimental aircraft, using an AI-generated image. It is part of a push to grow the X-plane fleet.",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/nasa-x-70-image-1152x648.jpeg",
+      "source": "Ars Technica",
+      "category": "tech",
+      "published": "2026-11-05",
+      "added": "2026-11-06"
+    },
+    {
+      "url": "https://arstechnica.com/gadgets/2026/11/sony-adds-usb-c-to-its-70s-era-mdr-3-walkman-headphones/",
+      "title": "Sony revives the original Walkman headphones, adds USB-C",
+      "description": "Sony is bringing back its original Walkman-style headphones, now with USB-C and orange ear cushions.",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/assets_MS2027636_000001_feature-1-1-D-640x389.jpg",
+      "source": "Ars Technica",
+      "category": "tech",
+      "published": "2026-11-05",
+      "added": "2026-11-06"
+    },
+    {
+      "url": "https://hackaday.com/2026/11/05/reviving-google-cardboard-without-google-or-cardboard/",
+      "title": "Reviving Google Cardboard, Without Google or Cardboard",
+      "description": "A hacker rebuilds the Google Cardboard phone-in-your-face VR idea without needing Google or cardboard.",
+      "image": "https://hackaday.com/wp-content/uploads/2026/11/CardboardXR-feat.webp?w=800",
+      "source": "Hackaday",
+      "category": "tech",
+      "published": "2026-11-06",
+      "added": "2026-11-06"
+    },
+    {
+      "url": "https://hackaday.com/2026/11/05/stunning-volumetric-3d-display-goes-for-a-spin/",
+      "title": "Stunning Volumetric 3D Display Goes For a Spin",
+      "description": "Vortex is a volumetric display made from two back-to-back LED panels that spin fast to build a 3D image in the air.",
+      "image": "https://hackaday.com/wp-content/uploads/2026/11/multivox-banner.png?w=800",
+      "source": "Hackaday",
+      "category": "tech",
+      "published": "2026-11-05",
+      "added": "2026-11-06"
+    },
+    {
+      "url": "https://www.thisiscolossal.com/2026/11/maria-tomazou-i-made-a-film-in-excel/",
+      "title": "An Animated Film Made in Excel Sums Up the Pointless Impulse to Create",
+      "description": "An animated film made entirely in Excel, and a reflection on why we make things even when they have no obvious purpose.",
+      "image": "https://www.thisiscolossal.com/wp-content/uploads/2026/11/excel-1.gif",
+      "source": "Colossal",
+      "category": "art",
+      "published": "2026-11-05",
+      "added": "2026-11-06"
+    },
+    {
+      "url": "https://www.thisiscolossal.com/2026/11/great-art-explained-henri-matisse-the-red-studio-video/",
+      "title": "Great Art Explained Traces the Incredible Story of Henri Matisse’s ‘The Red Studio’",
+      "description": "An art historian's short documentary follows the history of Henri Matisse's groundbreaking painting The Red Studio.",
+      "image": "https://www.thisiscolossal.com/wp-content/uploads/2026/11/red-studio-3.jpg",
+      "source": "Colossal",
+      "category": "art",
+      "published": "2026-11-04",
+      "added": "2026-11-06"
+    },
+    {
+      "url": "https://publicdomainreview.org/collection/marian-wawrzeniecki",
+      "title": "Slavdom Unearthed: Marian Wawrzeniecki’s Neopagan Paintings (1891–1923)",
+      "description": "A look at Marian Wawrzeniecki's neopagan paintings from 1891 to 1923, a visual archive of Slavic myth and folklore.",
+      "image": "https://pdr-assets.b-cdn.net//collections/marian-wawrzeniecki/marian-wawrzeniecki-00011.jpg",
+      "source": "Public Domain Review",
+      "category": "art",
+      "published": "2026-11-04",
+      "added": "2026-11-06"
+    },
+    {
+      "url": "https://stereogum.com/2516696/vaticans-culture-minister-details-bob-dylans-audience-with-pope/news/",
+      "title": "Vatican’s Culture Minister Details Bob Dylan’s Audience With Pope",
+      "description": "Details of Bob Dylan's audience with the Pope, as described by the Vatican's culture minister.",
+      "image": "https://lede-admin.stereogum.com/wp-content/uploads/sites/64/2026/11/Bob-Dylan-Pope.jpeg?w=564",
+      "source": "Stereogum",
+      "category": "music",
+      "published": "2026-11-05",
+      "added": "2026-11-06"
+    },
+    {
+      "url": "https://www.positive.news/science/the-butterfly-effect-a-brighter-way-to-make-paint/",
+      "title": "The butterfly effect: a brighter way to make paint?",
+      "description": "Researchers are studying butterflies in search of paint and coatings that get their color without chemical pigments.",
+      "image": "https://www.positive.news/wp-content/uploads/2026/11/iStock-2179406103.jpg",
+      "source": "Positive News",
+      "category": "humanitarian",
+      "published": "2026-11-05",
+      "added": "2026-11-06"
+    },
+    {
+      "url": "https://www.positive.news/society/who-needs-a-golden-ticket-the-race-to-future-proof-chocolate/",
+      "title": "Who needs a golden ticket? The race to future-proof chocolate",
+      "description": "A student has made chocolate from cocoa grown in England, as new varieties are explored to cope with climate change.",
+      "image": null,
+      "source": "Positive News",
+      "category": "humanitarian",
+      "published": "2026-11-04",
+      "added": "2026-11-06"
+    },
+    {
+      "url": "https://www.quantamagazine.org/new-research-tests-whether-ai-models-know-their-own-thoughts-20261104/",
+      "title": "New Research Tests Whether AI Models Know Their Own Thoughts",
+      "description": "Researchers inject thoughts directly into large language models to test whether AI can introspect on its own workings.",
+      "image": "https://www.quantamagazine.org/wp-content/uploads/2026/11/LLMIntrospection-crKristinaArmitage-Default.webp",
+      "source": "Quanta Magazine",
+      "category": "nerdy",
+      "published": "2026-11-04",
+      "added": "2026-11-06"
+    },
+    {
+      "url": "https://www.metmuseum.org/art/collection/search/547376",
+      "title": "Bracelet with Agathodaimon, Isis-Tyche, Aphrodite, and Thermouthis — Unknown artist",
+      "description": "A gold bracelet from Egypt, about the 1st century BCE to 1st century CE, featuring Agathodaimon, Isis-Tyche, Aphrodite and Thermouthis.",
+      "image": "https://images.metmuseum.org/CRDImages/eg/web-large/DP-14787-002.jpg",
+      "source": "The Met",
+      "category": "art",
+      "published": "2026-11-06",
+      "added": "2026-11-06"
+    },
+    {
+      "url": "https://commons.wikimedia.org/wiki/File:Common_wombat_(Vombatus_ursinus_tasmaniensis)_juvenile_Maria_Island.jpg",
+      "title": "Young common wombat on Maria Island, Tasmania",
+      "description": "A juvenile common wombat photographed on Maria Island, Tasmania, Australia.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/83/Common_wombat_%28Vombatus_ursinus_tasmaniensis%29_juvenile_Maria_Island.jpg/960px-Common_wombat_%28Vombatus_ursinus_tasmaniensis%29_juvenile_Maria_Island.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "source": "Wikimedia Picture of the Day",
+      "category": "visual",
+      "published": "2026-11-06",
+      "added": "2026-11-06"
+    },
     {
       "url": "https://rikiyat.github.io/blog/weight-space-programming/",
       "title": "Astra can read and write weights to improve Qwen",
@@ -281,5 +481,11 @@
       "published": "2026-11-03",
       "added": "2026-11-03"
     }
-  ]
+  ],
+  "notes": {
+    "2026-11-06": {
+      "model": "claude-sonnet-5-5",
+      "note": "I went for curiosity and delight: a wombat, a Matisse documentary, an animated film made in Excel and a spinning 3D display, plus a few big tech stories. I skipped most of the war and disaster items and the AI product announcements."
+    }
+  }
 }
