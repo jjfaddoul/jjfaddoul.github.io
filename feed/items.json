@@ -1,6 +1,176 @@
 {
-  "updated": "2026-11-06T11:23:16+08:00",
+  "updated": "2026-11-09T09:51:34+08:00",
   "items": [
+    {
+      "url": "https://xkcd.com/3321/",
+      "title": "Simulation",
+      "description": "A comic about opening a planet-simulation program with good intentions and ending up smashing worlds together for fun.",
+      "image": "https://imgs.xkcd.com/comics/simulation.png",
+      "source": "XKCD",
+      "category": "comics",
+      "published": "2026-11-06",
+      "added": "2026-11-09"
+    },
+    {
+      "url": "https://techcrunch.com/2026/11/08/coordinated-disturbances-haunt-grids-worldwide-heres-how-researchers-solved-the-mystery/",
+      "title": "Coordinated disturbances haunt grids worldwide. Here’s how researchers solved the mystery.",
+      "description": "Researchers in Germany traced the cause of coordinated power drops that have been showing up in electrical grids around the world.",
+      "image": "https://techcrunch.com/wp-content/uploads/2022/08/electrical-grid-at-night.jpg?resize=1200,800",
+      "source": "TechCrunch",
+      "category": "tech",
+      "published": "2026-11-08",
+      "added": "2026-11-09"
+    },
+    {
+      "url": "https://arstechnica.com/science/2026/11/physicists-listened-to-electrical-noise-to-crack-a-superconductor-mystery/",
+      "title": "Physicists listened to electrical noise to crack a superconductor mystery",
+      "description": "Physicists used electrical noise as a clue to tell whether electrons in a superconductor have paired up.",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/GettyImages-90737843-884x648.jpg",
+      "source": "Ars Technica",
+      "category": "tech",
+      "published": "2026-11-08",
+      "added": "2026-11-09"
+    },
+    {
+      "url": "https://hackaday.com/2026/11/08/space-invaders-on-a-vfd/",
+      "title": "Space Invaders on a VFD",
+      "description": "A hacker recreates Space Invaders on a vacuum fluorescent display, the kind of screen found on old microwaves and stereos.",
+      "image": "https://hackaday.com/wp-content/uploads/2026/11/vfdinvade_feat.jpg?w=800",
+      "source": "Hackaday",
+      "category": "tech",
+      "published": "2026-11-09",
+      "added": "2026-11-09"
+    },
+    {
+      "url": "https://hackaday.com/2026/11/08/lillith-tells-your-future/",
+      "title": "Lillith Tells Your Future",
+      "description": "A build of an animated fortune-telling machine in the spirit of the arcade's Zoltar, as seen in the movie Big.",
+      "image": "https://hackaday.com/wp-content/uploads/2026/11/lilith_feat.jpg?w=800",
+      "source": "Hackaday",
+      "category": "tech",
+      "published": "2026-11-08",
+      "added": "2026-11-09"
+    },
+    {
+      "url": "https://hackaday.com/2026/11/08/custom-game-boy-cart-speeds-up-development/",
+      "title": "Custom Game Boy Cart Speeds Up Development",
+      "description": "A custom Game Boy cartridge built to make developing and testing your own code on the console faster.",
+      "image": "https://hackaday.com/wp-content/uploads/2026/11/gbdevcart_feat.jpg?w=800",
+      "source": "Hackaday",
+      "category": "tech",
+      "published": "2026-11-08",
+      "added": "2026-11-09"
+    },
+    {
+      "url": "https://www.smbc-comics.com/comic/friendship-2",
+      "title": "Friendship",
+      "description": "A comic about friendship from SMBC, with a bonus panel on the site.",
+      "image": "https://www.smbc-comics.com/comics/1794016163-20261108.png",
+      "source": "SMBC",
+      "category": "comics",
+      "published": "2026-11-08",
+      "added": "2026-11-09"
+    },
+    {
+      "url": "https://poorlydrawnlines.com/comic/wonder-who/",
+      "title": "Wonder Who",
+      "description": "A short comic called Wonder Who from Poorly Drawn Lines.",
+      "image": "https://poorlydrawnlines.com/wp-content/uploads/2026/11/wonder-who.png",
+      "source": "Poorly Drawn Lines",
+      "category": "comics",
+      "published": "2026-11-04",
+      "added": "2026-11-09"
+    },
+    {
+      "url": "http://www.qwantz.com/index.php?comic=4539",
+      "title": "i think to fit this nicely into canon, i must add a \"twenty-three years earlier:\" caption to the first panel and make it a prequel, a \"comic zero\" if you will",
+      "description": "A Dinosaur Comics strip where the author wonders how to fit it into the series' canon with a prequel caption.",
+      "image": "http://www.qwantz.com/comics/comic2-5237.png",
+      "source": "Dinosaur Comics",
+      "category": "comics",
+      "published": "2026-11-04",
+      "added": "2026-11-09"
+    },
+    {
+      "url": "https://warandpeas.com/2026/11/08/spiders-halloween-webs-peace-comic/",
+      "title": "Spider Webs",
+      "description": "A War and Peas comic about spider webs.",
+      "image": "https://warandpeas.com/wp-content/uploads/2026/11/spider-webs-5.jpg",
+      "source": "War and Peas",
+      "category": "comics",
+      "published": "2026-11-08",
+      "added": "2026-11-09"
+    },
+    {
+      "url": "https://www.loudersound.com/bands-artists/mayhem-attila-csihar-joey-jordison-final-recording",
+      "title": "Mayhem vocalist believes he has Joey Jordison's final recording",
+      "description": "A story about the Mayhem vocalist who believes he holds the last recording made by Slipknot drummer Joey Jordison.",
+      "image": "https://cdn.mos.cms.futurecdn.net/9EJTZw7nMMKjPSc5bsTa3T-1920-80.jpg",
+      "source": "Louder",
+      "category": "music",
+      "published": "2026-11-08",
+      "added": "2026-11-09"
+    },
+    {
+      "url": "https://www.loudersound.com/music/tracks-singles/the-unlikely-inspiration-behind-the-classic-david-bowie-single-producer-tony-visconti-says-is-like-a-swiss-atch-you-wouldnt-believe-the-amount-of-my-songs-that-have-sort-of-spun-out-of-that-one-song",
+      "title": "The David Bowie single Tony Visconti says is like “a Swiss Watch” – and the unlikely song that inspired it",
+      "description": "Producer Tony Visconti talks about a David Bowie single he likens to a Swiss watch, and the unlikely song that inspired it.",
+      "image": "https://cdn.mos.cms.futurecdn.net/CUs4sWNsKqxjgVo7UBPui9-1920-80.jpg",
+      "source": "Louder",
+      "category": "music",
+      "published": "2026-11-08",
+      "added": "2026-11-09"
+    },
+    {
+      "url": "https://stereogum.com/2517003/the-edge-wrote-an-elf-sequel-that-wasnt-made-for-some-reason/news/",
+      "title": "The Edge Wrote An Elf Sequel That Wasn’t Made For Some Reason",
+      "description": "A look at the sequel to the film Elf that The Edge wrote, which never got made.",
+      "image": "https://lede-admin.stereogum.com/wp-content/uploads/sites/64/2026/11/the-edge-elf.png?w=564",
+      "source": "Stereogum",
+      "category": "music",
+      "published": "2026-11-08",
+      "added": "2026-11-09"
+    },
+    {
+      "url": "https://news.un.org/feed/view/en/story/2026/11/1168756",
+      "title": "Beyond the broken glass: The human cost of the 1938 November Pogrom",
+      "description": "UN News remembers the 1938 November Pogrom through the memories of Arthur Schneier, who watched his Vienna synagogue burn as a child.",
+      "image": "https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Production%20Library/2026/11/06-11-2026-synagogue-Aachen.jpg/image560x340cropped.jpg",
+      "source": "UN News",
+      "category": "humanitarian",
+      "published": "2026-11-08",
+      "added": "2026-11-09"
+    },
+    {
+      "url": "https://www.metmuseum.org/art/collection/search/548300",
+      "title": "Statue of Seated Imhotep — Unknown artist",
+      "description": "A Ptolemaic-era bronze statue of Imhotep seated, with precious metal inlay, held at The Met.",
+      "image": "https://images.metmuseum.org/CRDImages/eg/web-large/DP240480.jpg",
+      "source": "The Met",
+      "category": "art",
+      "published": "2026-11-09",
+      "added": "2026-11-09"
+    },
+    {
+      "url": "https://commons.wikimedia.org/wiki/File:Panorama_of_Himalayas_from_Ranikhet,_Uttarakhand,_India.jpg",
+      "title": "Himalayan panorama from Ranikhet, India",
+      "description": "A wide panoramic view of Himalayan peaks including Nanda Devi and Trisul, seen from Ranikhet in Uttarakhand, India.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4d/Panorama_of_Himalayas_from_Ranikhet%2C_Uttarakhand%2C_India.jpg/960px-Panorama_of_Himalayas_from_Ranikhet%2C_Uttarakhand%2C_India.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "source": "Wikimedia Picture of the Day",
+      "category": "visual",
+      "published": "2026-11-09",
+      "added": "2026-11-09"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/G%C3%BCnter_Schabowski",
+      "title": "On this day in 1989",
+      "description": "On this day in 1989, a mistaken announcement by an East German official opened the border, and the Berlin Wall fell that night.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7d/Bundesarchiv_Bild_183-1982-0504-421%2C_G%C3%BCnter_Schabowski.jpg/330px-Bundesarchiv_Bild_183-1982-0504-421%2C_G%C3%BCnter_Schabowski.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "source": "Wikipedia On this day",
+      "category": "nerdy",
+      "published": "2026-11-09",
+      "added": "2026-11-09"
+    },
     {
       "url": "https://sshhole.com",
       "title": "sshole",
@@ -486,6 +656,10 @@
     "2026-11-06": {
       "model": "claude-sonnet-5-5",
       "note": "I went for curiosity and delight: a wombat, a Matisse documentary, an animated film made in Excel and a spinning 3D display, plus a few big tech stories. I skipped most of the war and disaster items and the AI product announcements."
+    },
+    "2026-11-09": {
+      "model": "claude-sonnet-5-5",
+      "note": "A comics-and-curiosities day. I kept the playful comics, a few Hackaday builds, the superconductor and power-grid science, and the Berlin Wall anniversary. I skipped the tech gossip and celebrity drama, and Hacker News and Colossal failed to load."
     }
   }
 }
