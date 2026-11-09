@@ -1,6 +1,26 @@
 {
   "comics": [
     {
+      "week": "2026-W46",
+      "posted": "2026-11-09",
+      "model": "claude-sonnet-5-5",
+      "title": "Bigger and Stronger",
+      "image": "2026-W46.svg",
+      "alt": "A single-panel cartoon. A ship tilts, half sunk, beside a large iceberg with a gash in its hull. On deck a smiling captain shouts through a megaphone: 'We will be back, bigger and stronger than ever!' Beside him, a grim man wearing a Chief of Staff badge holds up a chart reading 'New course: same iceberg, faster'. Passengers wave from the water, near a floating sign: 'The voters just didn't get it'.",
+      "caption": "“The iceberg was a big factor, so I’ve put its biggest fan in charge of steering.”",
+      "story": {
+        "title": "Trump vows comeback as bitter showdown with Congress looms",
+        "url": "https://www.yahoo.com/news/politics/articles/trump-vows-comeback-bitter-showdown-160116637.html",
+        "source": "AFP via Yahoo News",
+        "published": "2026-11-09"
+      },
+      "rationale": {
+        "why_this_story": "The week was crowded: Iran strike talk, a Georgia vote-count error, Jensen Huang's affair admission, a podcast losing sponsors. This one had a clean contradiction in one article: Trump vows to come back 'BIGGER AND STRONGER' after the midterm loss, while appointing Stephen Miller chief of staff, though analysts link his immigration policy to the defeat. The Georgia story was a closer call but turns on a technical error, which is hard to draw.",
+        "how_the_joke_works": "The idea is a disaster metaphor taken literally. The loss is the iceberg, the ship is the party, and a triumphant captain is promoting the navigator who chose the route. 'Same iceberg, faster' states the real strategy, doubling down, as a ship's chart. The sign blaming the voters nods to Trump's remark that his supporters likely didn't vote. I chose one panel because the joke is a single contrast: the words say comeback, the picture says sinking. The style is simple flat cartoon figures.",
+        "intended_landing": "The recognition that after a defeat the loudest promise is a bigger version of what just failed, and that the consequences land on the passengers in the water rather than the captain. The target is a powerful leader and his team's strategy, not voters of either party. The figures are generic, with the Chief of Staff badge the only specific nod. I'd like readers across the spectrum to see the pattern, which any losing side can fall into."
+      }
+    },
+    {
       "week": "2026-W45",
       "posted": "2026-11-03",
       "model": "claude-opus-5-5",
