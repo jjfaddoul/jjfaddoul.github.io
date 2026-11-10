@@ -1,6 +1,186 @@
 {
-  "updated": "2026-11-09T09:51:34+08:00",
+  "updated": "2026-11-10T10:43:45+08:00",
   "items": [
+    {
+      "url": "https://www.foldableflight.com",
+      "title": "Foldable Flight: The Best Paper Airplanes",
+      "description": "A popular guide to folding paper airplanes that fly well, shared widely on Hacker News today.",
+      "image": "https://static.wixstatic.com/media/0641fb_4ff6a49def494e379b4f3b585c4ac4a8%7Emv2_d_2482_1412_s_2.jpg/v1/fit/w_2500,h_1330,al_c/0641fb_4ff6a49def494e379b4f3b585c4ac4a8%7Emv2_d_2482_1412_s_2.jpg",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2026-11-09",
+      "added": "2026-11-10"
+    },
+    {
+      "url": "https://simonwillison.net/2026/Nov/9/mysterious-beeps/",
+      "title": "Locating the source of a mysterious beep",
+      "description": "A write-up about tracking down where a mysterious beep was coming from.",
+      "image": "https://static.simonwillison.net/static/2026/beep-locator-card.jpg",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2026-11-10",
+      "added": "2026-11-10"
+    },
+    {
+      "url": "https://xkcd.com/3322/",
+      "title": "Dragonfly",
+      "description": "An XKCD comic about looking forward to the Dragonfly mission and wanting more pictures of Titan's surface.",
+      "image": "https://imgs.xkcd.com/comics/dragonfly.png",
+      "source": "XKCD",
+      "category": "comics",
+      "published": "2026-11-09",
+      "added": "2026-11-10"
+    },
+    {
+      "url": "https://techcrunch.com/2026/11/09/fervo-now-has-12b-in-orders-for-its-geothermal-power-tech/",
+      "title": "Fervo now has $12B in orders for its geothermal power tech",
+      "description": "Geothermal company Fervo says it now has $12 billion in orders as it brings down drilling costs in Utah.",
+      "image": "https://techcrunch.com/wp-content/uploads/2025/12/fervo-geothermal-site-at-night.jpg?resize=1200,675",
+      "source": "TechCrunch",
+      "category": "tech",
+      "published": "2026-11-09",
+      "added": "2026-11-10"
+    },
+    {
+      "url": "https://arstechnica.com/gadgets/2026/11/a-sam-altman-parody-offers-an-amusing-lesson-in-memory-management/",
+      "title": "A Sam Altman parody offers an amusing lesson in memory management",
+      "description": "A parody of Sam Altman that doubles as a lesson in memory management, with the RAM numbers checked as real.",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/GettyImages-1723107474-1024x648.jpg",
+      "source": "Ars Technica",
+      "category": "tech",
+      "published": "2026-11-09",
+      "added": "2026-11-10"
+    },
+    {
+      "url": "https://arstechnica.com/space/2026/11/us-military-notionally-interested-in-satellite-constellation-around-moon/",
+      "title": "Pentagon mulls placing fleet of military satellites around the Moon",
+      "description": "The Pentagon is considering placing a fleet of military satellites in orbit around the Moon.",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/55199774765_6e77d97b51_o-1152x648.jpg",
+      "source": "Ars Technica",
+      "category": "tech",
+      "published": "2026-11-09",
+      "added": "2026-11-10"
+    },
+    {
+      "url": "https://www.smbc-comics.com/comic/learn-3",
+      "title": "Learn",
+      "description": "An SMBC comic about learning, with a bonus panel for those who click through.",
+      "image": "https://www.smbc-comics.com/comics/1794186749-20261109.png",
+      "source": "SMBC",
+      "category": "comics",
+      "published": "2026-11-09",
+      "added": "2026-11-10"
+    },
+    {
+      "url": "http://existentialcomics.com/comic/680",
+      "title": "The Forced Veil of Ignorance",
+      "description": "An Existential Comics strip playing with the philosophical idea of the veil of ignorance.",
+      "image": "https://static.existentialcomics.com/comics/TheForcedVeilofIgnorance.png",
+      "source": "Existential Comics",
+      "category": "comics",
+      "published": "2026-11-09",
+      "added": "2026-11-10"
+    },
+    {
+      "url": "http://www.qwantz.com/index.php?comic=4540",
+      "title": "you can't argue that Watchmen 2 has something to say, you can only argue whether or not you are willing to hear it",
+      "description": "A Dinosaur Comics strip musing about the film Watchmen and what a sequel might have to say.",
+      "image": "http://www.qwantz.com/comics/comic2-5238.png",
+      "source": "Dinosaur Comics",
+      "category": "comics",
+      "published": "2026-11-09",
+      "added": "2026-11-10"
+    },
+    {
+      "url": "https://www.thisiscolossal.com/2026/11/son-lux-alex-cook-out-into-us-music-video/",
+      "title": "Son Lux’s Music Video for ‘Out Into Us’ Is an Atmospheric Foray Between Past and Present",
+      "description": "A music video for Son Lux's 'Out Into Us', commissioned by MASS MoCA and Pioneer Works, moving between past and present.",
+      "image": "https://www.thisiscolossal.com/wp-content/uploads/2026/11/son-lux-4.gif",
+      "source": "Colossal",
+      "category": "art",
+      "published": "2026-11-09",
+      "added": "2026-11-10"
+    },
+    {
+      "url": "https://www.thisiscolossal.com/2026/11/kelly-sinnapah-mary-foliage-portraits/",
+      "title": "Caribbean Surrealism and Ancestral Memory Merge in Kelly Sinnapah Mary’s Lush Portraits",
+      "description": "Portraits by Kelly Sinnapah Mary in which a central figure is tattooed with foliage and emerges from the plants around her.",
+      "image": "https://www.thisiscolossal.com/wp-content/uploads/2026/11/mary-5.jpg",
+      "source": "Colossal",
+      "category": "art",
+      "published": "2026-11-09",
+      "added": "2026-11-10"
+    },
+    {
+      "url": "https://www.loudersound.com/bands-artists/paul-stanley-screentest",
+      "title": "Watch an unintentionally hilarious Paul Stanley screentest from the early 1980s",
+      "description": "A screentest of Paul Stanley from the early 1980s that Louder finds unintentionally hilarious.",
+      "image": "https://cdn.mos.cms.futurecdn.net/dYf62yc3gkAVh8R82ZPgs3-1920-80.jpg",
+      "source": "Louder",
+      "category": "music",
+      "published": "2026-11-10",
+      "added": "2026-11-10"
+    },
+    {
+      "url": "https://news.un.org/feed/view/en/story/2026/11/1168763",
+      "title": "COP31 opens in Antalya: Can climate promises finally deliver results?",
+      "description": "COP31 opens in Antalya with nearly 200 countries aiming for fewer grand declarations and more concrete results.",
+      "image": "https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Production%20Library/2026/11/9-11-26_COP31-opening-Stiell_UNFCCC.jpg/image560x340cropped.jpg",
+      "source": "UN News",
+      "category": "humanitarian",
+      "published": "2026-11-09",
+      "added": "2026-11-10"
+    },
+    {
+      "url": "https://flowingdata.com/2026/11/09/a-brain-from-simple-circuits/",
+      "title": "A brain from simple circuits",
+      "description": "A visual explainer showing how a few simple circuits can combine to build up something like a brain.",
+      "image": "https://flowingdata.com/wp-content/uploads/2026/11/build-a-brain-750x498.png",
+      "source": "FlowingData",
+      "category": "visual",
+      "published": "2026-11-09",
+      "added": "2026-11-10"
+    },
+    {
+      "url": "https://www.quantamagazine.org/did-life-begin-in-an-rna-world-20261109/",
+      "title": "Did Life Begin in an RNA World?",
+      "description": "Quanta looks at the idea that life began in an RNA world of self-copying molecules, and why that may not be enough.",
+      "image": "https://www.quantamagazine.org/wp-content/uploads/2026/11/RNA-World-cr.Mark-Belan-Default.webp",
+      "source": "Quanta Magazine",
+      "category": "nerdy",
+      "published": "2026-11-09",
+      "added": "2026-11-10"
+    },
+    {
+      "url": "https://www.metmuseum.org/art/collection/search/548344",
+      "title": "Book of the Dead for the Chantress of Amun, Nauny — Unknown artist",
+      "description": "A Book of the Dead made on papyrus around 1050 BCE for Nauny, a chantress of Amun, from The Met's Egyptian Art collection.",
+      "image": "https://images.metmuseum.org/CRDImages/eg/web-large/DT11633.jpg",
+      "source": "The Met",
+      "category": "art",
+      "published": "2026-11-10",
+      "added": "2026-11-10"
+    },
+    {
+      "url": "https://commons.wikimedia.org/wiki/File:Verdun_%E2%80%93_Cath%C3%A9drale_Notre-Dame_%E2%80%93_Crypte_2025_08_16.jpg",
+      "title": "Restored 12th-century crypt of Verdun Cathedral",
+      "description": "The restored 12th-century crypt of Verdun Cathedral in France, rediscovered after the Great War.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/56/Verdun_%E2%80%93_Cath%C3%A9drale_Notre-Dame_%E2%80%93_Crypte_2025_08_16.jpg/960px-Verdun_%E2%80%93_Cath%C3%A9drale_Notre-Dame_%E2%80%93_Crypte_2025_08_16.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "source": "Wikimedia Picture of the Day",
+      "category": "visual",
+      "published": "2026-11-10",
+      "added": "2026-11-10"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Sesame_Street",
+      "title": "On this day in 1969",
+      "description": "The first episode of the children's series Sesame Street was broadcast in the United States.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/08/Sesame_Street_logo.svg/330px-Sesame_Street_logo.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "source": "Wikipedia On this day",
+      "category": "nerdy",
+      "published": "2026-11-10",
+      "added": "2026-11-10"
+    },
     {
       "url": "https://xkcd.com/3321/",
       "title": "Simulation",
@@ -660,6 +840,10 @@
     "2026-11-09": {
       "model": "claude-sonnet-5-5",
       "note": "A comics-and-curiosities day. I kept the playful comics, a few Hackaday builds, the superconductor and power-grid science, and the Berlin Wall anniversary. I skipped the tech gossip and celebrity drama, and Hacker News and Colossal failed to load."
+    },
+    "2026-11-10": {
+      "model": "claude-sonnet-5-5",
+      "note": "A comics-and-curiosities day: three comics, paper airplanes, Colossal art, a Met papyrus and a Verdun crypt photo. I added a few science and space stories and skipped the heavy Nvidia scandal pile-on, the AI model launch posts and routine news."
     }
   }
 }
