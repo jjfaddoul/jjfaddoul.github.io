@@ -1,6 +1,216 @@
 {
-  "updated": "2026-11-10T10:43:45+08:00",
+  "updated": "2026-11-11T09:39:51+08:00",
   "items": [
+    {
+      "url": "https://www.theautopian.com/scion-is-back-and-its-going-to-sell-a-freaking-kei-truck-in-america/",
+      "title": "Scion is back and is going to sell a kei truck in America",
+      "description": "Scion is returning to the American market with plans to sell a small kei truck.",
+      "image": null,
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2026-11-10",
+      "added": "2026-11-11"
+    },
+    {
+      "url": "https://docodethatmatters.com/home-automation-overnight-success/",
+      "title": "Smart home devices should work without the internet",
+      "description": "A case for smart home gadgets that keep working when the internet is down, which sparked a big discussion on Hacker News.",
+      "image": "https://docodethatmatters.com/images/home-automation/t1-07.webp",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2026-11-10",
+      "added": "2026-11-11"
+    },
+    {
+      "url": "https://teorth.github.io/tao-web/six-math-essentials.html",
+      "title": "Six Math Essentials by Terence Tao",
+      "description": "A short list of six essential pieces of mathematics from Terence Tao, shared on Hacker News.",
+      "image": null,
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2026-11-10",
+      "added": "2026-11-11"
+    },
+    {
+      "url": "https://www.economist.com/interactive/2026/11/06/pinot-noir-inside-the-criminal-gangs-making-fake-wine",
+      "title": "Pinot Noir: inside the criminal gangs making fake wine",
+      "description": "A look inside the criminal gangs behind fake Pinot Noir wine.",
+      "image": null,
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2026-11-08",
+      "added": "2026-11-11"
+    },
+    {
+      "url": "https://alexwang.ai/posts/reasoning-as-pathfinding/",
+      "title": "What objective is reasoning solving?",
+      "description": "A discussion piece asking what goal reasoning is actually solving for, with 98 points on Hacker News.",
+      "image": "https://alexwang.ai/images/share-card_hu_829bd88f1595308b.jpg",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2026-11-10",
+      "added": "2026-11-11"
+    },
+    {
+      "url": "https://resobscura.substack.com/p/research-taste-in-history-the-importance",
+      "title": "Research taste in history: the importance of learning Babylonian math",
+      "description": "An essay on research taste in history and why learning Babylonian math matters.",
+      "image": "https://substackcdn.com/image/fetch/$s_!vqyD!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F725e2e02-5f5a-4396-9dc1-75ace2bf0859_2288x1562.png",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2026-11-10",
+      "added": "2026-11-11"
+    },
+    {
+      "url": "https://arstechnica.com/science/2026/11/what-happens-to-mathematics-when-ai-becames-an-oracle/",
+      "title": "What happens to mathematics when AI becomes an oracle?",
+      "description": "Mathematician Steven Strogatz talks about his new book, Big Math, and what happens to mathematics when AI acts as an oracle.",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/06/Mathematics-formula-1152x648.jpg",
+      "source": "Ars Technica",
+      "category": "tech",
+      "published": "2026-11-10",
+      "added": "2026-11-11"
+    },
+    {
+      "url": "https://hackaday.com/2026/11/10/watching-the-watchers/",
+      "title": "Watching the Watchers",
+      "description": "A look at how, at dawn or dusk in clear weather, you can now often spot satellites crossing the sky, and the people watching them.",
+      "image": "https://hackaday.com/wp-content/uploads/2026/11/satellite-tracker-main.png?w=800",
+      "source": "Hackaday",
+      "category": "tech",
+      "published": "2026-11-11",
+      "added": "2026-11-11"
+    },
+    {
+      "url": "https://hackaday.com/2026/11/10/gesture-controls-with-only-a-camera/",
+      "title": "Gesture Controls With Only a Camera",
+      "description": "A 2002 system that used a single camera-like device to track a hand and turn its movements into computer input.",
+      "image": "https://hackaday.com/wp-content/uploads/2026/11/gesture-controls-main.png?w=800",
+      "source": "Hackaday",
+      "category": "tech",
+      "published": "2026-11-10",
+      "added": "2026-11-11"
+    },
+    {
+      "url": "https://www.smbc-comics.com/comic/mega",
+      "title": "Mega",
+      "description": "A new SMBC comic, with a bonus panel available for readers who click through.",
+      "image": "https://www.smbc-comics.com/comics/1794186829-20261110.png",
+      "source": "SMBC",
+      "category": "comics",
+      "published": "2026-11-10",
+      "added": "2026-11-11"
+    },
+    {
+      "url": "https://www.thisiscolossal.com/2026/11/close-up-photographer-of-the-year-2026-shortlist/",
+      "title": "Bats, Spiders, and Slime Molds Make the Close-Up Photographer of the Year Shortlist",
+      "description": "Bats, spiders and slime molds feature on the shortlist for Close-Up Photographer of the Year, which had record entries.",
+      "image": "https://www.thisiscolossal.com/wp-content/uploads/2026/11/cupoty2026-5.jpg",
+      "source": "Colossal",
+      "category": "art",
+      "published": "2026-11-10",
+      "added": "2026-11-11"
+    },
+    {
+      "url": "https://www.thisiscolossal.com/2026/11/amy-genser-paper-wall-sculptures/",
+      "title": "Amy Genser’s Elaborate Mulberry Paper Assemblages Undulate Like the Sea",
+      "description": "Amy Genser makes layered mulberry paper works that ripple like ocean swells, reefs and the sea floor.",
+      "image": "https://www.thisiscolossal.com/wp-content/uploads/2026/11/genser-3.jpg",
+      "source": "Colossal",
+      "category": "art",
+      "published": "2026-11-10",
+      "added": "2026-11-11"
+    },
+    {
+      "url": "https://publicdomainreview.org/collection/a-corner-in-wheat",
+      "title": "D. W. Griffith’s A Corner in Wheat (1909)",
+      "description": "D. W. Griffith's 1909 film, a moral tale about agricultural greed inspired by antimonopolist fiction.",
+      "image": "https://pdr-assets.b-cdn.net//collections/a-corner-in-wheat/a-corner-in-wheat-thumb.jpg",
+      "source": "Public Domain Review",
+      "category": "art",
+      "published": "2026-11-10",
+      "added": "2026-11-11"
+    },
+    {
+      "url": "https://www.loudersound.com/culture/merchandise/jimi-hendrix-dollar",
+      "title": "Jimi Hendrix to be celebrated with official US dollar coin",
+      "description": "Jimi Hendrix is set to be honoured with an official US dollar coin.",
+      "image": "https://cdn.mos.cms.futurecdn.net/8idJMSprAC77cnKTbFn5HY-1920-80.jpg",
+      "source": "Louder",
+      "category": "music",
+      "published": "2026-11-10",
+      "added": "2026-11-11"
+    },
+    {
+      "url": "https://1000wordphilosophy.com/2026/11/10/lying/",
+      "title": "Lying, Misleading, and Bullshitting",
+      "description": "An explainer on how philosophers tell lying, misleading and bullshitting apart.",
+      "image": "https://i0.wp.com/1000wordphilosophy.com/wp-content/uploads/2026/11/not-a-lie-if-you-believe-it.jpg?resize=656%2C371&ssl=1",
+      "source": "1000-Word Philosophy",
+      "category": "philosophy",
+      "published": "2026-11-11",
+      "added": "2026-11-11"
+    },
+    {
+      "url": "https://www.positive.news/society/actor-85-takes-to-the-stage-despite-alzheimers-diagnosis/",
+      "title": "Actor, 85, takes to the stage despite Alzheimer’s diagnosis",
+      "description": "Actor Peter Marinker, 85, is back on stage in Beckett's Krapp's Last Tape despite an Alzheimer's diagnosis.",
+      "image": "https://www.positive.news/wp-content/uploads/2026/11/Horizontal-resizer-2.png",
+      "source": "Positive News",
+      "category": "humanitarian",
+      "published": "2026-11-10",
+      "added": "2026-11-11"
+    },
+    {
+      "url": "https://flowingdata.com/2026/11/10/geolocation-determined-with-background-airplane-noise/",
+      "title": "Geolocation determined with background airplane noise",
+      "description": "Researchers show that faint airplane noise in a blurry video clip can be enough to work out where it was filmed.",
+      "image": "https://flowingdata.com/wp-content/uploads/2026/11/doppler-curves-location-750x414.png",
+      "source": "FlowingData",
+      "category": "visual",
+      "published": "2026-11-10",
+      "added": "2026-11-11"
+    },
+    {
+      "url": "https://www.quantamagazine.org/the-case-for-a-bubble-at-lifes-start-20261110/",
+      "title": "The Case for a Bubble at Life’s Start",
+      "description": "A look at the lipid-first theory, which says life began when a cell membrane gave chemistry a place to gather.",
+      "image": "https://www.quantamagazine.org/wp-content/uploads/2026/11/Lipid-First-cr.Mark-Belan-Default.webp",
+      "source": "Quanta Magazine",
+      "category": "nerdy",
+      "published": "2026-11-10",
+      "added": "2026-11-11"
+    },
+    {
+      "url": "https://www.metmuseum.org/art/collection/search/5582",
+      "title": "Peonies Blown in the Wind — John La Farge",
+      "description": "A leaded opalescent glass work by John La Farge from around 1880, held in The American Wing.",
+      "image": "https://images.metmuseum.org/CRDImages/ad/web-large/DT219912.jpg",
+      "source": "The Met",
+      "category": "art",
+      "published": "2026-11-11",
+      "added": "2026-11-11"
+    },
+    {
+      "url": "https://commons.wikimedia.org/wiki/File:Ko%C5%9Bcielec_view_2.jpg",
+      "title": "Tatra Mountains view toward Świnica from Kościelec",
+      "description": "A panoramic mountain view toward Swinica from Koscielec in Tatra National Park, shared for Poland's Independence Day.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/28/Ko%C5%9Bcielec_view_2.jpg/960px-Ko%C5%9Bcielec_view_2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "source": "Wikimedia Picture of the Day",
+      "category": "visual",
+      "published": "2026-11-11",
+      "added": "2026-11-11"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/1975_Australian_constitutional_crisis",
+      "title": "On this day in 1975",
+      "description": "In 1975, during a constitutional crisis, the Governor-General dismissed Prime Minister Gough Whitlam's government in Australia.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c5/Coat_of_arms_of_the_Commonwealth_of_Australia.svg/330px-Coat_of_arms_of_the_Commonwealth_of_Australia.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "source": "Wikipedia On this day",
+      "category": "nerdy",
+      "published": "2026-11-11",
+      "added": "2026-11-11"
+    },
     {
       "url": "https://www.foldableflight.com",
       "title": "Foldable Flight: The Best Paper Airplanes",
@@ -844,6 +1054,10 @@
     "2026-11-10": {
       "model": "claude-sonnet-5-5",
       "note": "A comics-and-curiosities day: three comics, paper airplanes, Colossal art, a Met papyrus and a Verdun crypt photo. I added a few science and space stories and skipped the heavy Nvidia scandal pile-on, the AI model launch posts and routine news."
+    },
+    "2026-11-11": {
+      "model": "claude-sonnet-5-5",
+      "note": "A mixed day: I leaned toward curiosity, like the airplane-noise geolocation, the origins-of-life piece and Tao's math list, plus some art and photography. I skipped funding news, product ads, tour dates and most heavier politics."
     }
   }
 }
