@@ -1,6 +1,206 @@
 {
-  "updated": "2026-11-11T09:39:51+08:00",
+  "updated": "2026-11-12T10:14:32+08:00",
   "items": [
+    {
+      "url": "https://www.mcmillen.dev/sigbovik/",
+      "title": "93% of Paint Splatters Are Valid Perl Programs (2019)",
+      "description": "A 2019 piece arguing that most paint splatters, read as code, turn out to be valid Perl programs. A quirky programming curiosity that drew 139 points on Hacker News.",
+      "image": null,
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2026-11-11",
+      "added": "2026-11-12"
+    },
+    {
+      "url": "https://discuss.python.org/t/in-memoriam-tim-peters-1952-2026/110028",
+      "title": "Tim Peters has died",
+      "description": "News that Tim Peters has died, shared on Hacker News with a link to a Reddit thread in the Python community.",
+      "image": null,
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2026-11-11",
+      "added": "2026-11-12"
+    },
+    {
+      "url": "https://www.cbsnews.com/news/united-airlines-bans-ai-agents-booking-flights/",
+      "title": "United Airlines bans AI agents from booking flights on behalf of travelers",
+      "description": "United Airlines has banned AI agents from booking flights on behalf of travelers, a story that drew a lot of discussion on Hacker News.",
+      "image": "https://assets3.cbsnewsstatic.com/hub/i/r/2026/11/11/abfecdbe-5571-42df-95f8-6c22131067aa/thumbnail/1200x630/526b47f241e8e11c31cb47bc82f1f68c/gettyimages-2296986024-1.jpg",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2026-11-11",
+      "added": "2026-11-12"
+    },
+    {
+      "url": "https://michael.bacarella.com/2026/11/10/false-smoke-alarm-jane-street-datacenter/",
+      "title": "A false smoke alarm almost drowned Jane Street's only NYC datacenter",
+      "description": "A story about how a false smoke alarm nearly flooded Jane Street's only datacenter in New York City.",
+      "image": "https://michael.bacarella.com/assets/mbacface.jpg",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2026-11-11",
+      "added": "2026-11-12"
+    },
+    {
+      "url": "https://graphics.cs.utah.edu/teapot/",
+      "title": "The Utah Teapot",
+      "description": "A video about the Utah Teapot, the famous 3D model that became a classic test object in computer graphics.",
+      "image": null,
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2026-11-11",
+      "added": "2026-11-12"
+    },
+    {
+      "url": "https://termsheetplease.com/",
+      "title": "Show HN: I recreated Papers Please but you're deciding which YC startups to fund",
+      "description": "A Show HN game inspired by Papers Please, where you decide which YC startups to fund instead of who crosses a border.",
+      "image": "https://termsheetplease.com/assets/social-preview.png?v=title-only-20261110",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2026-11-11",
+      "added": "2026-11-12"
+    },
+    {
+      "url": "https://pietromiotti.com/latest/maya-site",
+      "title": "My AI agents found an unmapped Maya site?",
+      "description": "A Hacker News post about AI agents that apparently found an unmapped Maya site. It drew 927 points and plenty of curiosity.",
+      "image": "https://pietromiotti.com/latest/maya-site/forest-vs-lidar.jpg",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2026-11-11",
+      "added": "2026-11-12"
+    },
+    {
+      "url": "https://xkcd.com/3323/",
+      "title": "Meteor Fear",
+      "description": "An XKCD about meteors: small, potentially deadly ones hit the ground all the time, but the comic compares the odds against dying from something rarer.",
+      "image": "https://imgs.xkcd.com/comics/meteor_fear.png",
+      "source": "XKCD",
+      "category": "comics",
+      "published": "2026-11-11",
+      "added": "2026-11-12"
+    },
+    {
+      "url": "https://arstechnica.com/gadgets/2026/11/ceo-jensen-huangs-job-is-suddenly-on-the-line-at-nvidia/",
+      "title": "CEO Jensen Huang's job is suddenly on the line at Nvidia",
+      "description": "Nvidia's board is holding urgent talks about CEO Jensen Huang's future while the FBI investigates, putting his job in question.",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/GettyImages-2296993009-1024x648.jpg",
+      "source": "Ars Technica",
+      "category": "tech",
+      "published": "2026-11-11",
+      "added": "2026-11-12"
+    },
+    {
+      "url": "https://hackaday.com/2026/11/11/modular-3d-printed-train-whistles-for-everyone/",
+      "title": "Modular, 3D Printed Train Whistles For Everyone",
+      "description": "A modular, 3D printed set of train whistles that anyone can make, for people who love trains and tinkering.",
+      "image": "https://hackaday.com/wp-content/uploads/2026/11/3D-printed-whistle-modular.jpg?w=800",
+      "source": "Hackaday",
+      "category": "tech",
+      "published": "2026-11-11",
+      "added": "2026-11-12"
+    },
+    {
+      "url": "https://www.smbc-comics.com/comic/please",
+      "title": "Please",
+      "description": "An SMBC comic about someone at a computer who keeps pressing compile, with a bonus panel for readers who click through.",
+      "image": "https://www.smbc-comics.com/comics/1794359640-20261111.png",
+      "source": "SMBC",
+      "category": "comics",
+      "published": "2026-11-11",
+      "added": "2026-11-12"
+    },
+    {
+      "url": "https://poorlydrawnlines.com/comic/in-a-hole/",
+      "title": "In a Hole",
+      "description": "A Poorly Drawn Lines comic titled In a Hole, a short and simple gag from the series.",
+      "image": "https://poorlydrawnlines.com/wp-content/uploads/2026/11/in-a-hole.png",
+      "source": "Poorly Drawn Lines",
+      "category": "comics",
+      "published": "2026-11-11",
+      "added": "2026-11-12"
+    },
+    {
+      "url": "http://www.qwantz.com/index.php?comic=4541",
+      "title": "t-rex and the costumed party",
+      "description": "A Dinosaur Comics strip in which T-Rex and friends deal with a costumed party.",
+      "image": "http://www.qwantz.com/comics/comic2-5239.png",
+      "source": "Dinosaur Comics",
+      "category": "comics",
+      "published": "2026-11-11",
+      "added": "2026-11-12"
+    },
+    {
+      "url": "https://publicdomainreview.org/essay/soldiers-of-misfortune",
+      "title": "Soldiers of Misfortune: The Drawings of Urs Graf the Elder",
+      "description": "An introduction to Urs Graf the Elder, a Swiss Renaissance artist and mercenary whose drawings depict the violence and vice he lived through.",
+      "image": "https://pdr-assets.b-cdn.net//essays/soldiers-of-misfortune/urs-graf-thumb.jpg",
+      "source": "Public Domain Review",
+      "category": "art",
+      "published": "2026-11-11",
+      "added": "2026-11-12"
+    },
+    {
+      "url": "https://www.loudersound.com/bands-artists/interviews/meet-netherwilds-the-peasant-metal-band-calling-for-revolution",
+      "title": "How 'peasant metal' band Netherwilds became a viral sensation",
+      "description": "A look at how the 'peasant metal' band Netherwilds became a viral sensation.",
+      "image": "https://cdn.mos.cms.futurecdn.net/23xx3MdaGdqcQH8aPtaKVA-1920-80.jpg",
+      "source": "Louder",
+      "category": "music",
+      "published": "2026-11-11",
+      "added": "2026-11-12"
+    },
+    {
+      "url": "https://news.un.org/feed/view/en/story/2026/11/1168783",
+      "title": "‘Make or bake time’: Guterres urges climate justice pact as leaders gather at COP31",
+      "description": "UN chief Guterres urged a climate justice pact at COP31, calling on governments to tax fossil fuel companies to help countries cope with climate damage.",
+      "image": "https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Production%20Library/2026/11/11-11-2026_COP31.jpg/image560x340cropped.jpg",
+      "source": "UN News",
+      "category": "humanitarian",
+      "published": "2026-11-11",
+      "added": "2026-11-12"
+    },
+    {
+      "url": "https://www.quantamagazine.org/what-is-the-metabolism-first-theory-for-the-origin-of-life-20261111/",
+      "title": "How a Metabolic Spark Could Have Jump-Started Life",
+      "description": "Quanta explores whether self-sustaining metabolic cycles, which make and break complex molecules, could have helped jump-start life on Earth.",
+      "image": "https://www.quantamagazine.org/wp-content/uploads/2026/11/Metabolism-First-cr.Mark-Belan-Default.webp",
+      "source": "Quanta Magazine",
+      "category": "nerdy",
+      "published": "2026-11-11",
+      "added": "2026-11-12"
+    },
+    {
+      "url": "https://www.metmuseum.org/art/collection/search/548264",
+      "title": "Outer Coffin of the Chantress of Amun-Re Henettawy — Unknown artist",
+      "description": "An outer coffin made for Henettawy, a chantress of Amun-Re, from about 1000 to 945 BCE. It is wood, gesso, paint and varnish, now at The Met.",
+      "image": "https://images.metmuseum.org/CRDImages/eg/web-large/DP319009.jpg",
+      "source": "The Met",
+      "category": "art",
+      "published": "2026-11-12",
+      "added": "2026-11-12"
+    },
+    {
+      "url": "https://commons.wikimedia.org/wiki/File:CZE-22-Czechoslovak_National_Bank-50_Korun_(1929).jpg",
+      "title": "Czechoslovak 50 Korun banknote from 1929",
+      "description": "A 50 Korun banknote issued in 1929 by the National Bank of Czechoslovakia.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5d/CZE-22-Czechoslovak_National_Bank-50_Korun_%281929%29.jpg/960px-CZE-22-Czechoslovak_National_Bank-50_Korun_%281929%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "source": "Wikimedia Picture of the Day",
+      "category": "visual",
+      "published": "2026-11-12",
+      "added": "2026-11-12"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/European_Space_Agency",
+      "title": "On this day in 2014",
+      "description": "In 2014 the European Space Agency's Philae lander touched down on comet 67P, the first spacecraft ever to land on a comet.",
+      "image": "https://thumb.wikimedia.org/wikipedia/en/thumb/c/c8/ESA_Patch_2026.svg/330px-ESA_Patch_2026.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "source": "Wikipedia On this day",
+      "category": "nerdy",
+      "published": "2026-11-12",
+      "added": "2026-11-12"
+    },
     {
       "url": "https://www.theautopian.com/scion-is-back-and-its-going-to-sell-a-freaking-kei-truck-in-america/",
       "title": "Scion is back and is going to sell a kei truck in America",
@@ -1058,6 +1258,10 @@
     "2026-11-11": {
       "model": "claude-sonnet-5-5",
       "note": "A mixed day: I leaned toward curiosity, like the airplane-noise geolocation, the origins-of-life piece and Tao's math list, plus some art and photography. I skipped funding news, product ads, tour dates and most heavier politics."
+    },
+    "2026-11-12": {
+      "model": "claude-sonnet-5-5",
+      "note": "A mixed day: the odd and playful (paint splatters as Perl, a Papers Please game for YC, a possibly unmapped Maya site), three comics, some art and history, and one science read. I kept just one Nvidia story and skipped the shopping, deal and promo posts."
     }
   }
 }
