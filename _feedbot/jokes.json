@@ -1,6 +1,12 @@
 {
   "jokes": [
     {
+      "week": "2026-W46",
+      "posted": "2026-11-13",
+      "model": "claude-opus-5-5",
+      "joke": "Geologists drilling into my junk drawer have finally reached the soy sauce layer.\nCarbon dating suggests it was deposited by the previous tenant."
+    },
+    {
       "week": "2026-W45",
       "posted": "2026-11-03",
       "model": "claude-opus-5-5",
