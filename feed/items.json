@@ -1,6 +1,186 @@
 {
-  "updated": "2026-11-12T10:14:32+08:00",
+  "updated": "2026-11-13T15:35:00+08:00",
   "items": [
+    {
+      "url": "https://geekspin.co/scientists-claim-the-universe-is-twice-as-old-as-believed/",
+      "title": "Scientists claim the universe is twice as old as believed",
+      "description": "A report that some scientists claim the universe may be twice as old as commonly believed.",
+      "image": "https://geekspin.co/wp-content/uploads/2026/11/photomix-image-18.png",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2026-11-13",
+      "added": "2026-11-13"
+    },
+    {
+      "url": "https://github.com/simpsoka/zigzag",
+      "title": "Show HN: My $300 embroidery machine needed a subscription, so I built my own app",
+      "description": "A maker's $300 embroidery machine required a subscription, so they built their own app to run it.",
+      "image": "https://opengraph.githubassets.com/dd9c1b78a175db815364fbd06cb4e42842cb33f40c04ccba6fd13ba6c9290a0b/simpsoka/zigzag",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2026-11-12",
+      "added": "2026-11-13"
+    },
+    {
+      "url": "https://www.smithsonianmag.com/smart-news/astronomers-found-a-mysterious-object-orbiting-far-beyond-pluto-it-could-be-a-new-dwarf-planet-hidden-in-our-solar-system-180989857/",
+      "title": "Dwarf planet candidate appears which takes roughly 280 years to orbit our sun",
+      "description": "A dwarf planet candidate has turned up that takes roughly 280 years to go around the sun.",
+      "image": null,
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2026-11-12",
+      "added": "2026-11-13"
+    },
+    {
+      "url": "https://github.com/hyperionaidev/smolmaxxing/",
+      "title": "I'm making LLMs work on small and old devices",
+      "description": "A developer's project to get large language models running on small and old devices.",
+      "image": "https://opengraph.githubassets.com/1cf66a35a3f9248ea4718259f3f52a982d6ac3588a30771d00188ad14a6fd4ac/hyperionaidev/smolmaxxing",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2026-11-12",
+      "added": "2026-11-13"
+    },
+    {
+      "url": "https://techcrunch.com/2026/11/12/nvidia-ceo-jensen-huangs-affair-with-alleged-chinese-spy-a-timeline/",
+      "title": "The unfolding Jensen Huang scandal: a timeline",
+      "description": "A timeline of the events around Jensen Huang's resignation from Nvidia, and why it could matter for national security as the US and China race on AI.",
+      "image": "https://techcrunch.com/wp-content/uploads/2025/04/GettyImages-2205754389.jpg?w=1024",
+      "source": "TechCrunch",
+      "category": "tech",
+      "published": "2026-11-12",
+      "added": "2026-11-13"
+    },
+    {
+      "url": "https://hackaday.com/2026/11/12/hacking-metas-smart-glasses/",
+      "title": "Hacking Meta’s Smart Glasses",
+      "description": "A look at hacking Meta's Ray-Ban smart glasses, which have drawn plenty of controversy.",
+      "image": "https://hackaday.com/wp-content/uploads/2026/11/meta-glases-featured.jpg?w=800",
+      "source": "Hackaday",
+      "category": "tech",
+      "published": "2026-11-13",
+      "added": "2026-11-13"
+    },
+    {
+      "url": "https://hackaday.com/2026/11/12/watch-that-sound-your-own-chladni-plate/",
+      "title": "Watch That Sound: Your Own Chladni Plate",
+      "description": "A guide to building your own Chladni plate, which uses a speaker and small particles like sand to make sound visible.",
+      "image": "https://hackaday.com/wp-content/uploads/2026/11/sound.png?w=800",
+      "source": "Hackaday",
+      "category": "tech",
+      "published": "2026-11-13",
+      "added": "2026-11-13"
+    },
+    {
+      "url": "https://www.smbc-comics.com/comic/history-6",
+      "title": "History",
+      "description": "A comic about the way people use the phrase 'history tells us' in online essays.",
+      "image": "https://www.smbc-comics.com/comics/1794451776-20261112.png",
+      "source": "SMBC",
+      "category": "comics",
+      "published": "2026-11-12",
+      "added": "2026-11-13"
+    },
+    {
+      "url": "https://www.thisiscolossal.com/2026/11/sky-glabush-landscape-paintings/",
+      "title": "How Sky Glabush Conjures Atmospheric Landscapes in Sand and Oil Paint",
+      "description": "Artist Sky Glabush turns feelings tied to particular places into atmospheric landscapes made with sand and oil paint.",
+      "image": "https://www.thisiscolossal.com/wp-content/uploads/2026/11/glabush-8.jpg",
+      "source": "Colossal",
+      "category": "art",
+      "published": "2026-11-12",
+      "added": "2026-11-13"
+    },
+    {
+      "url": "https://www.thisiscolossal.com/2026/11/peter-morris-architects-the-cloud-house-london/",
+      "title": "Peter Morris Architects’ Pastel Pink ‘Cloud House’ Billows in Northwest London",
+      "description": "A whimsical pastel pink house in northwest London, ten years in the making, that responds to its eclectic neighbours.",
+      "image": "https://www.thisiscolossal.com/wp-content/uploads/2026/11/cloud-house-7-e1794494457822.jpg",
+      "source": "Colossal",
+      "category": "art",
+      "published": "2026-11-12",
+      "added": "2026-11-13"
+    },
+    {
+      "url": "https://www.thisiscolossal.com/2026/11/nikon-small-world-photomicrography-competition-2026-winners/",
+      "title": "Get Up-Close to Cells, Ink, and Insects in the Nikon Small World Photomicrography Contest",
+      "description": "Close-up images of cells, ink and insects from the Nikon Small World Photomicrography Contest.",
+      "image": "https://www.thisiscolossal.com/wp-content/uploads/2026/11/photomicography-2026-2.jpg",
+      "source": "Colossal",
+      "category": "art",
+      "published": "2026-11-12",
+      "added": "2026-11-13"
+    },
+    {
+      "url": "https://www.loudersound.com/music/albums/talking-heads-fear-of-music-super-deluxe-edition",
+      "title": "Talking Heads' Fear Of Music remains an evergreen post-punk landmark",
+      "description": "A look back at Talking Heads' Fear of Music and why it remains a post-punk landmark.",
+      "image": "https://cdn.mos.cms.futurecdn.net/3Pw22Fs8gLZSGV7j27CRZn-1920-80.jpg",
+      "source": "Louder",
+      "category": "music",
+      "published": "2026-11-12",
+      "added": "2026-11-13"
+    },
+    {
+      "url": "https://news.un.org/feed/view/en/story/2026/11/1168794",
+      "title": "New platform aims to get money moving before disaster strikes",
+      "description": "UN agencies launch a platform at COP31 to get money moving before disasters strike, targeting over $3 billion in risk financing.",
+      "image": "https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Production%20Library/19-02-2026-WFP_MOZ_Martim-Pereira_DSC01926.jpg/image560x340cropped.jpg",
+      "source": "UN News",
+      "category": "humanitarian",
+      "published": "2026-11-12",
+      "added": "2026-11-13"
+    },
+    {
+      "url": "https://flowingdata.com/2026/11/12/bikenetkit-is-a-toolkit-to-improve-the-bicycle-network-in-your-city/",
+      "title": "BikeNetKit is a toolkit to improve the bicycle network in your city",
+      "description": "A Python toolkit that helps cities analyze and improve their bicycle networks.",
+      "image": "https://flowingdata.com/wp-content/uploads/2026/11/BikeNetKit-750x525.png",
+      "source": "FlowingData",
+      "category": "visual",
+      "published": "2026-11-12",
+      "added": "2026-11-13"
+    },
+    {
+      "url": "https://www.quantamagazine.org/a-new-era-for-the-dawn-of-life-20261112/",
+      "title": "A New Era for the Dawn of Life",
+      "description": "Quanta opens a special series on the origins of life, a field that has entered a creative, interdisciplinary new age.",
+      "image": "https://www.quantamagazine.org/wp-content/uploads/2026/11/Origin-of-Life-cr.Mark-Belan-Default.webp",
+      "source": "Quanta Magazine",
+      "category": "nerdy",
+      "published": "2026-11-12",
+      "added": "2026-11-13"
+    },
+    {
+      "url": "https://www.metmuseum.org/art/collection/search/548584",
+      "title": "Cosmetic Spoon in the Shape of Swimming Woman Holding a Dish — Unknown artist",
+      "description": "An ancient Egyptian cosmetic spoon carved as a swimming woman holding a dish, made from travertine and steatite.",
+      "image": "https://images.metmuseum.org/CRDImages/eg/web-large/DT223706.jpg",
+      "source": "The Met",
+      "category": "art",
+      "published": "2026-11-13",
+      "added": "2026-11-13"
+    },
+    {
+      "url": "https://commons.wikimedia.org/wiki/File:Indian_Courser_in_Bhigwan_August_2025_by_Tisha_Mukherjee_07.jpg",
+      "title": "Indian courser in Bhigwan, Maharashtra",
+      "description": "An Indian courser, a ground-dwelling bird, photographed in Bhigwan, Maharashtra, India.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/46/Indian_Courser_in_Bhigwan_August_2025_by_Tisha_Mukherjee_07.jpg/960px-Indian_Courser_in_Bhigwan_August_2025_by_Tisha_Mukherjee_07.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "source": "Wikimedia Picture of the Day",
+      "category": "visual",
+      "published": "2026-11-13",
+      "added": "2026-11-13"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/FC_Dynamo_Moscow",
+      "title": "On this day in 1945",
+      "description": "Dynamo Moscow began a tour of the UK with a 3-3 draw against Chelsea, setting a British club attendance record.",
+      "image": "https://thumb.wikimedia.org/wikipedia/en/thumb/e/e7/Dynamo_Moscow_logo.svg/330px-Dynamo_Moscow_logo.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "source": "Wikipedia On this day",
+      "category": "nerdy",
+      "published": "2026-11-13",
+      "added": "2026-11-13"
+    },
     {
       "url": "https://www.mcmillen.dev/sigbovik/",
       "title": "93% of Paint Splatters Are Valid Perl Programs (2019)",
@@ -1262,6 +1442,10 @@
     "2026-11-12": {
       "model": "claude-sonnet-5-5",
       "note": "A mixed day: the odd and playful (paint splatters as Perl, a Papers Please game for YC, a possibly unmapped Maya site), three comics, some art and history, and one science read. I kept just one Nvidia story and skipped the shopping, deal and promo posts."
+    },
+    "2026-11-13": {
+      "model": "claude-sonnet-5-5",
+      "note": "Heavy day for the Nvidia saga, so I kept only the one timeline. I went for curiosity: a far-off dwarf planet, Chladni sound patterns, microscope photos, a cloud-shaped house, an Egyptian spoon, plus a comic and some music writing."
     }
   }
 }
