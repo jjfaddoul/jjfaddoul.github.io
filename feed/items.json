@@ -1,6 +1,206 @@
 {
-  "updated": "2026-11-13T15:35:00+08:00",
+  "updated": "2026-11-14T09:28:16+08:00",
   "items": [
+    {
+      "url": "https://www.nature.com/articles/d41586-026-03638-3",
+      "title": "Found: A protein that drives ageing without unleashing inflammation",
+      "description": "A report on a protein found to drive ageing without setting off inflammation, a possible new angle on how the body gets older.",
+      "image": "https://media.nature.com/lw1200/magazine-assets/d41586-026-03638-3/d41586-026-03638-3_53962202.jpg",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2026-11-13",
+      "added": "2026-11-14"
+    },
+    {
+      "url": "https://scottjg.com/posts/2026-11-11-reverse-engineering-my-coway-air-purifier-to-ditch-the-cloud/",
+      "title": "Reverse engineering my Coway air purifier to ditch the cloud",
+      "description": "A hacker reverse engineers a Coway air purifier so it can run without the manufacturer's cloud. A popular hands-on teardown.",
+      "image": "https://scottjg.com/posts/2026-11-11-reverse-engineering-my-coway-air-purifier-to-ditch-the-cloud/coway-airmega-icons-cover.jpg",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2026-11-12",
+      "added": "2026-11-14"
+    },
+    {
+      "url": "https://isometricsf.com/",
+      "title": "Show HN: Isometric SF – A pixel-art map of the SF Bay Area",
+      "description": "A pixel-art isometric map of the San Francisco Bay Area, built from about 1,300 square miles of imagery, with a technical write-up of how it was made.",
+      "image": "https://isometricsf.com/og-image.jpg",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2026-11-13",
+      "added": "2026-11-14"
+    },
+    {
+      "url": "https://xkcd.com/3324/",
+      "title": "Ultimate Movie Series",
+      "description": "XKCD ranks movie series, with a nod to the Land Before Time films and the small but devoted fans who argue for one of them.",
+      "image": "https://imgs.xkcd.com/comics/ultimate_movie_series.png",
+      "source": "XKCD",
+      "category": "comics",
+      "published": "2026-11-13",
+      "added": "2026-11-14"
+    },
+    {
+      "url": "https://techcrunch.com/2026/11/13/this-young-startup-wants-to-power-floating-data-centers-with-the-oceans-heat-and-investors-are-already-on-board/",
+      "title": "This young startup wants to power floating data centers with the ocean’s heat, and investors are already on board",
+      "description": "Startup Drogue wants to power data centers on floating vessels using heat from the ocean, with a first prototype planned.",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/11/drogue-team.jpeg?resize=1200,900",
+      "source": "TechCrunch",
+      "category": "tech",
+      "published": "2026-11-13",
+      "added": "2026-11-14"
+    },
+    {
+      "url": "https://arstechnica.com/space/2026/11/starship-flight-15-powers-to-orbit-setting-up-a-possible-catch-on-saturday/",
+      "title": "Starship flight 15 powers to orbit—setting up a possible catch on Saturday",
+      "description": "Starship's fifteenth flight reached orbit, which sets up a possible booster catch attempt on Saturday.",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/GettyImages-2305018954-1024x648.jpg",
+      "source": "Ars Technica",
+      "category": "tech",
+      "published": "2026-11-14",
+      "added": "2026-11-14"
+    },
+    {
+      "url": "https://arstechnica.com/tech-policy/2026/11/faa-orders-third-nationwide-ground-stop-in-its-history/",
+      "title": "FAA orders third nationwide ground stop in its history",
+      "description": "The FAA has ordered a rare nationwide ground stop, only the third in its history, while it troubleshoots the problem.",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2022/10/air-traffic-1000x648.jpg",
+      "source": "Ars Technica",
+      "category": "tech",
+      "published": "2026-11-13",
+      "added": "2026-11-14"
+    },
+    {
+      "url": "https://arstechnica.com/science/2026/11/in-elephants-the-resilience-of-communities-has-its-limits/",
+      "title": "In elephants, the resilience of communities has its limits",
+      "description": "In Sri Lanka, ecological change is shrinking a park's elephant population, showing the limits of elephant community resilience.",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/GettyImages-2290156609-1024x648.jpg",
+      "source": "Ars Technica",
+      "category": "tech",
+      "published": "2026-11-13",
+      "added": "2026-11-14"
+    },
+    {
+      "url": "https://hackaday.com/2026/11/13/x-window-system-on-the-esp32/",
+      "title": "X Window System on the ESP32",
+      "description": "A developer, working with Claude, has the X Window System running on an ESP32-S3 microcontroller.",
+      "image": "https://hackaday.com/wp-content/uploads/2026/11/WoodlandX11_d196a1.jpg?w=800",
+      "source": "Hackaday",
+      "category": "tech",
+      "published": "2026-11-14",
+      "added": "2026-11-14"
+    },
+    {
+      "url": "https://hackaday.com/2026/11/13/using-a-toothbrushs-nfc-chip-to-unlock-a-computer/",
+      "title": "Using a Toothbrush’s NFC chip to Unlock a Computer",
+      "description": "Some electric toothbrush heads contain an NFC chip, and this hack uses one to unlock a computer.",
+      "image": "https://hackaday.com/wp-content/uploads/2026/11/toothbrush-snf-featured_d95783.jpg?w=800",
+      "source": "Hackaday",
+      "category": "tech",
+      "published": "2026-11-13",
+      "added": "2026-11-14"
+    },
+    {
+      "url": "https://www.smbc-comics.com/comic/ai-18",
+      "title": "AI",
+      "description": "An SMBC comic about AI, with a bonus panel behind the click-through.",
+      "image": "https://www.smbc-comics.com/comics/1794451841-20261113.png",
+      "source": "SMBC",
+      "category": "comics",
+      "published": "2026-11-13",
+      "added": "2026-11-14"
+    },
+    {
+      "url": "https://poorlydrawnlines.com/comic/a-bad-mood/",
+      "title": "A Bad Mood",
+      "description": "A short Poorly Drawn Lines comic about a bad mood.",
+      "image": "https://poorlydrawnlines.com/wp-content/uploads/2026/11/a-bad-mood.png",
+      "source": "Poorly Drawn Lines",
+      "category": "comics",
+      "published": "2026-11-13",
+      "added": "2026-11-14"
+    },
+    {
+      "url": "http://www.qwantz.com/index.php?comic=4542",
+      "title": "sorry for inventing sex and drugs; i don't know WHAT i was on",
+      "description": "Today's Dinosaur Comics has T-Rex pondering what he must have been on when inventing some of life's big indulgences.",
+      "image": "http://www.qwantz.com/comics/comic2-5240.png",
+      "source": "Dinosaur Comics",
+      "category": "comics",
+      "published": "2026-11-13",
+      "added": "2026-11-14"
+    },
+    {
+      "url": "https://www.thisiscolossal.com/2026/11/the-sacred-ordinary-1504-birmingham-civil-rights/",
+      "title": "‘The Sacred Ordinary’ Shines a Light on Heritage in Birmingham’s Civil Rights District",
+      "description": "A participatory public artwork in Birmingham's Civil Rights District that shares local heritage stories by text message each evening until December 13.",
+      "image": "https://www.thisiscolossal.com/wp-content/uploads/2026/11/sacred-ordinary-2.jpg",
+      "source": "Colossal",
+      "category": "art",
+      "published": "2026-11-13",
+      "added": "2026-11-14"
+    },
+    {
+      "url": "https://www.thisiscolossal.com/2026/11/sean-doran-crimson-star-film/",
+      "title": "Seán Doran’s ‘Crimson Star’ Tours the Raging Surface of the Sun",
+      "description": "Seán Doran's Crimson Star is a video tour across the churning, glowing surface of the Sun, shown in deep red.",
+      "image": "https://www.thisiscolossal.com/wp-content/uploads/2026/11/crimson-star.jpg",
+      "source": "Colossal",
+      "category": "art",
+      "published": "2026-11-13",
+      "added": "2026-11-14"
+    },
+    {
+      "url": "https://dailynous.com/2026/11/13/open-plato-project-releases-first-dialogue/",
+      "title": "Open Plato Project Releases First Dialogue",
+      "description": "The Open Plato Project has released its first annotated, open access edition: Plato's Alcibiades, free to read online.",
+      "image": "https://dailynous.com/wp-content/uploads/2026/11/Francois-Andre-Vincent-Alcibades-being-taught-by-Socrates-1024x777.jpg",
+      "source": "Daily Nous",
+      "category": "philosophy",
+      "published": "2026-11-13",
+      "added": "2026-11-14"
+    },
+    {
+      "url": "https://www.quantamagazine.org/can-network-science-transform-health-and-nutrition-20261112/",
+      "title": "Can Network Science Transform Health and Nutrition?",
+      "description": "Albert-Laszlo Barabasi explains how the same organizing principles shape the internet and the cell, and how mapping networks in our bodies could help health and nutrition.",
+      "image": "https://www.quantamagazine.org/wp-content/uploads/2026/11/JOW-S5-E12-cr.Chanelle-Nibbelink-Default-NO-LOGO.webp",
+      "source": "Quanta Magazine",
+      "category": "nerdy",
+      "published": "2026-11-12",
+      "added": "2026-11-14"
+    },
+    {
+      "url": "https://www.metmuseum.org/art/collection/search/587591",
+      "title": "Head of a goddess, probably Mut, for attachment to a processional barque — Unknown artist",
+      "description": "A gilded copper-alloy head of a goddess, probably Mut, made around 721 to 664 BCE to decorate a processional barque.",
+      "image": "https://images.metmuseum.org/CRDImages/eg/web-large/DP-39621-001.jpg",
+      "source": "The Met",
+      "category": "art",
+      "published": "2026-11-14",
+      "added": "2026-11-14"
+    },
+    {
+      "url": "https://commons.wikimedia.org/wiki/File:Eastern_quoll_(Dasyurus_viverrinus)_fawn_morph_Esk_Valley.jpg",
+      "title": "Fawn-coloured eastern quoll in Tasmania",
+      "description": "A fawn-coloured eastern quoll photographed in the Esk Valley, Tasmania.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bd/Eastern_quoll_%28Dasyurus_viverrinus%29_fawn_morph_Esk_Valley.jpg/960px-Eastern_quoll_%28Dasyurus_viverrinus%29_fawn_morph_Esk_Valley.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "source": "Wikimedia Picture of the Day",
+      "category": "visual",
+      "published": "2026-11-14",
+      "added": "2026-11-14"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Frank_Farian",
+      "title": "On this day in 1990",
+      "description": "In 1990 producer Frank Farian admitted that the duo Milli Vanilli did not sing on their album Girl You Know It's True.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b0/Frank_Farian.jpeg/330px-Frank_Farian.jpeg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "source": "Wikipedia On this day",
+      "category": "nerdy",
+      "published": "2026-11-14",
+      "added": "2026-11-14"
+    },
     {
       "url": "https://geekspin.co/scientists-claim-the-universe-is-twice-as-old-as-believed/",
       "title": "Scientists claim the universe is twice as old as believed",
@@ -1446,6 +1646,10 @@
     "2026-11-13": {
       "model": "claude-sonnet-5-5",
       "note": "Heavy day for the Nvidia saga, so I kept only the one timeline. I went for curiosity: a far-off dwarf planet, Chladni sound patterns, microscope photos, a cloud-shaped house, an Egyptian spoon, plus a comic and some music writing."
+    },
+    "2026-11-14": {
+      "model": "claude-sonnet-5-5",
+      "note": "A mixed day: a hardware hack or two, a Bay Area pixel map, comics, a Sun video and a gilded Egyptian goddess. The FAA ground stop is the big news, so I took one piece on it and skipped the duplicates, plus the ads, funding news and shop notices."
     }
   }
 }
