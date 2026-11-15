@@ -1,6 +1,176 @@
 {
-  "updated": "2026-11-14T09:28:16+08:00",
+  "updated": "2026-11-15T09:53:20+08:00",
   "items": [
+    {
+      "url": "https://www.spacex.com/launches/starship-flight-15",
+      "title": "SpaceX catches the Starship to end Flight 15",
+      "description": "SpaceX caught the Starship to end its Flight 15, shared in a post and video linked from the Hacker News discussion.",
+      "image": "https://www.spacex.com/assets/images/share.jpg",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2026-11-14",
+      "added": "2026-11-15"
+    },
+    {
+      "url": "https://retrocomputing.stackexchange.com/questions/17957",
+      "title": "How did Woz write the Apple 1 BASIC before building the computer?",
+      "description": "A look at how Steve Wozniak wrote the BASIC for the Apple 1 before the computer itself had been built.",
+      "image": null,
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2026-11-14",
+      "added": "2026-11-15"
+    },
+    {
+      "url": "https://zwischenzugs.com/2026/11/03/a-family-tree-of-software-job-titles/",
+      "title": "A family tree of software job titles",
+      "description": "A family tree mapping out how different software job titles relate to one another.",
+      "image": null,
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2026-11-14",
+      "added": "2026-11-15"
+    },
+    {
+      "url": "https://tube.kockatoo.org/w/fFinNHfanLT7aBEb2B8y4c",
+      "title": "KDE: The documentary [video]",
+      "description": "A video documentary about KDE, the open source desktop project.",
+      "image": "https://tube.kockatoo.org/lazy-static/thumbnails/02935b80-28d9-4fd7-bc33-9d0cb76f2e80.webp",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2026-11-14",
+      "added": "2026-11-15"
+    },
+    {
+      "url": "https://so.long.thanks.fish/why-pi-when-i-have-an-old-phone/",
+      "title": "Why get an expensive Pi when I have an old phone?",
+      "description": "A post asking why you would buy an expensive Raspberry Pi when an old phone could do the job.",
+      "image": "https://so.long.thanks.fish/why-pi-when-i-have-an-old-phone/redmi-leds-1200.webp",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2026-11-10",
+      "added": "2026-11-15"
+    },
+    {
+      "url": "https://news.umich.edu/generative-ai-uses-more-energy-on-non-english-text/",
+      "title": "Generative AI uses more energy on non-English text",
+      "description": "A look at the finding that generative AI uses more energy when working with non-English text.",
+      "image": null,
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2026-11-10",
+      "added": "2026-11-15"
+    },
+    {
+      "url": "https://arstechnica.com/space/2026/11/with-starship-catch-spacex-still-shows-it-can-dazzle-the-world/",
+      "title": "With Starship catch, SpaceX still shows it can dazzle the world",
+      "description": "Ars Technica on how the Starship catch showed SpaceX can still wow the world, describing it as like stepping into the future.",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/GettyImages-2304631389-1024x648.jpg",
+      "source": "Ars Technica",
+      "category": "tech",
+      "published": "2026-11-15",
+      "added": "2026-11-15"
+    },
+    {
+      "url": "https://arstechnica.com/science/2026/11/james-webb-telescope-finds-ice-older-than-the-star-it-orbits/",
+      "title": "James Webb telescope finds ice older than the star it orbits",
+      "description": "The James Webb telescope has found ice older than the star it orbits, and radiation and collisions reshape these planetary building materials.",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/image-1-989x648.jpeg",
+      "source": "Ars Technica",
+      "category": "tech",
+      "published": "2026-11-14",
+      "added": "2026-11-15"
+    },
+    {
+      "url": "https://hackaday.com/2026/11/14/diviner-occult-synth-firmware-for-the-cardputer/",
+      "title": "DIVINER: Occult Synth Firmware for the Cardputer",
+      "description": "DIVINER is an unusual occult-themed synth firmware for the M5 Cardputer, which Hackaday calls probably the strangest software they have seen.",
+      "image": "https://hackaday.com/wp-content/uploads/2026/11/8459231792676999283.png?w=720",
+      "source": "Hackaday",
+      "category": "tech",
+      "published": "2026-11-15",
+      "added": "2026-11-15"
+    },
+    {
+      "url": "https://hackaday.com/2026/11/14/warm-analog-dsp-on-the-esp/",
+      "title": "Warm Analog DSP, on the ESP",
+      "description": "A tube-sound style audio effects device built around an ESP microcontroller, sent in by a Hackaday reader.",
+      "image": "https://hackaday.com/wp-content/uploads/2026/11/9847301794483913575.jpg?w=800",
+      "source": "Hackaday",
+      "category": "tech",
+      "published": "2026-11-14",
+      "added": "2026-11-15"
+    },
+    {
+      "url": "https://hackaday.com/2026/11/14/a-hazeltine-1420-lives-again/",
+      "title": "A Hazeltine 1420 Lives Again",
+      "description": "A Hazeltine 1420 terminal gets restored, recalling the era when buying a computer meant choosing a compatible terminal too.",
+      "image": "https://hackaday.com/wp-content/uploads/2026/11/haze.png?w=800",
+      "source": "Hackaday",
+      "category": "tech",
+      "published": "2026-11-14",
+      "added": "2026-11-15"
+    },
+    {
+      "url": "https://www.smbc-comics.com/comic/field",
+      "title": "Field",
+      "description": "An SMBC comic about parents encouraging kids to play outside. There is a bonus panel on the site.",
+      "image": "https://www.smbc-comics.com/comics/1794620545-20261114.png",
+      "source": "SMBC",
+      "category": "comics",
+      "published": "2026-11-14",
+      "added": "2026-11-15"
+    },
+    {
+      "url": "https://www.loudersound.com/music/tracks-singles/faith-no-more-easy-story-behind-cover-version",
+      "title": "How Faith No More trolled a generation of metal fans with Easy",
+      "description": "Louder tells how Faith No More trolled a generation of metal fans with their song Easy.",
+      "image": "https://cdn.mos.cms.futurecdn.net/QCxVnMDSHVKBMC2CN9KJom-1920-80.jpg",
+      "source": "Louder",
+      "category": "music",
+      "published": "2026-11-14",
+      "added": "2026-11-15"
+    },
+    {
+      "url": "https://flowingdata.com/2026/11/13/timeline-of-gambling-addicts/",
+      "title": "Timeline of gambling addicts",
+      "description": "Bloomberg used anonymized credit card data to chart a three-year timeline of online gambling.",
+      "image": "https://flowingdata.com/wp-content/uploads/2026/11/gambling-sacrifice-750x657.png",
+      "source": "FlowingData",
+      "category": "visual",
+      "published": "2026-11-13",
+      "added": "2026-11-15"
+    },
+    {
+      "url": "https://www.metmuseum.org/art/collection/search/591828",
+      "title": "I quattro libri dell'architettura di Andrea Palladio . . . — Andrea Palladio",
+      "description": "Andrea Palladio's 1570 illustrated book on architecture, from The Met's library collection.",
+      "image": "https://images.metmuseum.org/CRDImages/li/web-large/li120.32P17 P17.R.jpg",
+      "source": "The Met",
+      "category": "art",
+      "published": "2026-11-15",
+      "added": "2026-11-15"
+    },
+    {
+      "url": "https://commons.wikimedia.org/wiki/File:Mirador_del_Velo_de_Novia,_Seixal,_Madeira,_Portugal,_2019-05-30,_DD_67.jpg",
+      "title": "Véu da Noiva Waterfall, Seixal, Madeira",
+      "description": "Waterfall view at Seixal on the Portuguese island of Madeira.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0e/Mirador_del_Velo_de_Novia%2C_Seixal%2C_Madeira%2C_Portugal%2C_2019-05-30%2C_DD_67.jpg/960px-Mirador_del_Velo_de_Novia%2C_Seixal%2C_Madeira%2C_Portugal%2C_2019-05-30%2C_DD_67.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "source": "Wikimedia Picture of the Day",
+      "category": "visual",
+      "published": "2026-11-15",
+      "added": "2026-11-15"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Buran_(spacecraft)",
+      "title": "On this day in 1988",
+      "description": "The Soviet spacecraft Buran, a reusable vehicle built in response to the Space Shuttle, launched uncrewed on its only flight in 1988.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/68/Buran_on_An-225_%28Le_Bourget_1989%29_1.JPEG/330px-Buran_on_An-225_%28Le_Bourget_1989%29_1.JPEG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "source": "Wikipedia On this day",
+      "category": "nerdy",
+      "published": "2026-11-15",
+      "added": "2026-11-15"
+    },
     {
       "url": "https://www.nature.com/articles/d41586-026-03638-3",
       "title": "Found: A protein that drives ageing without unleashing inflammation",
@@ -1650,6 +1820,10 @@
     "2026-11-14": {
       "model": "claude-sonnet-5-5",
       "note": "A mixed day: a hardware hack or two, a Bay Area pixel map, comics, a Sun video and a gilded Egyptian goddess. The FAA ground stop is the big news, so I took one piece on it and skipped the duplicates, plus the ads, funding news and shop notices."
+    },
+    "2026-11-15": {
+      "model": "claude-sonnet-5-5",
+      "note": "A space-and-tinkering day: the Starship catch from two angles, Webb finding ancient ice, and a few Hackaday builds. I added a comic, Faith No More, a Palladio book and a Madeira waterfall for variety, and skipped the corporate drama and the shop notice."
     }
   }
 }
