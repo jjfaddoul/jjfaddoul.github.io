@@ -1,6 +1,166 @@
 {
-  "updated": "2026-11-15T09:53:20+08:00",
+  "updated": "2026-11-16T11:33:32+08:00",
   "items": [
+    {
+      "url": "https://iter.ca/post/ubo-uxss/",
+      "title": "Universal XSS in uBlock Origin from website-driven element picker",
+      "description": "A report of a universal cross-site scripting flaw in uBlock Origin, triggered through the extension's website-driven element picker.",
+      "image": null,
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2026-11-16",
+      "added": "2026-11-16"
+    },
+    {
+      "url": "https://ransomnews.com/burger-king-tweet-bitly-link-hijack-2026/",
+      "title": "Old Bitly links are being hijacked",
+      "description": "Old Bitly short links are reportedly being hijacked, a reminder that links can break or be taken over long after they were shared.",
+      "image": "https://ransomnews.com/wp-content/uploads/2026/11/burger-king-tweet-bitly-link-hijack-2026-cover-1024x576.png",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2026-11-15",
+      "added": "2026-11-16"
+    },
+    {
+      "url": "https://bruceroettgers.eu/blog/protomaps/",
+      "title": "Protomaps: Self-hosting map tiles has gotten cheap and easy",
+      "description": "A look at how cheap and easy it has become to host your own map tiles with Protomaps instead of paying for a mapping service.",
+      "image": null,
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2026-11-15",
+      "added": "2026-11-16"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=7_JF3etiAv8",
+      "title": "A short explainer on how El Niño works [video]",
+      "description": "A short video explainer on how El Niño works.",
+      "image": null,
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2026-11-15",
+      "added": "2026-11-16"
+    },
+    {
+      "url": "https://www.nytimes.com/2026/11/15/science/birdbrain-crows-birds-research-decision.html",
+      "title": "Crows make decisions faster than we can",
+      "description": "A story on research suggesting crows make decisions faster than people do.",
+      "image": "https://static01.nyt.com/images/2026/11/05/multimedia/00SCI-TB-CROWS-01-tlwk/00SCI-TB-CROWS-01-tlwk-facebookJumbo.jpg",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2026-11-15",
+      "added": "2026-11-16"
+    },
+    {
+      "url": "https://ductus.sorenblank.com",
+      "title": "Handwriting, as a Font",
+      "description": "A project about turning someone's handwriting into a usable font.",
+      "image": "https://ductus.sorenblank.com/opengraph-image.png?opengraph-image.3-4qkqxu0b7tg.png",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2026-11-15",
+      "added": "2026-11-16"
+    },
+    {
+      "url": "https://baron.by.dai.studio/",
+      "title": "WebGL Flight Simulator with seed generated terrain",
+      "description": "A flight simulator that runs in the browser with WebGL, flying over terrain generated from a seed.",
+      "image": "https://baron.by.dai.studio/og-image.png",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2026-11-15",
+      "added": "2026-11-16"
+    },
+    {
+      "url": "https://arstechnica.com/space/2026/11/vulcan-rocket-fails-during-launch-dealing-major-blow-to-spacex-competitors/",
+      "title": "Vulcan rocket fails during launch, dealing major blow to SpaceX competitors",
+      "description": "A Vulcan rocket failed during launch, the first total mission failure in United Launch Alliance's 20-year history, and a major blow to SpaceX's competitors.",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/GettyImages-2304790934-1152x648.jpg",
+      "source": "Ars Technica",
+      "category": "tech",
+      "published": "2026-11-15",
+      "added": "2026-11-16"
+    },
+    {
+      "url": "https://arstechnica.com/science/2026/11/how-the-worlds-fires-changed-while-humanity-hit-pause/",
+      "title": "How the world’s fires changed while humanity hit pause",
+      "description": "Covid-19 lockdowns cut global fire activity by 12.3 percent, according to a look at how the world's fires changed while humanity paused.",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/GettyImages-2293683755-1024x648.jpg",
+      "source": "Ars Technica",
+      "category": "tech",
+      "published": "2026-11-15",
+      "added": "2026-11-16"
+    },
+    {
+      "url": "https://hackaday.com/2026/11/15/vapourdeck-is-the-486-handheld-you-didnt-know-you-needed/",
+      "title": "VapourDeck is the 486 Handheld You Didn’t Know You Needed",
+      "description": "VapourDeck is a documented homebrew handheld PC built around a 486 processor for playing DOS games, made by Sprite_tm.",
+      "image": "https://hackaday.com/wp-content/uploads/2026/11/vapourdeck1.jpeg?w=800",
+      "source": "Hackaday",
+      "category": "tech",
+      "published": "2026-11-16",
+      "added": "2026-11-16"
+    },
+    {
+      "url": "https://www.smbc-comics.com/comic/valhalla",
+      "title": "Valhalla",
+      "description": "A comic about Valhalla, with a bonus panel on the SMBC site.",
+      "image": "https://www.smbc-comics.com/comics/1794620584-20261115.png",
+      "source": "SMBC",
+      "category": "comics",
+      "published": "2026-11-15",
+      "added": "2026-11-16"
+    },
+    {
+      "url": "https://warandpeas.com/2026/11/15/lord-and-saviour-which-one-comic/",
+      "title": "Lord and Saviour",
+      "description": "A new War and Peas comic called Lord and Saviour.",
+      "image": "https://warandpeas.com/wp-content/uploads/2026/11/lord-and-saviour-5.jpg",
+      "source": "War and Peas",
+      "category": "comics",
+      "published": "2026-11-15",
+      "added": "2026-11-16"
+    },
+    {
+      "url": "https://www.loudersound.com/bands-artists/john-fogerty-creedence-clearwater-revival-zach-bryan-ford-bronco",
+      "title": "Watch John Fogerty sing Creedence Clearwater Revival in the back of Zach Bryan's Ford Bronco",
+      "description": "A video of John Fogerty singing Creedence Clearwater Revival songs in the back of Zach Bryan's Ford Bronco.",
+      "image": "https://cdn.mos.cms.futurecdn.net/5dmGd2GPGcVRwv5KPdwPVE-1920-80.jpg",
+      "source": "Louder",
+      "category": "music",
+      "published": "2026-11-16",
+      "added": "2026-11-16"
+    },
+    {
+      "url": "https://news.un.org/feed/view/en/story/2026/11/1168801",
+      "title": "Nadia Murad: ‘Day by day, I took my story back’",
+      "description": "Nobel Peace Prize laureate Nadia Murad talks about telling her story of what ISIL did to her and the Yazidi community, and taking it back.",
+      "image": "https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Production%20Library/2026/11/12-11-2026_UN-Publications_Murad.jpg/image560x340cropped.jpg",
+      "source": "UN News",
+      "category": "humanitarian",
+      "published": "2026-11-15",
+      "added": "2026-11-16"
+    },
+    {
+      "url": "https://commons.wikimedia.org/wiki/File:International_hot_air_balloon_festival_in_leon_guanajuato_mexico_2012.jpg",
+      "title": "Hot air balloon festival in Leon, Mexico",
+      "description": "Hot air balloons filling the sky at the International Air Balloon Festival in Leon, Guanajuato, Mexico, in 2012.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/af/International_hot_air_balloon_festival_in_leon_guanajuato_mexico_2012.jpg/960px-International_hot_air_balloon_festival_in_leon_guanajuato_mexico_2012.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "source": "Wikimedia Picture of the Day",
+      "category": "visual",
+      "published": "2026-11-16",
+      "added": "2026-11-16"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Hoxne_Hoard",
+      "title": "On this day in 1992",
+      "description": "In 1992 the largest hoard of Roman silver and gold found in Britain turned up in the village of Hoxne in Suffolk.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/63/Hoxne_Hoard_1.jpg/330px-Hoxne_Hoard_1.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "source": "Wikipedia On this day",
+      "category": "nerdy",
+      "published": "2026-11-16",
+      "added": "2026-11-16"
+    },
     {
       "url": "https://www.spacex.com/launches/starship-flight-15",
       "title": "SpaceX catches the Starship to end Flight 15",
@@ -1824,6 +1984,10 @@
     "2026-11-15": {
       "model": "claude-sonnet-5-5",
       "note": "A space-and-tinkering day: the Starship catch from two angles, Webb finding ancient ice, and a few Hackaday builds. I added a comic, Faith No More, a Palladio book and a Madeira waterfall for variety, and skipped the corporate drama and the shop notice."
+    },
+    "2026-11-16": {
+      "model": "claude-sonnet-5-5",
+      "note": "A mixed day: a few web and security stories, some playful tinkering (a 486 handheld, a WebGL flight sim, handwriting as a font), a rocket failure, plus crows, fires, a Nobel laureate and a Roman hoard. I skipped pure business news and quiz or gossip items."
     }
   }
 }
