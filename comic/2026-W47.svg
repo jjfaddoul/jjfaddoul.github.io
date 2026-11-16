@@ -1,0 +1,55 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 560" font-family="Georgia, serif">
+<rect width="800" height="560" fill="#f6f1e4"/>
+<rect x="0" y="400" width="800" height="160" fill="#d9cfb8"/>
+<g stroke="#222" stroke-width="3" stroke-linejoin="round" stroke-linecap="round">
+<!-- window -->
+<rect x="470" y="40" width="290" height="250" fill="#cfe3ee"/>
+<line x1="615" y1="40" x2="615" y2="290"/>
+<line x1="470" y1="165" x2="760" y2="165"/>
+<!-- crowd outside, bottom of window -->
+<g fill="#444">
+<circle cx="505" cy="232" r="12"/><rect x="491" y="244" width="28" height="46"/>
+<circle cx="560" cy="226" r="12"/><rect x="546" y="238" width="28" height="52"/>
+<circle cx="665" cy="230" r="12"/><rect x="651" y="242" width="28" height="48"/>
+<circle cx="725" cy="236" r="12"/><rect x="711" y="248" width="28" height="42"/>
+</g>
+<line x1="505" y1="157" x2="505" y2="220" stroke-width="4"/><line x1="565" y1="157" x2="565" y2="214" stroke-width="4"/><rect x="485" y="95" width="145" height="62" fill="#fff"/>
+<line x1="690" y1="160" x2="690" y2="218" stroke-width="4"/><rect x="635" y="108" width="120" height="52" fill="#fff"/>
+<!-- table -->
+<rect x="40" y="400" width="720" height="26" fill="#8a5a3a"/>
+<rect x="90" y="426" width="22" height="120" fill="#6e4528"/>
+<rect x="688" y="426" width="22" height="120" fill="#6e4528"/>
+<!-- empty chair -->
+<path d="M270 250 Q270 190 340 190 Q410 190 410 250 L410 340 L270 340 Z" fill="#7a1f2b"/>
+<rect x="262" y="340" width="156" height="40" rx="10" fill="#8f2a38"/>
+<rect x="334" y="380" width="12" height="30" fill="#333"/>
+<!-- sticky note -->
+<g transform="rotate(-12 340 255)">
+<rect x="285" y="226" width="110" height="50" fill="#ffe66b"/>
+</g>
+<!-- board member left -->
+<circle cx="120" cy="268" r="30" fill="#f2cfae"/>
+<path d="M90 255 Q120 225 150 255" fill="#999"/>
+<path d="M78 400 Q78 318 120 312 Q162 318 162 400 Z" fill="#2d3e5c"/>
+<path d="M120 312 L108 340 L120 400 L132 340 Z" fill="#fff" stroke-width="2"/>
+<!-- board member right (speaking) -->
+<circle cx="690" cy="340" r="0"/>
+</g>
+<g stroke="#222" stroke-width="3" stroke-linejoin="round" stroke-linecap="round">
+<circle cx="205" cy="288" r="30" fill="#e8bd96"/>
+<path d="M175 288 Q177 258 205 256 Q233 258 235 288 Q220 270 205 270 Q190 270 175 288 Z" fill="#222"/>
+<path d="M163 400 Q163 332 205 326 Q247 332 247 400 Z" fill="#5c2d3e"/>
+<circle cx="195" cy="290" r="2.5" fill="#222"/><circle cx="215" cy="290" r="2.5" fill="#222"/>
+<path d="M197 304 Q205 308 213 304" fill="none"/>
+<circle cx="112" cy="270" r="2.5" fill="#222"/><circle cx="130" cy="270" r="2.5" fill="#222"/>
+<path d="M113 286 Q121 282 129 286" fill="none"/>
+</g>
+<!-- text -->
+<g font-family="Helvetica, Arial, sans-serif" font-weight="bold" text-anchor="middle" fill="#222">
+<text x="340" y="248" font-size="17" transform="rotate(-12 340 251)">RESIGNED</text>
+<text x="557" y="123" font-size="21">BRING</text>
+<text x="557" y="146" font-size="21">JENSEN</text>
+<text x="695" y="130" font-size="19">BACK!</text>
+<text x="695" y="148" font-size="13" font-weight="normal">(backed by Elon)</text>
+</g>
+</svg>

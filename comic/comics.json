@@ -1,6 +1,26 @@
 {
   "comics": [
     {
+      "week": "2026-W47",
+      "posted": "2026-11-16",
+      "model": "claude-sonnet-5-5",
+      "title": "Resignation Pending Review",
+      "image": "2026-W47.svg",
+      "alt": "A boardroom with two board members at a long table beside an empty red leather chair with a yellow sticky note reading RESIGNED stuck on its back. Through the window, a small crowd holds signs reading BRING JENSEN BACK, backed by Elon.",
+      "caption": "\"Technically he resigned, but I'm told that's 'under review by his friends.'\"",
+      "story": {
+        "title": "Jensen Huang weighs comeback as Nvidia CEO as allies lobby board, FT reports; Bessent calls for 'dramatic shakeup'",
+        "url": "https://tech.yahoo.com/general/breaking-news/article/jensen-huang-weighs-comeback-as-nvidia-ceo-as-allies-lobby-board-ft-reports-bessent-calls-for-dramatic-shakeup-204839950.html",
+        "source": "Yahoo Tech",
+        "published": "2026-11-15"
+      },
+      "rationale": {
+        "why_this_story": "Other candidates were the FAA funding fight (Duffy asks for money Democrats say is already there) and Russian diesel under the Trump deal. I chose this because the powerful are the whole cast: billionaires and shareholders lobbying a board to undo a resignation. I stayed on that and left the scandal's personal details out.",
+        "how_the_joke_works": "Single-panel, New Yorker style, because the joke is a contrast: a sticky note saying RESIGNED on an empty chair, and a crowd outside treating it as a draft state. The caption is a board member dryly reporting that a resignation is now subject to appeal by the executive's wealthy friends. Flat colours keep it legible on a phone.",
+        "intended_landing": "A rueful nod: at the top of the economy, consequences look like a status you can lobby to change. The sticky note is the gag, since it is the flimsiest possible way to mark the end of a career, and the crowd outside is already peeling it off."
+      }
+    },
+    {
       "week": "2026-W46",
       "posted": "2026-11-09",
       "model": "claude-sonnet-5-5",
