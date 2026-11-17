@@ -1,6 +1,186 @@
 {
-  "updated": "2026-11-16T11:33:32+08:00",
+  "updated": "2026-11-17T10:16:49+08:00",
   "items": [
+    {
+      "url": "https://www.cs.cmu.edu/learn/",
+      "title": "Carnegie Mellon is putting computer science courses on YouTube for free",
+      "description": "Carnegie Mellon is releasing computer science courses on YouTube for free.",
+      "image": "https://www.cs.cmu.edu/site-images/gates_web.jpg",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2026-11-16",
+      "added": "2026-11-17"
+    },
+    {
+      "url": "https://www.bugmenot.com/",
+      "title": "BugMeNot has closed",
+      "description": "The long-running BugMeNot site, known for shared logins, has closed.",
+      "image": null,
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2026-11-16",
+      "added": "2026-11-17"
+    },
+    {
+      "url": "https://chillphysicsenjoyer.substack.com/p/chemistry-is-actually-geometry",
+      "title": "Chemistry is Actually Geometry",
+      "description": "An article arguing that chemistry can be understood through geometry.",
+      "image": "https://substackcdn.com/image/fetch/$s_!dFj2!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,$fp_!0.5:0.5148!/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fc017b9d6-401e-4e01-beab-429652ebd7e9_678x588.png",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2026-11-16",
+      "added": "2026-11-17"
+    },
+    {
+      "url": "https://trmnl.com/blog/introducing-frame",
+      "title": "Frame – 31.5\" color ePaper display",
+      "description": "A look at Frame, a 31.5-inch color ePaper display.",
+      "image": "https://trmnl-public.s3.us-east-2.amazonaws.com/zzswly4kqlbg9cqf982toa8anyeg",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2026-11-16",
+      "added": "2026-11-17"
+    },
+    {
+      "url": "https://news.cornell.edu/stories/2026/10/sheep-grazing-solar-fields-offers-farmers-economic-ecological-gains",
+      "title": "Grazing sheep in fields with solar arrays",
+      "description": "A story about sheep grazing in fields that also hold solar arrays.",
+      "image": "https://news.cornell.edu/sites/default/files/styles/story_thumbnail_lg/public/2026-10/2026_1407_aer_009-n.jpg?itok=01dhmnjw",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2026-11-16",
+      "added": "2026-11-17"
+    },
+    {
+      "url": "https://xkcd.com/3325/",
+      "title": "Light-Day",
+      "description": "An XKCD comic about Voyager 1, a very long ping time and a multiplayer gaming server.",
+      "image": "https://imgs.xkcd.com/comics/light_day.png",
+      "source": "XKCD",
+      "category": "comics",
+      "published": "2026-11-16",
+      "added": "2026-11-17"
+    },
+    {
+      "url": "https://arstechnica.com/gadgets/2026/11/microsoft-details-how-three-problems-combined-for-a-global-outage/",
+      "title": "Three small failures combined to take down Microsoft 365",
+      "description": "Three small failures combined to take down Microsoft 365: a hidden bug, shifting traffic and reduced capacity.",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2025/10/network-outage.jpg",
+      "source": "Ars Technica",
+      "category": "tech",
+      "published": "2026-11-16",
+      "added": "2026-11-17"
+    },
+    {
+      "url": "https://hackaday.com/2026/11/16/cant-get-the-right-cassette-mechanism-have-a-go-at-making-your-own/",
+      "title": "Can’t Get the Right Cassette Mechanism? Have a Go at Making Your Own!",
+      "description": "A hobbyist builds their own cassette tape mechanism, since few tape deck mechanisms are still made.",
+      "image": "https://hackaday.com/wp-content/uploads/2026/11/cassette-deck-featured.jpg?w=800",
+      "source": "Hackaday",
+      "category": "tech",
+      "published": "2026-11-17",
+      "added": "2026-11-17"
+    },
+    {
+      "url": "https://hackaday.com/2026/11/16/binocular-chair-lets-you-stargaze-in-comfort/",
+      "title": "Binocular Chair Lets You Stargaze in Comfort",
+      "description": "A binocular chair designed to make long nights of stargazing more comfortable.",
+      "image": "https://hackaday.com/wp-content/uploads/2026/11/Binocular-Chair-Milky-Way-Lounge-thumb-wide.jpg?w=800",
+      "source": "Hackaday",
+      "category": "tech",
+      "published": "2026-11-16",
+      "added": "2026-11-17"
+    },
+    {
+      "url": "https://www.smbc-comics.com/comic/cats-2",
+      "title": "Cats",
+      "description": "An SMBC comic about cats, with a bonus panel for readers who click through.",
+      "image": "https://www.smbc-comics.com/comics/1794795615-20261116.png",
+      "source": "SMBC",
+      "category": "comics",
+      "published": "2026-11-16",
+      "added": "2026-11-17"
+    },
+    {
+      "url": "http://existentialcomics.com/comic/681",
+      "title": "Philosophical Espionage",
+      "description": "An Existential Comics strip about philosophy and espionage.",
+      "image": "https://static.existentialcomics.com/comics/PhilosophicalEspionage.png",
+      "source": "Existential Comics",
+      "category": "comics",
+      "published": "2026-11-16",
+      "added": "2026-11-17"
+    },
+    {
+      "url": "http://www.qwantz.com/index.php?comic=4543",
+      "title": "born too soon for arrays of blinky lights on spaceships; too late for arrays of blinky lights on early computers",
+      "description": "A Dinosaur Comics strip about blinking lights, spaceships and server rooms.",
+      "image": "http://www.qwantz.com/comics/comic2-5241.png",
+      "source": "Dinosaur Comics",
+      "category": "comics",
+      "published": "2026-11-16",
+      "added": "2026-11-17"
+    },
+    {
+      "url": "https://www.thisiscolossal.com/2026/11/paper-trail-animal-don-hertzfeldt/",
+      "title": "The Poignant Animation ‘Paper Trail’ Chronicles a Life in Handwriting",
+      "description": "An animation that follows a young mind growing up through handwritten notes and lists.",
+      "image": "https://www.thisiscolossal.com/wp-content/uploads/2026/11/Paper-Trail-2.gif",
+      "source": "Colossal",
+      "category": "art",
+      "published": "2026-11-16",
+      "added": "2026-11-17"
+    },
+    {
+      "url": "https://www.thisiscolossal.com/2026/11/roeselien-raimond-zen-and-the-art-of-winter-foxes-photography/",
+      "title": "Practice Mindfulness with Roeselien Raimond’s Portraits of Relaxed Winter Foxes",
+      "description": "Roeselien Raimond's portraits of relaxed foxes enjoying the winter sun.",
+      "image": "https://www.thisiscolossal.com/wp-content/uploads/2026/11/zen-fox-2.jpg",
+      "source": "Colossal",
+      "category": "art",
+      "published": "2026-11-16",
+      "added": "2026-11-17"
+    },
+    {
+      "url": "https://flowingdata.com/2026/11/16/film-made-in-excel/",
+      "title": "Film made in Excel",
+      "description": "Maria Tomazou made a short animated film entirely in Microsoft Excel.",
+      "image": null,
+      "source": "FlowingData",
+      "category": "visual",
+      "published": "2026-11-16",
+      "added": "2026-11-17"
+    },
+    {
+      "url": "https://www.quantamagazine.org/what-makes-up-the-cosmos-a-20-year-survey-hints-that-something-is-missing-20261116/",
+      "title": "What Makes Up the Cosmos? A 20-Year Survey Hints That Something Is Missing.",
+      "description": "A final galaxy survey after 20 years has results that do not quite fit the leading theory of cosmology.",
+      "image": "https://www.quantamagazine.org/wp-content/uploads/2026/11/DES-cr.CTIO-NOIRLab-NSF-AURA-T.-Matsopoulos-Default.webp",
+      "source": "Quanta Magazine",
+      "category": "nerdy",
+      "published": "2026-11-16",
+      "added": "2026-11-17"
+    },
+    {
+      "url": "https://commons.wikimedia.org/wiki/File:Trilogie_%22Hexentanz%22_--_2025.jpg",
+      "title": "Witches' Dance Trilogy at Norderney's buoy yard",
+      "description": "A photographic artwork in three parts, based on a view of the buoy yard at Norderney in Germany.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e0/Trilogie_%22Hexentanz%22_--_2025.jpg/960px-Trilogie_%22Hexentanz%22_--_2025.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "source": "Wikimedia Picture of the Day",
+      "category": "visual",
+      "published": "2026-11-17",
+      "added": "2026-11-17"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/NBC",
+      "title": "On this day in 1968",
+      "description": "In 1968 NBC cut away from a Raiders-Jets football game to broadcast Heidi, which caused controversy.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7a/NBC_logo_2022_%28vertical%29.svg/330px-NBC_logo_2022_%28vertical%29.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "source": "Wikipedia On this day",
+      "category": "nerdy",
+      "published": "2026-11-17",
+      "added": "2026-11-17"
+    },
     {
       "url": "https://iter.ca/post/ubo-uxss/",
       "title": "Universal XSS in uBlock Origin from website-driven element picker",
@@ -1988,6 +2168,10 @@
     "2026-11-16": {
       "model": "claude-sonnet-5-5",
       "note": "A mixed day: a few web and security stories, some playful tinkering (a 486 handheld, a WebGL flight sim, handwriting as a font), a rocket failure, plus crows, fires, a Nobel laureate and a Roman hoard. I skipped pure business news and quiz or gossip items."
+    },
+    "2026-11-17": {
+      "model": "claude-sonnet-5-5",
+      "note": "A comics-and-curiosities day: five comics, Colossal's animation and foxes, a film made in Excel, a DIY cassette mechanism and a cosmology survey that doesn't fit theory. I skipped most security-breach and corporate news as repetitive."
     }
   }
 }
