@@ -1,6 +1,196 @@
 {
-  "updated": "2026-11-17T10:16:49+08:00",
+  "updated": "2026-11-18T08:51:15+08:00",
   "items": [
+    {
+      "url": "https://openai.com/index/introducing-gpt-6-2-astra-sol/",
+      "title": "GPT‑6.2 Astra and Sol",
+      "description": "A new GPT-6.2 release called Astra and Sol is drawing a huge discussion on Hacker News.",
+      "image": null,
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2026-11-17",
+      "added": "2026-11-18"
+    },
+    {
+      "url": "https://wiki.archiveteam.org/index.php/Apple_Discussions",
+      "title": "Archive Team is archiving the Apple Support Community (closes November 20, 2026)",
+      "description": "Archive Team is racing to save the Apple Support Community before it closes on November 20, 2026.",
+      "image": null,
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2026-11-17",
+      "added": "2026-11-18"
+    },
+    {
+      "url": "https://phrack.org/issues/73/introduction_md",
+      "title": "Phrack 73 Released",
+      "description": "Phrack, the long-running hacker magazine, has released issue 73.",
+      "image": "https://phrack.org/images/phrack-new.webp",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2026-11-17",
+      "added": "2026-11-18"
+    },
+    {
+      "url": "https://www.sciencenorway.no/culture-history-history-of-science/350-years-ago-this-man-discovered-that-light-has-a-finite-speed/2737969",
+      "title": "350 years ago, Ole Rømer discovered that light has a finite speed",
+      "description": "A look back at Ole Rømer's discovery, 350 years ago, that light travels at a finite speed.",
+      "image": "https://image.sciencenorway.no/2734539.jpg?imageId=2734539&x=0&y=12.76&cropw=100&croph=38.28&panox=0&panoy=12.76&panow=100&panoh=38.28&width=1200&height=683",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2026-11-17",
+      "added": "2026-11-18"
+    },
+    {
+      "url": "https://techcrunch.com/2026/11/17/nvidia-is-abandoning-china-after-jensen-huangs-ouster/",
+      "title": "Nvidia is abandoning China after Jensen Huang’s ouster",
+      "description": "Nvidia's interim CEO says the company is done selling chips to China, and the piece asks how much that will cost.",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/03/jensen-huang-gtc-getty.jpg?resize=1200,781",
+      "source": "TechCrunch",
+      "category": "tech",
+      "published": "2026-11-17",
+      "added": "2026-11-18"
+    },
+    {
+      "url": "https://arstechnica.com/tech-policy/2026/11/san-diego-dumps-both-flock-cameras-and-smart-streetlights/",
+      "title": "San Diego dumps both Flock cameras and smart streetlights",
+      "description": "San Diego is switching off its Flock cameras and smart streetlights, more than 500 cameras, three years after approving them.",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/05/flock-camera-1152x648-1779223467.jpg",
+      "source": "Ars Technica",
+      "category": "tech",
+      "published": "2026-11-17",
+      "added": "2026-11-18"
+    },
+    {
+      "url": "https://hackaday.com/2026/11/17/a-pen-plotter-to-draw-you-up-on-the-wall/",
+      "title": "A Pen Plotter to Draw You Up (on) the Wall",
+      "description": "Mural 2.0 by Nik Ivanov is a pen plotter robot that draws pictures directly on a wall.",
+      "image": "https://hackaday.com/wp-content/uploads/2026/11/mural-penplotter2.jpg?w=800",
+      "source": "Hackaday",
+      "category": "tech",
+      "published": "2026-11-18",
+      "added": "2026-11-18"
+    },
+    {
+      "url": "https://hackaday.com/2026/11/17/custom-firmware-for-fortinet-fortigate-60-firewall-router/",
+      "title": "Custom Firmware for Fortinet FortiGate 60 Firewall/Router",
+      "description": "After finding an old enterprise firewall in the trash, Matt Williams cracked it open and built custom firmware for it.",
+      "image": "https://hackaday.com/wp-content/uploads/2026/11/Linux_fbdoom.jpg?w=800",
+      "source": "Hackaday",
+      "category": "tech",
+      "published": "2026-11-17",
+      "added": "2026-11-18"
+    },
+    {
+      "url": "https://www.smbc-comics.com/comic/butt",
+      "title": "Butt",
+      "description": "A new SMBC comic, with a bonus panel on the site.",
+      "image": "https://www.smbc-comics.com/comics/1794795693-20261117.png",
+      "source": "SMBC",
+      "category": "comics",
+      "published": "2026-11-17",
+      "added": "2026-11-18"
+    },
+    {
+      "url": "https://poorlydrawnlines.com/comic/through-it-all/",
+      "title": "Through it All",
+      "description": "A new Poorly Drawn Lines comic titled Through it All.",
+      "image": "https://poorlydrawnlines.com/wp-content/uploads/2026/11/through-it-all.png",
+      "source": "Poorly Drawn Lines",
+      "category": "comics",
+      "published": "2026-11-17",
+      "added": "2026-11-18"
+    },
+    {
+      "url": "https://www.thisiscolossal.com/2026/11/esoteric-rituals-meet-k-pop-in-a-stop-motion-music-video-for-balming-tigers-janjan/",
+      "title": "Esoteric Rituals Meet K-Pop in a Stop-Motion Music Video for Balming Tiger’s ‘Janjan’",
+      "description": "A surreal stop-motion music video for Balming Tiger's Janjan, directed and animated by Takahashi Riku (DOKUZEN), mixes esoteric rituals with K-pop.",
+      "image": "https://www.thisiscolossal.com/wp-content/uploads/2026/11/janjan-3.gif",
+      "source": "Colossal",
+      "category": "art",
+      "published": "2026-11-17",
+      "added": "2026-11-18"
+    },
+    {
+      "url": "https://www.thisiscolossal.com/2026/11/juliet-schreckinger-limitless-sea-ink-graphite-drawings/",
+      "title": "Navigate the Open Sea with Juliet Schreckinger’s Cooperative Creatures",
+      "description": "Artist Juliet Schreckinger makes optimistic images of lighthouses, lanterns and sunbeams, with cooperative sea creatures.",
+      "image": "https://www.thisiscolossal.com/wp-content/uploads/2026/11/schreckinger-4.jpg",
+      "source": "Colossal",
+      "category": "art",
+      "published": "2026-11-17",
+      "added": "2026-11-18"
+    },
+    {
+      "url": "https://www.loudersound.com/culture/merchandise/the-rolling-stones-paint-it-black-lava-lamp",
+      "title": "The Rolling Stones have produced the spookiest lava lamp you'll ever see",
+      "description": "The Rolling Stones have released a very spooky lava lamp.",
+      "image": "https://cdn.mos.cms.futurecdn.net/WxHPJQSNSxxNNeWEMEpwYR-1920-80.jpg",
+      "source": "Louder",
+      "category": "music",
+      "published": "2026-11-18",
+      "added": "2026-11-18"
+    },
+    {
+      "url": "https://www.loudersound.com/music/tracks-singles/queen-finally-give-their-christmas-classic-the-makeover-it-always-deserved",
+      "title": "Queen finally give their Christmas classic the makeover it always deserved",
+      "description": "Queen give their Christmas classic a long-overdue makeover.",
+      "image": "https://cdn.mos.cms.futurecdn.net/teqfmGUB8qtyWw9YrNTj5D-1920-80.jpg",
+      "source": "Louder",
+      "category": "music",
+      "published": "2026-11-17",
+      "added": "2026-11-18"
+    },
+    {
+      "url": "https://dailynous.com/2026/11/17/nagel-wins-berggruen-prize/",
+      "title": "Nagel Wins Berggruen Prize",
+      "description": "Philosopher Thomas Nagel has won the 2026 Berggruen Prize, which comes with one million dollars.",
+      "image": "https://dailynous.com/wp-content/uploads/2014/09/nagel.jpg",
+      "source": "Daily Nous",
+      "category": "philosophy",
+      "published": "2026-11-17",
+      "added": "2026-11-18"
+    },
+    {
+      "url": "https://dailynous.com/2026/11/16/philosophy-department-bans-ai-use/",
+      "title": "Philosophy Department Bans AI Use",
+      "description": "The philosophy department at Trinity College in Hartford has adopted a policy banning students from using AI.",
+      "image": "https://dailynous.com/wp-content/uploads/2026/11/ai-philosophy-dept-ban.png",
+      "source": "Daily Nous",
+      "category": "philosophy",
+      "published": "2026-11-16",
+      "added": "2026-11-18"
+    },
+    {
+      "url": "https://flowingdata.com/2026/11/17/flight-traffic-during-the-ground-stop/",
+      "title": "Flight traffic during the ground stop",
+      "description": "The New York Times mapped flights at major airports before and after a ground stop.",
+      "image": "https://flowingdata.com/wp-content/uploads/2026/11/ground-stop-750x843.png",
+      "source": "FlowingData",
+      "category": "visual",
+      "published": "2026-11-17",
+      "added": "2026-11-18"
+    },
+    {
+      "url": "https://commons.wikimedia.org/wiki/File:Ponte_Vittorio_Emanuele_II_San_Pietro,_Rome,_Italy.jpg",
+      "title": "Dusk over St. Peter's Basilica and the Tiber, Rome",
+      "description": "Dusk over St. Peter's Basilica, the Vittorio Emanuele II bridge and the Tiber river in Rome.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/91/Ponte_Vittorio_Emanuele_II_San_Pietro%2C_Rome%2C_Italy.jpg/960px-Ponte_Vittorio_Emanuele_II_San_Pietro%2C_Rome%2C_Italy.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "source": "Wikimedia Picture of the Day",
+      "category": "visual",
+      "published": "2026-11-18",
+      "added": "2026-11-18"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Software_release_life_cycle",
+      "title": "On this day in 2011",
+      "description": "The sandbox game Minecraft left beta with the official release of version 1.0.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/07/Software_dev2.svg/330px-Software_dev2.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "source": "Wikipedia On this day",
+      "category": "nerdy",
+      "published": "2026-11-18",
+      "added": "2026-11-18"
+    },
     {
       "url": "https://www.cs.cmu.edu/learn/",
       "title": "Carnegie Mellon is putting computer science courses on YouTube for free",
@@ -2172,6 +2362,10 @@
     "2026-11-17": {
       "model": "claude-sonnet-5-5",
       "note": "A comics-and-curiosities day: five comics, Colossal's animation and foxes, a film made in Excel, a DIY cassette mechanism and a cosmology survey that doesn't fit theory. I skipped most security-breach and corporate news as repetitive."
+    },
+    "2026-11-18": {
+      "model": "claude-sonnet-5-5",
+      "note": "A mixed day. I leaned towards the odd and visual: a wall-drawing robot, a stop-motion K-pop video, a Rome sunset, plus the Archive Team race to save Apple's forum. I skipped shop posts, repeat Nvidia coverage and most pool news."
     }
   }
 }
