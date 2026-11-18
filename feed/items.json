@@ -1,6 +1,216 @@
 {
-  "updated": "2026-11-18T08:51:15+08:00",
+  "updated": "2026-11-19T07:52:24+08:00",
   "items": [
+    {
+      "url": "https://xkcd.com/3326/",
+      "title": "Voyager Crash",
+      "description": "A new XKCD about Voyager 1 and what it may have hit, with a delightfully odd twist about where the probe is now.",
+      "image": "https://imgs.xkcd.com/comics/voyager_crash.png",
+      "source": "XKCD",
+      "category": "comics",
+      "published": "2026-11-18",
+      "added": "2026-11-19"
+    },
+    {
+      "url": "https://techcrunch.com/2026/11/18/anthropic-reportedly-prices-ipo-at-83-a-share-above-projected-range/",
+      "title": "Anthropic reportedly prices IPO at $83 a share, above projected range",
+      "description": "Reports say Anthropic has priced its long-awaited IPO at $83 a share, above the projected range, for a valuation of about $1.5 trillion.",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/10/GettyImages-2295579000.jpg?resize=1200,800",
+      "source": "TechCrunch",
+      "category": "tech",
+      "published": "2026-11-18",
+      "added": "2026-11-19"
+    },
+    {
+      "url": "https://arstechnica.com/gadgets/2026/11/ukraine-blew-up-putins-bridge-using-relay-drones-to-bypass-starlink-limits/",
+      "title": "Ukraine blew up Putin’s bridge using relay drones to bypass Starlink limits",
+      "description": "Ukraine reportedly struck a bridge using relay drones built at home, getting around Starlink limits and adapting lessons from the battlefield.",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/Kerch-Strait-Bridge-smoke-generators-1152x648.jpg",
+      "source": "Ars Technica",
+      "category": "tech",
+      "published": "2026-11-18",
+      "added": "2026-11-19"
+    },
+    {
+      "url": "https://arstechnica.com/gadgets/2026/11/netflix-ceo-admits-app-may-bury-stuff-you-want-to-watch-under-stuff-you-dont/",
+      "title": "Netflix CEO admits app may bury stuff you want to watch under stuff you don’t",
+      "description": "Netflix CEO Ted Sarandos talks about how hit shows can be hard to find, and admits the app may bury what you want under what you don't.",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2025/01/squid1-1152x648.jpg",
+      "source": "Ars Technica",
+      "category": "tech",
+      "published": "2026-11-18",
+      "added": "2026-11-19"
+    },
+    {
+      "url": "https://hackaday.com/2026/11/18/the-mega-tamagotchi-manga-reader/",
+      "title": "The Mega Tamagotchi Manga Reader",
+      "description": "A maker builds a Tamagotchi-style handheld for reading manga, so you can skip carrying a stack of paper volumes.",
+      "image": "https://hackaday.com/wp-content/uploads/2026/11/6126241794900320786.jpg?w=800",
+      "source": "Hackaday",
+      "category": "tech",
+      "published": "2026-11-18",
+      "added": "2026-11-19"
+    },
+    {
+      "url": "https://hackaday.com/2026/11/18/handheld-motor-cancels-out-every-twist-and-turn/",
+      "title": "Handheld Motor Cancels Out Every Twist and Turn",
+      "description": "A handheld motor build where motion sensor input steers the motor to cancel out every twist you give it, so you can feel it work.",
+      "image": "https://hackaday.com/wp-content/uploads/2026/11/CAN-do-GYRO-0-7-screenshot.png?w=800",
+      "source": "Hackaday",
+      "category": "tech",
+      "published": "2026-11-18",
+      "added": "2026-11-19"
+    },
+    {
+      "url": "https://hackaday.com/2026/11/18/serial-the-port-that-wont-die/",
+      "title": "Serial: The Port That Won’t Die",
+      "description": "A look at the serial port and why it has stuck around through sixty years of changing computers.",
+      "image": "https://hackaday.com/wp-content/uploads/2024/10/Teletype.jpg?w=800",
+      "source": "Hackaday",
+      "category": "tech",
+      "published": "2026-11-18",
+      "added": "2026-11-19"
+    },
+    {
+      "url": "https://www.smbc-comics.com/comic/formal",
+      "title": "Formal",
+      "description": "A new SMBC comic, titled Formal, with a bonus panel on the site.",
+      "image": "https://www.smbc-comics.com/comics/1794795738-20261118.webp",
+      "source": "SMBC",
+      "category": "comics",
+      "published": "2026-11-18",
+      "added": "2026-11-19"
+    },
+    {
+      "url": "http://www.qwantz.com/index.php?comic=4544",
+      "title": "i'm reliably informed that romulans use an artificial quantum singularity for their household chores",
+      "description": "Today's Dinosaur Comics, in which the dinosaurs ponder what Romulans might use for household chores.",
+      "image": "http://www.qwantz.com/comics/comic2-5242.png",
+      "source": "Dinosaur Comics",
+      "category": "comics",
+      "published": "2026-11-18",
+      "added": "2026-11-19"
+    },
+    {
+      "url": "https://www.thisiscolossal.com/2026/11/sylvain-lefebvre-oil-paintings-marbled-paper/",
+      "title": "Hand-Marbled Papers Ground Sylvain Lefebvre’s Surreal Landscapes",
+      "description": "Sylvain Lefebvre makes surreal landscapes from hand-marbled papers in a series about the balance of nature.",
+      "image": "https://www.thisiscolossal.com/wp-content/uploads/2026/11/lefebvre-9.jpeg",
+      "source": "Colossal",
+      "category": "art",
+      "published": "2026-11-18",
+      "added": "2026-11-19"
+    },
+    {
+      "url": "https://www.thisiscolossal.com/2026/11/vhils-marcelo-cidade-sao-paolo-2878/",
+      "title": "Vhils and Marcelo Cidade Cloak a São Paulo Colonial Building in Silver Thermal Blankets",
+      "description": "Artists Vhils and Marcelo Cidade wrap a colonial-style building in Sao Paulo in silver thermal blankets of the kind used in emergencies.",
+      "image": "https://www.thisiscolossal.com/wp-content/uploads/2026/11/vhils-5.jpg",
+      "source": "Colossal",
+      "category": "art",
+      "published": "2026-11-18",
+      "added": "2026-11-19"
+    },
+    {
+      "url": "https://www.thisiscolossal.com/2026/11/thomas-cian-detailed-gouache-pencil-animal-drawings/",
+      "title": "Meticulously Detailed Animal Portraits by Thomas Cian Pop from the Page",
+      "description": "Thomas Cian creates carefully detailed animal portraits, driven by a wish to reconnect with what exists apart from humans.",
+      "image": "https://www.thisiscolossal.com/wp-content/uploads/2026/11/cian-5-e1795015257583.jpg",
+      "source": "Colossal",
+      "category": "art",
+      "published": "2026-11-18",
+      "added": "2026-11-19"
+    },
+    {
+      "url": "https://publicdomainreview.org/collection/epistle-of-othea",
+      "title": "Miniatures from Christine de Pizan’s Epistle of Othea (ca. 1460)",
+      "description": "Illustrations from Christine de Pizan's advice book for young noblemen, c. 1460, showing war and myth in a surprisingly mellow style.",
+      "image": "https://pdr-assets.b-cdn.net//collections/epistle-of-othea/fmb-cb-0049_046r-thumb.jpg",
+      "source": "Public Domain Review",
+      "category": "art",
+      "published": "2026-11-18",
+      "added": "2026-11-19"
+    },
+    {
+      "url": "https://www.loudersound.com/culture/gaming/gta-vice-city-glam-metal-love-fist",
+      "title": "How Grand Theft Auto: Vice City helped make 80s metal cool again",
+      "description": "Louder looks at how the video game Grand Theft Auto: Vice City helped make 80s metal cool again.",
+      "image": "https://cdn.mos.cms.futurecdn.net/c2FHmfjRD9ZTxtLRRzA2ak-1920-80.png",
+      "source": "Louder",
+      "category": "music",
+      "published": "2026-11-18",
+      "added": "2026-11-19"
+    },
+    {
+      "url": "https://dailynous.com/2026/11/18/how-much-ai-generated-text-is-in-todays-philosophy-journals/",
+      "title": "How Much AI-Generated Text Is In Today’s Philosophy Journals? (guest post)",
+      "description": "A guest post asks how much AI-generated text now appears in philosophy journals, and finds philosophers using AI in their papers more than expected.",
+      "image": "https://dailynous.com/wp-content/uploads/2026/11/circuit-shirt-black-white-gold-1024x651.jpg",
+      "source": "Daily Nous",
+      "category": "philosophy",
+      "published": "2026-11-18",
+      "added": "2026-11-19"
+    },
+    {
+      "url": "https://news.un.org/feed/view/en/story/2026/11/1168832",
+      "title": "Patients running out of options as antibiotics stop working against common infections",
+      "description": "The WHO warns that common bacteria are growing resistant to front-line and even last-resort antibiotics, leaving patients with fewer options.",
+      "image": "https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Libraries/Production%20Library/24-03-2023-WHO-antimicrobial.jpg/image560x340cropped.jpg",
+      "source": "UN News",
+      "category": "humanitarian",
+      "published": "2026-11-18",
+      "added": "2026-11-19"
+    },
+    {
+      "url": "https://flowingdata.com/2026/11/18/american-daily-routine-age/",
+      "title": "How daily routines change with age and responsibilities",
+      "description": "A chart showing how the daily routines of adults change with age and responsibilities, from work and meals to sleep.",
+      "image": "https://flowingdata.com/wp-content/uploads/2026/11/daily-routine-age-and-responsbility-750x401.png",
+      "source": "FlowingData",
+      "category": "visual",
+      "published": "2026-11-18",
+      "added": "2026-11-19"
+    },
+    {
+      "url": "https://www.quantamagazine.org/how-m-c-eschers-art-creates-bizarre-mathematical-worlds-20261118/",
+      "title": "How M.C. Escher’s Art Creates Bizarre Mathematical Worlds",
+      "description": "A look at how M.C. Escher, who had no formal math training, made art that has inspired mathematicians, as a new exhibition shows.",
+      "image": "https://www.quantamagazine.org/wp-content/uploads/2042/11/ImageGallery_EscherMath-crSEENOTES-Default.webp",
+      "source": "Quanta Magazine",
+      "category": "nerdy",
+      "published": "2026-11-18",
+      "added": "2026-11-19"
+    },
+    {
+      "url": "https://www.metmuseum.org/art/collection/search/337725",
+      "title": "The Round Tower, from \"Carceri d'invenzione\" (Imaginary Prisons) — Giovanni Battista Piranesi",
+      "description": "An etching of a round tower from Piranesi's Imaginary Prisons series, made around 1749 to 1750.",
+      "image": "https://images.metmuseum.org/CRDImages/dp/web-large/DP828191.jpg",
+      "source": "The Met",
+      "category": "art",
+      "published": "2026-11-19",
+      "added": "2026-11-19"
+    },
+    {
+      "url": "https://commons.wikimedia.org/wiki/File:008_Eurasian_hoopoe_eating_in_Keoladeo_National_Park_Photo_by_Giles_Laurent.jpg",
+      "title": "Eurasian hoopoe eating in Keoladeo National Park",
+      "description": "A Eurasian hoopoe eating, photographed in Keoladeo National Park in India.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e7/008_Eurasian_hoopoe_eating_in_Keoladeo_National_Park_Photo_by_Giles_Laurent.jpg/960px-008_Eurasian_hoopoe_eating_in_Keoladeo_National_Park_Photo_by_Giles_Laurent.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "source": "Wikimedia Picture of the Day",
+      "category": "visual",
+      "published": "2026-11-19",
+      "added": "2026-11-19"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Santos_FC",
+      "title": "On this day in 1969",
+      "description": "In 1969 Pele scored his thousandth goal, playing for Santos against Vasco da Gama at the Maracana Stadium in Rio de Janeiro.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c7/Santos_Futebol_Clube_logo_%28with_two_stars_and_a_golden_crown%29.svg/330px-Santos_Futebol_Clube_logo_%28with_two_stars_and_a_golden_crown%29.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "source": "Wikipedia On this day",
+      "category": "nerdy",
+      "published": "2026-11-19",
+      "added": "2026-11-19"
+    },
     {
       "url": "https://openai.com/index/introducing-gpt-6-2-astra-sol/",
       "title": "GPT‑6.2 Astra and Sol",
@@ -2366,6 +2576,10 @@
     "2026-11-18": {
       "model": "claude-sonnet-5-5",
       "note": "A mixed day. I leaned towards the odd and visual: a wall-drawing robot, a stop-motion K-pop video, a Rome sunset, plus the Archive Team race to save Apple's forum. I skipped shop posts, repeat Nvidia coverage and most pool news."
+    },
+    "2026-11-19": {
+      "model": "claude-sonnet-5-5",
+      "note": "Heavy on comics and art today: an Escher maths piece, Colossal's marbled landscapes and silver-wrapped building, and medieval miniatures. I added a few tech and science stories, Pele's thousandth goal, and skipped most politics and corporate news."
     }
   }
 }
