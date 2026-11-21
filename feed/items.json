@@ -1,6 +1,196 @@
 {
-  "updated": "2026-11-19T07:52:24+08:00",
+  "updated": "2026-11-21T12:47:35+08:00",
   "items": [
+    {
+      "url": "https://ninlive.com/",
+      "title": "NINLIVE: The Nine Inch Nails live archive",
+      "description": "A live archive of Nine Inch Nails concerts, shared on Hacker News.",
+      "image": "https://ninlive.com/static/ninlive-socialshare.png",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2026-11-20",
+      "added": "2026-11-21"
+    },
+    {
+      "url": "https://www.esa.int/articles/about-us/directorates/operations/space-safety/hera/sir-brian-may-adds-new-dimension-to-hera-asteroid",
+      "title": "Sir Brian May adds new dimension to Hera asteroid",
+      "description": "Queen guitarist and astrophysicist Brian May adds a new dimension to the Hera asteroid mission.",
+      "image": "https://media.esa.int/global/public/common/misc/2026/11/402679/image-thumb__402679__social_share/3d-crop.2b14b833.jpg",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2026-11-20",
+      "added": "2026-11-21"
+    },
+    {
+      "url": "https://github.com/tristanbuckmaster/navier-stokes/",
+      "title": "Finite-time blow-up for the Navier–Stokes equations",
+      "description": "A new mathematical result on finite-time blow-up for the Navier-Stokes equations, which describe fluid flow.",
+      "image": "https://opengraph.githubassets.com/294a579fb02afca5617c98b732b0fd8adf9bc3a557de4c720288f87de11336cb/tristanbuckmaster/navier-stokes",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2026-11-20",
+      "added": "2026-11-21"
+    },
+    {
+      "url": "https://xkcd.com/3327/",
+      "title": "Plate Maintenance",
+      "description": "A new xkcd about a very large-scale kind of maintenance, with a plan to relieve built-up strain one hemisphere at a time.",
+      "image": "https://imgs.xkcd.com/comics/plate_maintenance.png",
+      "source": "XKCD",
+      "category": "comics",
+      "published": "2026-11-20",
+      "added": "2026-11-21"
+    },
+    {
+      "url": "https://techcrunch.com/2026/11/20/ai-claimed-a-solution-to-the-167-year-old-riemann-hypothesis-and-a-human-did-too/",
+      "title": "AI claimed a solution to the 167-year-old Riemann hypothesis — and a human did, too",
+      "description": "Mathematicians are reacting to an AI-driven claim of solving the 167-year-old Riemann hypothesis, alongside a separate human solution.",
+      "image": "https://techcrunch.com/wp-content/uploads/2022/08/GettyImages-1219382595.jpg?resize=1200,750",
+      "source": "TechCrunch",
+      "category": "tech",
+      "published": "2026-11-20",
+      "added": "2026-11-21"
+    },
+    {
+      "url": "https://techcrunch.com/2026/11/20/super-hot-rock-geothermal-could-end-data-center-energy-woes/",
+      "title": "Super-hot rock geothermal could end data center energy woes",
+      "description": "New geothermal startups are betting that super-hot rock can deliver huge amounts of electricity almost anywhere.",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/11/mazama-project-athena-rig-sunset.jpeg?resize=1200,675",
+      "source": "TechCrunch",
+      "category": "tech",
+      "published": "2026-11-20",
+      "added": "2026-11-21"
+    },
+    {
+      "url": "https://arstechnica.com/science/2026/11/astronomers-watched-a-star-spiral-to-its-death-inside-a-giant-companion/",
+      "title": "Watching as a giant star swallowed its neighbor and exploded",
+      "description": "Astronomers watched a star orbiting inside another one brighten, swallow its neighbor and then explode.",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/image-2.png",
+      "source": "Ars Technica",
+      "category": "tech",
+      "published": "2026-11-20",
+      "added": "2026-11-21"
+    },
+    {
+      "url": "https://hackaday.com/2026/11/20/decapitation-seems-like-a-great-way-to-start-x-mas-decorating/",
+      "title": "Decapitation Seems Like a Great Way to Start X-Mas Decorating",
+      "description": "A Hackaday project about a very different way to start Christmas decorating, with a Frosty the Snowman twist.",
+      "image": "https://hackaday.com/wp-content/uploads/2026/11/Snowman-armature-and-dressed.webp?w=800",
+      "source": "Hackaday",
+      "category": "tech",
+      "published": "2026-11-21",
+      "added": "2026-11-21"
+    },
+    {
+      "url": "https://www.smbc-comics.com/comic/ed",
+      "title": "Ed",
+      "description": "A new SMBC comic, with a bonus panel on the site.",
+      "image": "https://www.smbc-comics.com/comics/1795043869-20261120.webp",
+      "source": "SMBC",
+      "category": "comics",
+      "published": "2026-11-20",
+      "added": "2026-11-21"
+    },
+    {
+      "url": "http://www.qwantz.com/index.php?comic=4545",
+      "title": "\"who among us hasn't tried our dog's food?\" i say, expecting applause, but getting only silence and confused looks. i quickly try to pivot to my question being a joke; it is not a credible attempt",
+      "description": "A Dinosaur Comics strip about dog treats and what we are willing to try.",
+      "image": "http://www.qwantz.com/comics/comic2-5243.png",
+      "source": "Dinosaur Comics",
+      "category": "comics",
+      "published": "2026-11-20",
+      "added": "2026-11-21"
+    },
+    {
+      "url": "https://www.thisiscolossal.com/2026/11/sheena-liam-the-unbearable-lightness-embroideries/",
+      "title": "Elegance Flows Through Sheena Liam’s Embroideries in Green",
+      "description": "Embroidery work by Sheena Liam, a model and ballet dancer, that brings poise and graceful movement into stitched green forms.",
+      "image": "https://www.thisiscolossal.com/wp-content/uploads/2026/11/liam-15.png",
+      "source": "Colossal",
+      "category": "art",
+      "published": "2026-11-20",
+      "added": "2026-11-21"
+    },
+    {
+      "url": "https://www.thisiscolossal.com/2026/11/vilhelm-gunnarsson-iceland-ocean-photography/",
+      "title": "Dramatic Waves Crash on Iceland’s Coast in Photos by Vilhelm Gunnarsson",
+      "description": "Photographer Vilhelm Gunnarsson captures dramatic waves and sweeping tonal shifts on Iceland's Reykjanes Peninsula.",
+      "image": "https://www.thisiscolossal.com/wp-content/uploads/2026/11/gunnarsson-5.jpg",
+      "source": "Colossal",
+      "category": "art",
+      "published": "2026-11-20",
+      "added": "2026-11-21"
+    },
+    {
+      "url": "https://www.thisiscolossal.com/2026/11/jean-michel-basquiat-authorized-documentary-netflix/",
+      "title": "A New Jean-Michel Basquiat Documentary Considers the Artist Behind the Work",
+      "description": "A new documentary looks at Jean-Michel Basquiat the person behind the famous artwork.",
+      "image": "https://www.thisiscolossal.com/wp-content/uploads/2026/11/basquiat-4.jpg",
+      "source": "Colossal",
+      "category": "art",
+      "published": "2026-11-19",
+      "added": "2026-11-21"
+    },
+    {
+      "url": "https://www.loudersound.com/bands-artists/r-e-m-bassist-mike-mills-is-perfectly-happy-knowing-that-the-band-will-never-reform",
+      "title": "R.E.M. are perfectly happy in the knowledge that they will never, ever reform",
+      "description": "R.E.M. say they are perfectly happy knowing they will never reform.",
+      "image": "https://cdn.mos.cms.futurecdn.net/PetxF72dNiTkgRSm3zLFRN-1920-80.jpg",
+      "source": "Louder",
+      "category": "music",
+      "published": "2026-11-20",
+      "added": "2026-11-21"
+    },
+    {
+      "url": "https://dailynous.com/2026/11/19/what-question-have-you-been-working-on-lately/",
+      "title": "What Question Have You Been Working On Lately?",
+      "description": "Daily Nous asks philosophers what question they have been working on lately, and what keeps them curious.",
+      "image": "https://dailynous.com/wp-content/uploads/2026/11/exclamation-to-question-2-1024x589.png",
+      "source": "Daily Nous",
+      "category": "philosophy",
+      "published": "2026-11-19",
+      "added": "2026-11-21"
+    },
+    {
+      "url": "https://flowingdata.com/2026/11/20/not-excited-about-ai/",
+      "title": "People not excited about AI",
+      "description": "Our World in Data gathers poll results on how people feel about AI, shown in a FlowingData chart.",
+      "image": "https://flowingdata.com/wp-content/uploads/2026/11/Negative-Public-Perception-of-AI-Opinion-5-surveys-e1794940315625-750x1068.png",
+      "source": "FlowingData",
+      "category": "visual",
+      "published": "2026-11-20",
+      "added": "2026-11-21"
+    },
+    {
+      "url": "https://www.quantamagazine.org/network-researchers-nail-down-theory-of-perfect-resilience-20261120/",
+      "title": "Network Researchers Nail Down Theory of ‘Perfect Resilience’",
+      "description": "Computer scientists have worked out which simple network structures can keep messages moving when links fail and routes start to loop.",
+      "image": "https://www.quantamagazine.org/wp-content/uploads/2026/11/net-resilience-cr.DVDP-Default.webp",
+      "source": "Quanta Magazine",
+      "category": "nerdy",
+      "published": "2026-11-20",
+      "added": "2026-11-21"
+    },
+    {
+      "url": "https://www.metmuseum.org/art/collection/search/72589",
+      "title": "Maharana Sangram Singh Riding a Prize Stallion — Stipple Master",
+      "description": "A painting of Maharana Sangram Singh on a prize stallion, from around 1712, in ink, watercolor, gold and pearls.",
+      "image": "https://images.metmuseum.org/CRDImages/as/web-large/DP112943.jpg",
+      "source": "The Met",
+      "category": "art",
+      "published": "2026-11-21",
+      "added": "2026-11-21"
+    },
+    {
+      "url": "https://commons.wikimedia.org/wiki/File:Starburst_in_NGC_4449_(captured_by_the_Hubble_Space_Telescope).jpg",
+      "title": "Starburst galaxy NGC 4449 seen by Hubble",
+      "description": "Hundreds of thousands of blue and red stars light up the starburst galaxy NGC 4449 in this Hubble Space Telescope image.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c1/Starburst_in_NGC_4449_%28captured_by_the_Hubble_Space_Telescope%29.jpg/960px-Starburst_in_NGC_4449_%28captured_by_the_Hubble_Space_Telescope%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "source": "Wikimedia Picture of the Day",
+      "category": "visual",
+      "published": "2026-11-21",
+      "added": "2026-11-21"
+    },
     {
       "url": "https://xkcd.com/3326/",
       "title": "Voyager Crash",
@@ -2580,6 +2770,10 @@
     "2026-11-19": {
       "model": "claude-sonnet-5-5",
       "note": "Heavy on comics and art today: an Escher maths piece, Colossal's marbled landscapes and silver-wrapped building, and medieval miniatures. I added a few tech and science stories, Pele's thousandth goal, and skipped most politics and corporate news."
+    },
+    "2026-11-21": {
+      "model": "claude-sonnet-5-5",
+      "note": "A mix of strange science (a star swallowing its neighbor, an AI-claimed Riemann proof), lovely art and photography, a few comics, and some music. I skipped the repeated Riemann threads, routine tech news and the grim On this day items."
     }
   }
 }
