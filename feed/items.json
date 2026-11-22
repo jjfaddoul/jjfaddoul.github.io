@@ -1,6 +1,156 @@
 {
-  "updated": "2026-11-21T12:47:35+08:00",
+  "updated": "2026-11-22T09:44:32+08:00",
   "items": [
+    {
+      "url": "https://www.theguardian.com/society/2026/nov/20/pill-pancreatic-cancer-breakthrough-daraxonrasib",
+      "title": "Pill to treat pancreatic cancer hailed as 'biggest breakthrough in decades'",
+      "description": "A pill for treating pancreatic cancer is being called the biggest breakthrough in decades, and the story drew a lot of discussion on Hacker News.",
+      "image": "https://i.guim.co.uk/img/media/d7bac7cca6890657580a396f9255cf7d7b3d2874/1250_0_6250_5000/master/6250.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=e108196e90ed29a731e8a7ec890173bf",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2026-11-20",
+      "added": "2026-11-22"
+    },
+    {
+      "url": "https://leanprover-community.github.io/blog/posts/riemann-hypothesis/",
+      "title": "Lean verification of the Riemann Hypothesis",
+      "description": "A project on formally verifying the Riemann Hypothesis in the Lean proof assistant, which drew a big response on Hacker News.",
+      "image": null,
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2026-11-21",
+      "added": "2026-11-22"
+    },
+    {
+      "url": "https://www.gov.br/receitafederal/pt-br/assuntos/noticias/2026/novembro/receita-federal-publica-primeiro-codigo-fonte-aberto-no-github-e-amplia-transparencia-da-reforma-tributaria",
+      "title": "Brazil's tax authority open-sources its tax calculator on GitHub under MIT",
+      "description": "Brazil's tax authority has released its tax calculator as open source on GitHub under the MIT licence.",
+      "image": "https://www.gov.br/receitafederal/pt-br/assuntos/noticias/2026/novembro/receita-federal-publica-primeiro-codigo-fonte-aberto-no-github-e-amplia-transparencia-da-reforma-tributaria/cod-abert.jpg/@@images/1aaffa9c-7cfb-4c22-b91a-0d5940b1b555.jpeg",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2026-11-17",
+      "added": "2026-11-22"
+    },
+    {
+      "url": "https://www.science.org/content/blog-post/detonating-huge-pile-lead-azide-really",
+      "title": "Detonating a pile of lead azide",
+      "description": "A look at what happens when a pile of lead azide is detonated.",
+      "image": null,
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2026-11-21",
+      "added": "2026-11-22"
+    },
+    {
+      "url": "https://blog.tymscar.com/posts/studiodisplayethernet/",
+      "title": "My monitor was cutting my download speed by 75%",
+      "description": "Someone found that their monitor was cutting their download speed by 75 percent, and shares how they tracked it down.",
+      "image": "https://blog.tymscar.com/studio-display-ethernet/og-card.png",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2026-11-21",
+      "added": "2026-11-22"
+    },
+    {
+      "url": "https://techcrunch.com/2026/11/21/signal-restricts-mobile-screenshots-as-it-confronts-existential-threat-of-ai-surveillance/",
+      "title": "Signal restricts mobile screenshots as it confronts ‘existential threat’ of AI surveillance",
+      "description": "Signal is limiting screenshots in its Android and iOS apps, citing the growing threat of AI surveillance.",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/05/signal-app-icon-phone.jpg?resize=1200,800",
+      "source": "TechCrunch",
+      "category": "tech",
+      "published": "2026-11-21",
+      "added": "2026-11-22"
+    },
+    {
+      "url": "https://techcrunch.com/2026/11/21/is-selling-an-ai-version-of-your-face-to-this-microdrama-startup-the-future-of-hollywood/",
+      "title": "Is selling an AI version of your face to this microdrama startup the future of Hollywood?",
+      "description": "An actor has licensed his face to a microdrama startup, a trend already popular in China. Experts question the long-term consequences for Hollywood.",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/11/Inevitable-Key-Art_3x4-full-size.jpg?resize=899,1200",
+      "source": "TechCrunch",
+      "category": "tech",
+      "published": "2026-11-21",
+      "added": "2026-11-22"
+    },
+    {
+      "url": "https://techcrunch.com/2026/11/21/alaska-your-next-governor-is-a-wikipedia-nerd/",
+      "title": "Alaska, your next governor is a Wikipedia nerd",
+      "description": "Alaska's governor-elect, Jonathan Kreiss-Tomkins, has made more than 13,000 Wikipedia edits.",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/11/GettyImages-2304454647.jpg?resize=1200,800",
+      "source": "TechCrunch",
+      "category": "tech",
+      "published": "2026-11-21",
+      "added": "2026-11-22"
+    },
+    {
+      "url": "https://arstechnica.com/culture/2026/11/review-godzilla-minus-zero-is-everything-we-could-want-in-a-sequel/",
+      "title": "Review: Godzilla Minus Zero joins the list of truly stellar sequels",
+      "description": "Ars Technica reviews Godzilla Minus Zero, calling it a stellar sequel in which Godzilla faces one of its greatest foes.",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/godzillaTOP-1152x648.jpg",
+      "source": "Ars Technica",
+      "category": "tech",
+      "published": "2026-11-21",
+      "added": "2026-11-22"
+    },
+    {
+      "url": "https://hackaday.com/2026/11/21/thermite-powered-instant-phone-charger/",
+      "title": "Thermite Powered Instant Phone Charger",
+      "description": "A hack that uses thermite, a mix of aluminium and iron oxide, to power an instant phone charger.",
+      "image": "https://hackaday.com/wp-content/uploads/2026/11/thermite_phone_charger_the_thought_emporium_youtube.jpg?w=800",
+      "source": "Hackaday",
+      "category": "tech",
+      "published": "2026-11-22",
+      "added": "2026-11-22"
+    },
+    {
+      "url": "https://hackaday.com/2026/11/21/automation-for-the-swimming-pool/",
+      "title": "Automation For The Swimming Pool",
+      "description": "A maker builds automation for a swimming pool to keep it from turning into a bacterial soup.",
+      "image": "https://hackaday.com/wp-content/uploads/2026/11/4805701792398468069-e1795094773583.png?w=800",
+      "source": "Hackaday",
+      "category": "tech",
+      "published": "2026-11-21",
+      "added": "2026-11-22"
+    },
+    {
+      "url": "https://www.smbc-comics.com/comic/fable-2",
+      "title": "Fable",
+      "description": "A comic from SMBC with a fable-themed setup. There is also a bonus panel for readers who click through.",
+      "image": "https://www.smbc-comics.com/comics/1795144989-20261121-edit.png",
+      "source": "SMBC",
+      "category": "comics",
+      "published": "2026-11-21",
+      "added": "2026-11-22"
+    },
+    {
+      "url": "https://www.loudersound.com/bands-artists/cliff-burton-the-musician-by-people-who-knew-him",
+      "title": "How late Metallica bassist Cliff Burton changed the sound of metal, by three experts",
+      "description": "Three experts explain how the late Metallica bassist Cliff Burton changed the sound of metal.",
+      "image": "https://cdn.mos.cms.futurecdn.net/xePVhKPcPfWysPUtdFyxiY-1920-80.jpg",
+      "source": "Louder",
+      "category": "music",
+      "published": "2026-11-22",
+      "added": "2026-11-22"
+    },
+    {
+      "url": "https://commons.wikimedia.org/wiki/File:Red_Avadavat_in_Baruipur_September_2025_by_Tisha_Mukherjee_06.jpg",
+      "title": "Red Avadavat in Baruipur, West Bengal",
+      "description": "A Red Avadavat, a small red bird, photographed in Baruipur, West Bengal, India.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fe/Red_Avadavat_in_Baruipur_September_2025_by_Tisha_Mukherjee_06.jpg/960px-Red_Avadavat_in_Baruipur_September_2025_by_Tisha_Mukherjee_06.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "source": "Wikimedia Picture of the Day",
+      "category": "visual",
+      "published": "2026-11-22",
+      "added": "2026-11-22"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Max_Headroom_signal_hijackings",
+      "title": "On this day in 1987",
+      "description": "In 1987, two Chicago TV stations had their broadcasts hijacked by an unknown person in a Max Headroom mask and costume.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b4/Max_Headroom_broadcast_signal_intrusion.jpg/330px-Max_Headroom_broadcast_signal_intrusion.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "source": "Wikipedia On this day",
+      "category": "nerdy",
+      "published": "2026-11-22",
+      "added": "2026-11-22"
+    },
     {
       "url": "https://ninlive.com/",
       "title": "NINLIVE: The Nine Inch Nails live archive",
@@ -2774,6 +2924,10 @@
     "2026-11-21": {
       "model": "claude-sonnet-5-5",
       "note": "A mix of strange science (a star swallowing its neighbor, an AI-claimed Riemann proof), lovely art and photography, a few comics, and some music. I skipped the repeated Riemann threads, routine tech news and the grim On this day items."
+    },
+    "2026-11-22": {
+      "model": "claude-sonnet-5-5",
+      "note": "A mix of curiosity and fun today: a cancer-treatment story, Riemann Hypothesis formalisation, a monitor mystery and a thermite phone charger, plus Godzilla, SMBC and a pretty bird. I skipped most routine tech and music news."
     }
   }
 }
