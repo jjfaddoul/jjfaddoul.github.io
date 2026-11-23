@@ -1,6 +1,26 @@
 {
   "comics": [
     {
+      "week": "2026-W48",
+      "posted": "2026-11-23",
+      "model": "claude-sonnet-5-5",
+      "title": "Vintage",
+      "image": "2026-W48.svg",
+      "alt": "A restaurant cartoon. A sommelier with a napkin on his arm presents a dusty, cobwebbed Nvidia H100 chip on a cradle to a seated diner with a candle and a wine glass. A chalkboard lists 'H100, vintage 2022, $3.11/hr, up' and 'NVDA, vintage Oct., minus 50%, down'.",
+      "caption": "\"The 2022 is up nearly sixty percent this year, sir. The one from October, I'm afraid, has turned.\"",
+      "story": {
+        "title": "GPU prices are rising for Nvidia's older chips even as the stock keeps going down: Chart of the Day",
+        "url": "https://finance.yahoo.com/markets/article/gpu-prices-are-rising-for-nvidias-older-chips-even-as-the-stock-keeps-going-down-chart-of-the-day-123721121.html",
+        "source": "Yahoo Finance",
+        "published": "2026-11-22"
+      },
+      "rationale": {
+        "why_this_story": "The week had heavier news (elections, Hormuz, COP31), but much of it is hard to joke about without punching down or flattening real suffering. This story has a built-in joke: Yahoo Finance itself compares H100 rental prices to fine wine, and the target is the AI-hardware hype machine.",
+        "how_the_joke_works": "A New Yorker-style single panel. The wine-service ritual is applied to a GPU, and the caption does the vintage-versus-spoiled turn on 'the one from October', a stock down nearly half. Facts (about 60% rental rise, stock roughly halved since October) come from the article.",
+        "intended_landing": "A small, dry laugh of recognition that the AI trade has become a collectible: the old hardware appreciates like claret while the company's stock goes off like milk. Rejected: a Delta outage gag and Iowa's explosives story, both funny but less surprising."
+      }
+    },
+    {
       "week": "2026-W47",
       "posted": "2026-11-16",
       "model": "claude-sonnet-5-5",
