@@ -1,6 +1,196 @@
 {
-  "updated": "2026-11-22T09:44:32+08:00",
+  "updated": "2026-11-23T08:50:55+08:00",
   "items": [
+    {
+      "url": "https://www.audubon.org/magazine/birds-of-gta-6-field-guide-vice-city-wildlife",
+      "title": "The Birds of GTA 6: A Field Guide to Vice City and Leonida's Wildlife",
+      "description": "A playful field guide to the wildlife of Vice City and Leonida, the birds you can expect to spot in the upcoming Grand Theft Auto 6 setting.",
+      "image": "https://media.audubon.org/2026-11/gta-still.jpg?width=1200&height=630&auto=webp&quality=90&fit=crop&enable=upscale",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2026-11-22",
+      "added": "2026-11-23"
+    },
+    {
+      "url": "https://apnews.com/article/sudan-antiquities-nubia-cathedral-1b16f67da881ee5592de4481ee55c527",
+      "title": "Cathedral floor emerges in Sudan, revealing one of the biggest medieval churches",
+      "description": "A cathedral floor has emerged in Sudan, revealing one of the biggest medieval churches ever found in the region.",
+      "image": null,
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2026-11-18",
+      "added": "2026-11-23"
+    },
+    {
+      "url": "https://smallsf.com/",
+      "title": "A miniature San Francisco with live buses, planes and boats",
+      "description": "A miniature model of San Francisco that shows live buses, planes and boats moving around the city as they happen.",
+      "image": "https://smallsf.com/share.gif?v=5",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2026-11-22",
+      "added": "2026-11-23"
+    },
+    {
+      "url": "https://www.ias.edu/sites/default/files/library/UsefulnessHarpers.pdf",
+      "title": "The Usefulness of Useless Knowledge [pdf] (1939)",
+      "description": "A 1939 essay on the usefulness of useless knowledge, shared as a PDF. A classic argument for curiosity-driven learning.",
+      "image": null,
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2026-11-22",
+      "added": "2026-11-23"
+    },
+    {
+      "url": "https://nyx.net/",
+      "title": "Nyx, the Oldest Internet Service Provider",
+      "description": "A look at Nyx, described as the oldest Internet service provider.",
+      "image": null,
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2026-11-22",
+      "added": "2026-11-23"
+    },
+    {
+      "url": "https://fosscomics.com/posts/16.%20BSD%20Unix%20Part%206%20-%20The%20Struggle%20for%20Freedom/",
+      "title": "The struggle for freedom: How BSD escaped AT&T licensing",
+      "description": "The story of how BSD freed itself from AT&T licensing, a key chapter in the history of open source operating systems.",
+      "image": "https://fosscomics.com/posts/16. BSD Unix Part 6 - The Struggle for Freedom/images/feature-freedom.png",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2026-11-22",
+      "added": "2026-11-23"
+    },
+    {
+      "url": "https://github.com/gulivan/worker755",
+      "title": "Show HN: I built a game where you are an LLM's subagent",
+      "description": "A Show HN game that flips the usual setup: you play as a subagent taking orders from an LLM.",
+      "image": "https://opengraph.githubassets.com/8ffbf836537ed3e1f16679cd21191054b10f0090ef91cd177aaa50602a7a8aa7/gulivan/worker755",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2026-11-22",
+      "added": "2026-11-23"
+    },
+    {
+      "url": "https://arstechnica.com/health/2026/11/glp-1-drugs-could-have-a-surprisingly-large-environmental-payoff/",
+      "title": "GLP-1 drugs could have a surprisingly large environmental payoff",
+      "description": "GLP-1 weight-loss drugs could reduce food demand enough to free up farmland larger than Italy, suggesting a surprising environmental benefit.",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2025/04/agriculture-1152x648.jpg",
+      "source": "Ars Technica",
+      "category": "tech",
+      "published": "2026-11-22",
+      "added": "2026-11-23"
+    },
+    {
+      "url": "https://hackaday.com/2026/11/22/recycling-thousands-of-coffee-capsules-into-a-moka-pot/",
+      "title": "Recycling Thousands of Coffee Capsules into a Moka Pot",
+      "description": "Someone recycles thousands of used coffee capsules into a moka pot, tackling the waste from single-use pod coffee systems.",
+      "image": "https://hackaday.com/wp-content/uploads/2026/11/moka_pot_coffee_capsules_shake_the_future_youtube.jpg?w=800",
+      "source": "Hackaday",
+      "category": "tech",
+      "published": "2026-11-22",
+      "added": "2026-11-23"
+    },
+    {
+      "url": "https://hackaday.com/2026/11/22/building-a-single-chip-usb-gpu/",
+      "title": "Building a Single-Chip USB GPU",
+      "description": "A maker builds a single-chip USB GPU, going back to the basic job of generating graphics.",
+      "image": "https://hackaday.com/wp-content/uploads/2026/11/usb_gpu.png?w=800",
+      "source": "Hackaday",
+      "category": "tech",
+      "published": "2026-11-22",
+      "added": "2026-11-23"
+    },
+    {
+      "url": "https://www.smbc-comics.com/comic/order-4",
+      "title": "Order",
+      "description": "A comic called Order, with a bonus panel via the link. The hovertext jokes that the bonus panel can beat the comic.",
+      "image": "https://www.smbc-comics.com/comics/1795321174-20261122.webp",
+      "source": "SMBC",
+      "category": "comics",
+      "published": "2026-11-22",
+      "added": "2026-11-23"
+    },
+    {
+      "url": "https://warandpeas.com/2026/11/22/mice-angels-bats-jared-comic/",
+      "title": "Angels",
+      "description": "A War and Peas comic called Angels. Short and quirky, in the strip's usual style.",
+      "image": "https://warandpeas.com/wp-content/uploads/2026/11/angels-5.jpg",
+      "source": "War and Peas",
+      "category": "comics",
+      "published": "2026-11-22",
+      "added": "2026-11-23"
+    },
+    {
+      "url": "https://www.loudersound.com/music/tracks-singles/sound-and-vision-live-neon-knights",
+      "title": "Watch Geezer Butler, Lzzy Hale, Nuno Bettencourt and more play Black Sabbath's Neon Knights",
+      "description": "Geezer Butler, Lzzy Hale, Nuno Bettencourt and other musicians team up to play Black Sabbath's Neon Knights.",
+      "image": "https://cdn.mos.cms.futurecdn.net/jkkrcvPtjjhHaZPthNQmr-1920-80.jpg",
+      "source": "Louder",
+      "category": "music",
+      "published": "2026-11-22",
+      "added": "2026-11-23"
+    },
+    {
+      "url": "https://www.loudersound.com/bands-artists/the-wizard-of-oz-is-our-boss-metallica-rehearse-into-the-early-hours-for-sphere-residency-to-avoid-the-wrath-of-the-wicked-witch",
+      "title": "\"The Wizard of Oz is our boss.\" Metallica rehearse into the early hours for Sphere residency",
+      "description": "Metallica rehearse into the early hours ahead of their Sphere residency, and a Wizard of Oz comparison comes up.",
+      "image": "https://cdn.mos.cms.futurecdn.net/dCs3QQaAzUVTv9c7P6XLfb-1920-80.png",
+      "source": "Louder",
+      "category": "music",
+      "published": "2026-11-22",
+      "added": "2026-11-23"
+    },
+    {
+      "url": "https://stereogum.com/2519632/wayne-coyne-officiates-miley-cyrus-maxx-morandos-wedding/news/",
+      "title": "Wayne Coyne Officiates Miley Cyrus & Maxx Morando’s Wedding",
+      "description": "Wayne Coyne officiates the wedding of Miley Cyrus and Maxx Morando.",
+      "image": "https://lede-admin.stereogum.com/wp-content/uploads/sites/64/2026/11/IMG_2191.jpeg?w=564",
+      "source": "Stereogum",
+      "category": "music",
+      "published": "2026-11-22",
+      "added": "2026-11-23"
+    },
+    {
+      "url": "https://news.un.org/feed/view/en/story/2026/11/1168855",
+      "title": "COP31 ends without climate pact as UN chief warns there is ‘no ambiguity in the science’",
+      "description": "COP31 ended without a climate pact after divisions over fossil fuels. The UN chief warned there is no ambiguity in the science.",
+      "image": "https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Production%20Library/2026/11/22-11-2026_COP31-Close1.jpg/image560x340cropped.jpg",
+      "source": "UN News",
+      "category": "humanitarian",
+      "published": "2026-11-22",
+      "added": "2026-11-23"
+    },
+    {
+      "url": "https://www.metmuseum.org/art/collection/search/74425",
+      "title": "Ten Elements for East Window of an Architectural Ensemble from a Jain Meeting Hall — India (Gujarat, Patan)",
+      "description": "Ten carved teak elements from the east window of a Jain meeting hall in Patan, Gujarat, made in the late 16th century and still showing traces of color.",
+      "image": "https://images.metmuseum.org/CRDImages/as/web-large/hb_16.133.jpg",
+      "source": "The Met",
+      "category": "art",
+      "published": "2026-11-23",
+      "added": "2026-11-23"
+    },
+    {
+      "url": "https://commons.wikimedia.org/wiki/File:Pointe_Saint_Mathieu_-_Phare.jpg",
+      "title": "Pointe Saint-Mathieu lighthouse and abbey ruins",
+      "description": "A view of Pointe Saint-Mathieu in Plougonvelin, with its lighthouse, a semaphore building, a small chapel and the ruins of an abbey.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/46/Pointe_Saint_Mathieu_-_Phare.jpg/960px-Pointe_Saint_Mathieu_-_Phare.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "source": "Wikimedia Picture of the Day",
+      "category": "visual",
+      "published": "2026-11-23",
+      "added": "2026-11-23"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/An_Unearthly_Child",
+      "title": "On this day in 1963",
+      "description": "The first episode of Doctor Who aired on the BBC in 1963, starring William Hartnell as the first Doctor.",
+      "image": "https://thumb.wikimedia.org/wikipedia/en/thumb/9/9a/Unearthly_Child_2.jpg/330px-Unearthly_Child_2.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "source": "Wikipedia On this day",
+      "category": "nerdy",
+      "published": "2026-11-23",
+      "added": "2026-11-23"
+    },
     {
       "url": "https://www.theguardian.com/society/2026/nov/20/pill-pancreatic-cancer-breakthrough-daraxonrasib",
       "title": "Pill to treat pancreatic cancer hailed as 'biggest breakthrough in decades'",
@@ -2928,6 +3118,10 @@
     "2026-11-22": {
       "model": "claude-sonnet-5-5",
       "note": "A mix of curiosity and fun today: a cancer-treatment story, Riemann Hypothesis formalisation, a monitor mystery and a thermite phone charger, plus Godzilla, SMBC and a pretty bird. I skipped most routine tech and music news."
+    },
+    "2026-11-23": {
+      "model": "claude-sonnet-5-5",
+      "note": "A mix of curiosity and fun today: a medieval cathedral floor in Sudan, a live miniature San Francisco, a GTA 6 bird guide, and a metal-heavy music run. I added the COP31 outcome for weight and skipped ads, minor tech news and duplicates."
     }
   }
 }
