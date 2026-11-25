@@ -1,6 +1,236 @@
 {
-  "updated": "2026-11-23T08:50:55+08:00",
+  "updated": "2026-11-25T09:36:16+08:00",
   "items": [
+    {
+      "url": "https://www.ed.ac.uk/news/heart-attack-and-stroke-risk-detectable-decades-in-advance",
+      "title": "Heart attack and stroke risk detectable decades in advance",
+      "description": "A University of Edinburgh news story saying the risk of heart attack and stroke can be detected decades ahead.",
+      "image": "https://www.ed.ac.uk/sites/default/files/2026-11/GettyImages-2155990256-FluxFactory.jpg",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2026-11-24",
+      "added": "2026-11-25"
+    },
+    {
+      "url": "https://www.core77.com/posts/145766/An-Italian-Folding-Bicycle-Design-that-Fits-Into-a-Suitcase",
+      "title": "An Italian folding bicycle design that fits into a suitcase",
+      "description": "A look at a bicycle design from Italy that folds down small enough to go in a suitcase.",
+      "image": "https://s3files.core77.com/blog/images/lead_n_spotlight/1855426_lead_400_145766_.jpg",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2026-11-23",
+      "added": "2026-11-25"
+    },
+    {
+      "url": "https://xkcd.com/3328/",
+      "title": "Ivory Tower Elites",
+      "description": "An xkcd comic that has some fun with the phrase \"ivory tower elites\".",
+      "image": "https://imgs.xkcd.com/comics/ivory_tower_elites.png",
+      "source": "XKCD",
+      "category": "comics",
+      "published": "2026-11-23",
+      "added": "2026-11-25"
+    },
+    {
+      "url": "https://techcrunch.com/2026/11/24/in-all-hands-meeting-jensen-huang-thanks-white-house-and-says-hes-in-therapy/",
+      "title": "In all-hands meeting, Jensen Huang thanks White House and says he’s in therapy",
+      "description": "Nvidia's founder said sorry to staff, thanked the White House for a second chance to lead the company and said he is in therapy.",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/09/GettyImages-2294936867.jpg?resize=1200,800",
+      "source": "TechCrunch",
+      "category": "tech",
+      "published": "2026-11-24",
+      "added": "2026-11-25"
+    },
+    {
+      "url": "https://arstechnica.com/space/2026/11/half-of-nasas-aging-mars-fleet-knocked-offline-by-technical-issues/",
+      "title": "Half of NASA's aging Mars fleet knocked offline by technical issues",
+      "description": "NASA's ageing Mars spacecraft are in trouble: Perseverance is struggling to send data home and Odyssey is quickly using up its remaining fuel.",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/PIA26752-1152x648-1795552223.jpg",
+      "source": "Ars Technica",
+      "category": "tech",
+      "published": "2026-11-24",
+      "added": "2026-11-25"
+    },
+    {
+      "url": "https://arstechnica.com/ai/2026/11/whats-going-on-with-the-riemann-hypothesis/",
+      "title": "What's going on with the Riemann hypothesis?",
+      "description": "An AI-assisted proof connected to the Riemann hypothesis appears to hold up, though what it actually tells us is still unclear.",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/GettyImages-220180413-1152x648.jpeg",
+      "source": "Ars Technica",
+      "category": "tech",
+      "published": "2026-11-24",
+      "added": "2026-11-25"
+    },
+    {
+      "url": "https://arstechnica.com/gadgets/2026/11/faa-opens-probe-after-amazon-delivery-drone-clips-cable-crashes-into-garage/",
+      "title": "Amazon drone crashes on garage after delivering shampoo, draws FAA probe",
+      "description": "An Amazon delivery drone crashed on a garage after dropping off shampoo, and the US aviation regulator is now investigating.",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/prime-air-mk30-drone-package-loading-1152x648.jpg",
+      "source": "Ars Technica",
+      "category": "tech",
+      "published": "2026-11-24",
+      "added": "2026-11-25"
+    },
+    {
+      "url": "https://hackaday.com/2026/11/24/the-ladybird-browser-reaches-alpha/",
+      "title": "The Ladybird Browser Reaches Alpha",
+      "description": "The Ladybird web browser has hit its alpha stage, welcome news for anyone wary of one browser ecosystem dominating the internet.",
+      "image": "https://hackaday.com/wp-content/uploads/2026/11/ladybird-featured.jpg?w=800",
+      "source": "Hackaday",
+      "category": "tech",
+      "published": "2026-11-25",
+      "added": "2026-11-25"
+    },
+    {
+      "url": "https://hackaday.com/2026/11/24/watch-this-virtual-mechanical-watch-do-its-thing/",
+      "title": "Watch This (Virtual) Mechanical Watch Do Its Thing",
+      "description": "A virtual version of a mechanical watch lets you see a centuries-old kind of mechanism at work.",
+      "image": "https://hackaday.com/wp-content/uploads/2026/11/watch.png?w=800",
+      "source": "Hackaday",
+      "category": "tech",
+      "published": "2026-11-24",
+      "added": "2026-11-25"
+    },
+    {
+      "url": "https://hackaday.com/2026/11/24/a-switchboard-operator-simulator-on-real-hardware/",
+      "title": "A Switchboard Operator Simulator, On Real Hardware",
+      "description": "A game that puts you in the role of a telephone switchboard operator, running on real hardware.",
+      "image": "https://hackaday.com/wp-content/uploads/2026/11/switchboard-featured.jpg?w=800",
+      "source": "Hackaday",
+      "category": "tech",
+      "published": "2026-11-24",
+      "added": "2026-11-25"
+    },
+    {
+      "url": "https://www.smbc-comics.com/comic/vintage-2",
+      "title": "Vintage",
+      "description": "An SMBC comic about romance and the question of having children.",
+      "image": "https://www.smbc-comics.com/comics/1795488907-20261124.webp",
+      "source": "SMBC",
+      "category": "comics",
+      "published": "2026-11-24",
+      "added": "2026-11-25"
+    },
+    {
+      "url": "https://poorlydrawnlines.com/comic/on-the-road/",
+      "title": "On the Road",
+      "description": "A Poorly Drawn Lines comic about being on the road.",
+      "image": "https://poorlydrawnlines.com/wp-content/uploads/2026/11/on-the-road.png",
+      "source": "Poorly Drawn Lines",
+      "category": "comics",
+      "published": "2026-11-24",
+      "added": "2026-11-25"
+    },
+    {
+      "url": "http://existentialcomics.com/comic/682",
+      "title": "The Matrix, Explained",
+      "description": "Existential Comics takes on explaining The Matrix.",
+      "image": "https://static.existentialcomics.com/comics/TheMatrixExplained.png",
+      "source": "Existential Comics",
+      "category": "comics",
+      "published": "2026-11-23",
+      "added": "2026-11-25"
+    },
+    {
+      "url": "https://www.thisiscolossal.com/2026/11/kate-jenkins-knitalian-knitted-foods-sculpture-installation/",
+      "title": "Kate Jenkins Whips Up Delicious ‘Knitalian’ Dishes in an Immersive Exhibition",
+      "description": "Artist Kate Jenkins turns Italian food into yarn creations for an immersive exhibition.",
+      "image": "https://www.thisiscolossal.com/wp-content/uploads/2026/11/jenkins-8.jpg",
+      "source": "Colossal",
+      "category": "art",
+      "published": "2026-11-24",
+      "added": "2026-11-25"
+    },
+    {
+      "url": "https://www.thisiscolossal.com/2026/11/australian-street-photography-awards-2026/",
+      "title": "The Inaugural Australian Street Photography Awards Highlight the Vagaries of Daily Life",
+      "description": "Pictures of everyday life from the first Australian Street Photography Awards, run by a group founded by street photographers.",
+      "image": "https://www.thisiscolossal.com/wp-content/uploads/2026/11/aussie-street-7.jpg",
+      "source": "Colossal",
+      "category": "art",
+      "published": "2026-11-24",
+      "added": "2026-11-25"
+    },
+    {
+      "url": "https://publicdomainreview.org/essay/bickering-buildings",
+      "title": "Bickering Buildings: A Dialogue Between the Churches of Athens in 1854",
+      "description": "In 1854 an anonymous writer had the churches of Athens quarrel in a newspaper, airing worries about Greek architecture, foreign influence and the young nation.",
+      "image": "https://pdr-assets.b-cdn.net//essays/bickering-buildings/athens-churches-thumb.jpg",
+      "source": "Public Domain Review",
+      "category": "art",
+      "published": "2026-11-24",
+      "added": "2026-11-25"
+    },
+    {
+      "url": "https://publicdomainreview.org/collection/anti-metric-cartoon",
+      "title": "“What Has He Done to Deserve This?”: American Anti-Metric Cartoon from 1917",
+      "description": "A 1917 American cartoon imagining the dire consequences of switching the United States to the metric system.",
+      "image": "https://pdr-assets.b-cdn.net//collections/anti-metric-poster/uc1.c2638546-seq_383-thumb.jpg",
+      "source": "Public Domain Review",
+      "category": "art",
+      "published": "2026-11-24",
+      "added": "2026-11-25"
+    },
+    {
+      "url": "https://www.loudersound.com/bands-artists/why-cabaret-legend-liza-minnelli-made-a-surprise-appearance-on-the-most-recent-rock-album-to-top-the-us-charts",
+      "title": "Why Liza Minnelli made a surprise appearance on the most recent rock album to top the US charts",
+      "description": "The story behind Liza Minnelli's unexpected appearance on a rock album that recently topped the US charts.",
+      "image": "https://cdn.mos.cms.futurecdn.net/JAuLsj3k2EDZte9LHcgTnP-1920-80.jpg",
+      "source": "Louder",
+      "category": "music",
+      "published": "2026-11-24",
+      "added": "2026-11-25"
+    },
+    {
+      "url": "https://dailynous.com/2026/11/24/a-game-for-teaching-ancient-philosophy/",
+      "title": "A Game for Teaching Ancient Philosophy",
+      "description": "A University of Richmond philosopher has built a classroom simulation game for teaching different schools of ancient philosophy.",
+      "image": "https://dailynous.com/wp-content/uploads/2026/11/ancient-philosophy-game-1024x706.png",
+      "source": "Daily Nous",
+      "category": "philosophy",
+      "published": "2026-11-24",
+      "added": "2026-11-25"
+    },
+    {
+      "url": "https://dailynous.com/2026/11/24/what-the-end-of-anonymous-writing-means-for-academia/",
+      "title": "What the End of Anonymous Writing Means for Academia",
+      "description": "Daily Nous considers what it would mean for academic life if large language models bring anonymous writing to an end.",
+      "image": "https://dailynous.com/wp-content/uploads/2026/11/wittgenstein-decoded-1024x686.png",
+      "source": "Daily Nous",
+      "category": "philosophy",
+      "published": "2026-11-24",
+      "added": "2026-11-25"
+    },
+    {
+      "url": "https://news.un.org/feed/view/en/story/2026/11/1168869",
+      "title": "Decades of gains against AIDS could unravel as HIV funding dries up",
+      "description": "A UN report warns that decades of progress against AIDS could be reversed as international HIV funding is cut and rights come under attack.",
+      "image": "https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Production%20Library/2026/07/30-07-2026_UNAIDS_Zimbabwe_Vaccine_HIV_Youth.jpg/image560x340cropped.jpg",
+      "source": "UN News",
+      "category": "humanitarian",
+      "published": "2026-11-24",
+      "added": "2026-11-25"
+    },
+    {
+      "url": "https://flowingdata.com/2026/11/23/maps-styled-as-roughly-drawn-sketches/",
+      "title": "Maps styled as roughly drawn sketches",
+      "description": "roughMaps is a playful tool for making maps that look like quick hand-drawn sketches.",
+      "image": "https://flowingdata.com/wp-content/uploads/2026/11/Rough-maps-750x545.png",
+      "source": "FlowingData",
+      "category": "visual",
+      "published": "2026-11-23",
+      "added": "2026-11-25"
+    },
+    {
+      "url": "https://www.quantamagazine.org/the-incredible-elegant-dna-repair-system-makes-gene-editing-work-20261123/",
+      "title": "The Incredible, Elegant DNA Repair System Makes Gene Editing Work",
+      "description": "How cells fix the thousands of injuries their DNA suffers each day, and why that repair machinery is essential to gene editing.",
+      "image": "https://www.quantamagazine.org/wp-content/uploads/2026/11/DNA-Repair-cr-Ada-Zejun-Shen-Default.webp",
+      "source": "Quanta Magazine",
+      "category": "nerdy",
+      "published": "2026-11-23",
+      "added": "2026-11-25"
+    },
     {
       "url": "https://www.audubon.org/magazine/birds-of-gta-6-field-guide-vice-city-wildlife",
       "title": "The Birds of GTA 6: A Field Guide to Vice City and Leonida's Wildlife",
@@ -3122,6 +3352,10 @@
     "2026-11-23": {
       "model": "claude-sonnet-5-5",
       "note": "A mix of curiosity and fun today: a medieval cathedral floor in Sudan, a live miniature San Francisco, a GTA 6 bird guide, and a metal-heavy music run. I added the COP31 outcome for weight and skipped ads, minor tech news and duplicates."
+    },
+    "2026-11-25": {
+      "model": "claude-sonnet-5-5",
+      "note": "I went for things that reward curiosity: squabbling churches, knitted Italian food, a switchboard simulator and Mars hardware in trouble. I skipped shopping pieces and kept just one of four Nvidia leadership stories. The museum, picture and history sources failed to load today."
     }
   }
 }
