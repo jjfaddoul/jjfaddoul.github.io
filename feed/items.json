@@ -1,6 +1,226 @@
 {
-  "updated": "2026-11-25T09:36:16+08:00",
+  "updated": "2026-11-26T10:05:26+08:00",
   "items": [
+    {
+      "url": "https://www.vox.com/down-to-earth/511999/home-depot-retention-pond-snorkel-joseph-ricketts",
+      "title": "A few questions for the guy who went snorkeling in a Home Depot retention pond",
+      "description": "Questions for someone who went snorkeling in a retention pond at a Home Depot.",
+      "image": "https://platform.vox.com/wp-content/uploads/sites/2/2026/11/Home-Depot-Thumbnail.jpg?quality=90&strip=all&crop=0%2C3.3782956566828%2C100%2C93.243408686634&w=1200",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2026-11-25",
+      "added": "2026-11-26"
+    },
+    {
+      "url": "https://opensec.in/blog/nfs2root-cve-2026-99362",
+      "title": "Nfs2root: A 12-year-old pre-auth remote root in the Linux kernel's NFS server",
+      "description": "A write-up of a 12-year-old flaw in the Linux kernel's NFS server that allows remote root access without logging in.",
+      "image": null,
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2026-11-25",
+      "added": "2026-11-26"
+    },
+    {
+      "url": "https://nickvsnetworking.com/deploying-a-payphone-on-a-tiny-pacific-island-for-fun-and-zero-profit/",
+      "title": "Deploying a payphone on a tiny Pacific Island",
+      "description": "An account of installing a payphone on a small Pacific island, done for the fun of it rather than any profit.",
+      "image": null,
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2026-11-25",
+      "added": "2026-11-26"
+    },
+    {
+      "url": "https://github.com/openai/math/blob/main/preprints/Superpolynomial-graph-diameter-of-simple-polytopes-November-24-2026/paper.pdf",
+      "title": "The polynomial Hirsch conjecture is false [pdf]",
+      "description": "A PDF preprint reporting that the polynomial Hirsch conjecture, a question in mathematics, is false.",
+      "image": "https://opengraph.githubassets.com/16c86f94b2f63a7adc734e2ee1691eba3e7fdb435cbc2ad12ce596473a1fc93e/openai/math",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2026-11-25",
+      "added": "2026-11-26"
+    },
+    {
+      "url": "https://xkcd.com/3329/",
+      "title": "Cesium Atom",
+      "description": "An XKCD comic where a committee chair's retirement calls for a very physics-minded gift.",
+      "image": "https://imgs.xkcd.com/comics/cesium_atom.png",
+      "source": "XKCD",
+      "category": "comics",
+      "published": "2026-11-25",
+      "added": "2026-11-26"
+    },
+    {
+      "url": "https://arstechnica.com/space/2026/11/europes-hera-mission-returns-to-the-chaotic-scene-of-a-cosmic-smashup/",
+      "title": "European spacecraft finds chaotic scene after asteroid deflection experiment",
+      "description": "Europe's Hera spacecraft reaches the site of the DART asteroid deflection test and gets a look at the mess left behind.",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/hera_arrival1-1020x648.jpg",
+      "source": "Ars Technica",
+      "category": "tech",
+      "published": "2026-11-25",
+      "added": "2026-11-26"
+    },
+    {
+      "url": "https://arstechnica.com/gadgets/2026/11/ladybirds-new-alpha-shows-theres-life-beyond-chromium/",
+      "title": "Ladybird browser's first downloadable alpha is surprisingly capable",
+      "description": "Ars tries the first downloadable alpha of Ladybird, an independent browser engine for Linux and macOS.",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/Ladybird_Browser_Rendering_Ladybird_Page_wide-1152x648-1795619607.png",
+      "source": "Ars Technica",
+      "category": "tech",
+      "published": "2026-11-25",
+      "added": "2026-11-26"
+    },
+    {
+      "url": "https://hackaday.com/2026/11/25/the-curious-case-of-the-second-spacebar/",
+      "title": "The Curious Case of the Second Spacebar",
+      "description": "A very unusual modified Commodore 64 turns up with an extra spacebar and an unexplained socket on the back.",
+      "image": "https://hackaday.com/wp-content/uploads/2026/11/Wait-.-what_-Why-is-there-an-extra-spacebar_-40-22-screenshot-banner.png?w=800",
+      "source": "Hackaday",
+      "category": "tech",
+      "published": "2026-11-25",
+      "added": "2026-11-26"
+    },
+    {
+      "url": "https://www.smbc-comics.com/comic/wowww",
+      "title": "Wowww",
+      "description": "An SMBC comic that looks at people the way we might sort farm animals.",
+      "image": "https://www.smbc-comics.com/comics/1795562858-20261125-edit.png",
+      "source": "SMBC",
+      "category": "comics",
+      "published": "2026-11-25",
+      "added": "2026-11-26"
+    },
+    {
+      "url": "http://www.qwantz.com/index.php?comic=4546",
+      "title": "this one goes out to everyone on earth EXCEPT the half a million murderers and the quarter of a million who are good at it! i don't even think \"good at it\" is the right way to describe it actually but my keyboard's backspace key is broken so i'm committed here! i wish things were otherwise but they ",
+      "description": "A Dinosaur Comics strip addressed to everyone on Earth apart from the murderers.",
+      "image": "http://www.qwantz.com/comics/comic2-5244.png",
+      "source": "Dinosaur Comics",
+      "category": "comics",
+      "published": "2026-11-23",
+      "added": "2026-11-26"
+    },
+    {
+      "url": "https://www.thisiscolossal.com/2026/11/the-untold-story-of-the-yilki-horse-nur-tucker-book/",
+      "title": "Run with the Semi-Wild Yilki Horses of Anatolia in Nur Tucker’s Captivating Photos",
+      "description": "Photographer Nur Tucker's book portrays the semi-wild Yilki horses of Anatolia, part of the region's living heritage.",
+      "image": "https://www.thisiscolossal.com/wp-content/uploads/2026/11/yilki-4.jpeg",
+      "source": "Colossal",
+      "category": "art",
+      "published": "2026-11-25",
+      "added": "2026-11-26"
+    },
+    {
+      "url": "https://www.thisiscolossal.com/2026/11/wade-leta-catching-feelings-shanghai/",
+      "title": "A Sculptural Playground in Shanghai Is Designed for Human-Powered Play",
+      "description": "Wade and Leta have made a sculptural playground in Shanghai that is meant to be jumped on and played with.",
+      "image": "https://www.thisiscolossal.com/wp-content/uploads/2026/11/2026_WADEANDLETA_JISP_CATCHING-FEELINGS_2091-1.gif",
+      "source": "Colossal",
+      "category": "art",
+      "published": "2026-11-25",
+      "added": "2026-11-26"
+    },
+    {
+      "url": "https://www.loudersound.com/bands-artists/duran-duran-and-power-station-guitarist-andy-taylor-dead-at-65",
+      "title": "Duran Duran and Power Station guitarist Andy Taylor dead at 65",
+      "description": "Andy Taylor, guitarist with Duran Duran and Power Station, has died aged 65.",
+      "image": "https://cdn.mos.cms.futurecdn.net/8PD6ge7e8nNNVSyDZdKAeC-1920-80.jpg",
+      "source": "Louder",
+      "category": "music",
+      "published": "2026-11-25",
+      "added": "2026-11-26"
+    },
+    {
+      "url": "https://www.loudersound.com/bands-artists/black-sabbath-tony-iommi-queen-brian-may-suggested-instrumental-album-collaboration",
+      "title": "Tony Iommi reveals that Queen's Brian May once suggested they collaborate on a riff-heavy instrumental album, but the Black Sabbath legend thought no-one would want to listen to it",
+      "description": "Tony Iommi recalls Brian May's idea for a riff-heavy instrumental album together, and why he doubted anyone would listen.",
+      "image": "https://cdn.mos.cms.futurecdn.net/2KV3oE8DFFTXQ62sTHXYdG-1920-80.jpg",
+      "source": "Louder",
+      "category": "music",
+      "published": "2026-11-25",
+      "added": "2026-11-26"
+    },
+    {
+      "url": "https://stereogum.com/2521598/original-king-crimson-drummer-michael-giles-dead-at-84/news/",
+      "title": "Original King Crimson Drummer Michael Giles Dead At 84",
+      "description": "Michael Giles, the original drummer of King Crimson, has died aged 84.",
+      "image": "https://lede-admin.stereogum.com/wp-content/uploads/sites/64/2026/11/MichaelGiles.jpg?w=400",
+      "source": "Stereogum",
+      "category": "music",
+      "published": "2026-11-25",
+      "added": "2026-11-26"
+    },
+    {
+      "url": "https://stereogum.com/2521558/anna-meredith-mink/music/",
+      "title": "Anna Meredith – “Mink”",
+      "description": "A new post on the Anna Meredith track \"Mink\".",
+      "image": "https://lede-admin.stereogum.com/wp-content/uploads/sites/64/2026/10/Anna-Meredith.jpg?w=564",
+      "source": "Stereogum",
+      "category": "music",
+      "published": "2026-11-25",
+      "added": "2026-11-26"
+    },
+    {
+      "url": "https://news.un.org/feed/view/en/story/2026/11/1168875",
+      "title": "Gaza’s widows raise their families alone: ‘We do our duties twice over, but where are our rights?’",
+      "description": "Women widowed by the war in Gaza describe raising families from tents, finding shelter and water while keeping children in school.",
+      "image": "https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Production%20Library/2026/11/25-11-2026_Ziad_Gaza_Widows_2.jpg/image560x340cropped.jpg",
+      "source": "UN News",
+      "category": "humanitarian",
+      "published": "2026-11-25",
+      "added": "2026-11-26"
+    },
+    {
+      "url": "https://flowingdata.com/2026/11/25/learning-brain/",
+      "title": "Learning brain",
+      "description": "A visual piece by Aatish Bhatia and colleagues, part of a series on how our brains find the right paths.",
+      "image": "https://flowingdata.com/wp-content/uploads/2026/11/learn-to-love-750x696.png",
+      "source": "FlowingData",
+      "category": "visual",
+      "published": "2026-11-25",
+      "added": "2026-11-26"
+    },
+    {
+      "url": "https://www.quantamagazine.org/novel-experiments-expand-the-hunt-for-ultralight-dark-matter-20261125/",
+      "title": "Novel Experiments Expand the Hunt for ‘Ultralight’ Dark Matter",
+      "description": "Scientists are devising new kinds of experiments to look for ultralight dark matter, a candidate for the universe's missing mass.",
+      "image": "https://www.quantamagazine.org/wp-content/uploads/2026/11/UltralightDarkMatter-crCelsiusPictor-Default.webp",
+      "source": "Quanta Magazine",
+      "category": "nerdy",
+      "published": "2026-11-25",
+      "added": "2026-11-26"
+    },
+    {
+      "url": "https://www.metmuseum.org/art/collection/search/751539",
+      "title": "Mask — Yup'ik, Native American",
+      "description": "A Yup'ik mask from around 1900, made of wood, pigment, plant fiber, iron nails and feathers.",
+      "image": "https://images.metmuseum.org/CRDImages/ad/web-large/DP-15400-001.jpg",
+      "source": "The Met",
+      "category": "art",
+      "published": "2026-11-26",
+      "added": "2026-11-26"
+    },
+    {
+      "url": "https://commons.wikimedia.org/wiki/File:Male_wild_turkey_(Meleagris_gallopavo)_strutting.jpg",
+      "title": "Male wild turkey strutting",
+      "description": "A picture of a male wild turkey caught mid-strut.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8a/Male_wild_turkey_%28Meleagris_gallopavo%29_strutting.jpg/960px-Male_wild_turkey_%28Meleagris_gallopavo%29_strutting.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "source": "Wikimedia Picture of the Day",
+      "category": "visual",
+      "published": "2026-11-26",
+      "added": "2026-11-26"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Southern_Television_broadcast_interruption",
+      "title": "On this day in 1977",
+      "description": "In 1977, a voice claiming to speak for an \"Intergalactic Association\" broke into a Southern Television broadcast in South East England.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fc/HanningtonTransmitter.jpg/330px-HanningtonTransmitter.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "source": "Wikipedia On this day",
+      "category": "nerdy",
+      "published": "2026-11-26",
+      "added": "2026-11-26"
+    },
     {
       "url": "https://www.ed.ac.uk/news/heart-attack-and-stroke-risk-detectable-decades-in-advance",
       "title": "Heart attack and stroke risk detectable decades in advance",
@@ -3356,6 +3576,10 @@
     "2026-11-25": {
       "model": "claude-sonnet-5-5",
       "note": "I went for things that reward curiosity: squabbling churches, knitted Italian food, a switchboard simulator and Mars hardware in trouble. I skipped shopping pieces and kept just one of four Nvidia leadership stories. The museum, picture and history sources failed to load today."
+    },
+    "2026-11-26": {
+      "model": "claude-sonnet-5-5",
+      "note": "A wild turkey leads off for Thanksgiving. After that I went for curiosities (a 1977 alien broadcast hijack, a pond snorkeler, an island payphone), space and maths, and some art and comics. Two musician deaths and a hard story from Gaza are here too; I skipped most of the AI business news."
     }
   }
 }
