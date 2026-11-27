@@ -1,6 +1,196 @@
 {
-  "updated": "2026-11-26T10:05:26+08:00",
+  "updated": "2026-11-27T13:14:48+08:00",
   "items": [
+    {
+      "url": "https://blog.ktz.me/black-friday-hard-drive-prices-are-messed-up/",
+      "title": "Hard Drive pricing has gotten bad",
+      "description": "A look at how bad hard drive pricing has become.",
+      "image": "https://pub-430e0c9ecb66464fa6999cd23a749d13.r2.dev/content/images/2026/11/black-friday-hard-drive-prices-are-messed-up/row-of-easystore-drives-on-a-cluttered-workbench.webp",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2026-11-27",
+      "added": "2026-11-27"
+    },
+    {
+      "url": "https://janlukas.blog/posts/ai-self-hosting",
+      "title": "AI made self-hosting fun again",
+      "description": "A blog post arguing that AI has brought the fun back to running your own services.",
+      "image": null,
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2026-11-26",
+      "added": "2026-11-27"
+    },
+    {
+      "url": "https://worksinprogress.co/issue/the-greatest-architect-youve-never-heard-of-is-in-pakistan/",
+      "title": "Kamil Khan Mumtaz: Pakistani architect, admired at home, almost invisible abroad",
+      "description": "A profile of Kamil Khan Mumtaz, a Pakistani architect who is admired at home but almost invisible abroad.",
+      "image": "https://worksinprogress.co/wip-image/uploads/2026/11/The_Greatest_Architect_Sharecard_03.jpg",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2026-11-26",
+      "added": "2026-11-27"
+    },
+    {
+      "url": "https://krebsonsecurity.com/2026/11/cto-of-ransomwarehelp-indicted-for-wire-fraud/",
+      "title": "CTO of 'RansomwareHelp' indicted for wire fraud",
+      "description": "The chief technology officer of a firm called RansomwareHelp has been indicted for wire fraud.",
+      "image": null,
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2026-11-26",
+      "added": "2026-11-27"
+    },
+    {
+      "url": "https://lia.mg/posts/measuring-company-culture-with-slack-emoji/",
+      "title": "Company Culture = Slack Emoji ÷ √Headcount",
+      "description": "A playful formula that tries to measure company culture using Slack emoji and headcount.",
+      "image": null,
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2026-11-26",
+      "added": "2026-11-27"
+    },
+    {
+      "url": "https://github.com/intel/intel-one-mono",
+      "title": "Intel One Mono font (2023)",
+      "description": "Intel's monospaced font, Intel One Mono, from 2023.",
+      "image": "https://opengraph.githubassets.com/e718773590568db061e95662a2f20d0af36ac39fa08b51347e41308688b33490/intel/intel-one-mono",
+      "source": "Hacker News",
+      "category": "tech",
+      "published": "2026-11-26",
+      "added": "2026-11-27"
+    },
+    {
+      "url": "https://arstechnica.com/cars/2026/11/ford-unveils-the-gt41-as-it-hopes-to-win-le-mans-again/",
+      "title": "Ford unveils the GT41 as it hopes to win Le Mans again",
+      "description": "Ford reveals the GT41 prototype for its 2027 entry into the World Endurance Championship, with Le Mans in its sights.",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/Ford-GT41-and-GT40_06-1152x648.jpg",
+      "source": "Ars Technica",
+      "category": "tech",
+      "published": "2026-11-26",
+      "added": "2026-11-27"
+    },
+    {
+      "url": "https://arstechnica.com/science/2026/11/draining-peatlands-is-responsible-for-a-few-percent-of-our-global-warming/",
+      "title": "Draining peatlands is responsible for a few percent of our global warming",
+      "description": "An estimate reaching back to 1800 tallies the carbon released by draining peatlands and its share of global warming.",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/GettyImages-1296653735-1152x648.jpg",
+      "source": "Ars Technica",
+      "category": "tech",
+      "published": "2026-11-26",
+      "added": "2026-11-27"
+    },
+    {
+      "url": "https://arstechnica.com/features/2026/11/from-minimalist-to-maximalist-ars-staffers-show-off-their-home-offices/",
+      "title": "From minimalist to maximalist: Ars staffers show off their home offices",
+      "description": "Ars Technica staff open up their home offices, which run from neat and tasteful to truly puzzling.",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/jeremy-2-640x850.jpg",
+      "source": "Ars Technica",
+      "category": "tech",
+      "published": "2026-11-26",
+      "added": "2026-11-27"
+    },
+    {
+      "url": "https://hackaday.com/2026/11/26/when-decoupling-capacitors-go-wrong/",
+      "title": "When Decoupling Capacitors Go Wrong",
+      "description": "More decoupling capacitors are not always better. This piece looks at a Ben Eater video on why physics disagrees.",
+      "image": "https://hackaday.com/wp-content/uploads/2026/11/discrete_clock_issue_ben_eater_youtube.jpg?w=800",
+      "source": "Hackaday",
+      "category": "tech",
+      "published": "2026-11-27",
+      "added": "2026-11-27"
+    },
+    {
+      "url": "https://hackaday.com/2026/11/26/another-split-flap-display-you-can-print-yourself/",
+      "title": "Another Split Flap Display You Can Print Yourself",
+      "description": "Split flap displays, once common in airports and alarm clocks, get another version you can print yourself.",
+      "image": "https://hackaday.com/wp-content/uploads/2026/11/DIY-Split-Flap-Display_-3D-Printed-Open-Source-_-OpenFlaps-0-46-screenshot.png?w=800",
+      "source": "Hackaday",
+      "category": "tech",
+      "published": "2026-11-26",
+      "added": "2026-11-27"
+    },
+    {
+      "url": "https://www.smbc-comics.com/comic/staring",
+      "title": "Staring",
+      "description": "A comic about staring, and the time we spend with the void.",
+      "image": "https://www.smbc-comics.com/comics/1795660261-20261126.webp",
+      "source": "SMBC",
+      "category": "comics",
+      "published": "2026-11-26",
+      "added": "2026-11-27"
+    },
+    {
+      "url": "https://warandpeas.com/2026/11/25/skip-the-toaster-deals/",
+      "title": "Skip the Toaster Deals",
+      "description": "A comic making the case for skipping Black Friday bargains and backing local shops and indie artists instead.",
+      "image": "https://warandpeas.com/wp-content/uploads/2025/11/war-and-peas-go-vote.jpg",
+      "source": "War and Peas",
+      "category": "comics",
+      "published": "2026-11-25",
+      "added": "2026-11-27"
+    },
+    {
+      "url": "https://www.loudersound.com/music/albums/jeff-wayne-war-of-the-worlds-tom-hodges",
+      "title": "Why Jeff Wayne’s War Of The Worlds has endured: “The synths sound like machines with soul”",
+      "description": "A look at why Jeff Wayne's War Of The Worlds has lasted, with praise for synths that sound like machines with soul.",
+      "image": "https://cdn.mos.cms.futurecdn.net/R95zJuHc6gcPVmarkhv8oR-1920-80.jpg",
+      "source": "Louder",
+      "category": "music",
+      "published": "2026-11-26",
+      "added": "2026-11-27"
+    },
+    {
+      "url": "https://stereogum.com/2522004/macy-gray-is-releasing-her-new-album-in-a-microdrama/news/",
+      "title": "Macy Gray Is Releasing Her New Album In A Microdrama",
+      "description": "Macy Gray has an unusual plan for her new album: releasing it in a microdrama.",
+      "image": "https://lede-admin.stereogum.com/wp-content/uploads/sites/64/2026/11/GettyImages-2273632284.jpg?w=564",
+      "source": "Stereogum",
+      "category": "music",
+      "published": "2026-11-26",
+      "added": "2026-11-27"
+    },
+    {
+      "url": "https://news.un.org/feed/view/en/story/2026/11/1168878",
+      "title": "‘Come right now’: How a crisis centre in Samarkand helps women escape violence",
+      "description": "How a crisis centre in Samarkand helps women get away from violence at home.",
+      "image": "https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Production%20Library/2026/11/19-11-2026_Samarkand_Rahmdillik%204.jpg/image560x340cropped.jpg",
+      "source": "UN News",
+      "category": "humanitarian",
+      "published": "2026-11-26",
+      "added": "2026-11-27"
+    },
+    {
+      "url": "https://www.metmuseum.org/art/collection/search/75909",
+      "title": "Palampore — India (Coromandel Coast), for the Sri Lankan market",
+      "description": "An early 18th-century cotton palampore, painted and dyed on India's Coromandel Coast for the Sri Lankan market.",
+      "image": "https://images.metmuseum.org/CRDImages/as/web-large/DP-23279-001.jpg",
+      "source": "The Met",
+      "category": "art",
+      "published": "2026-11-27",
+      "added": "2026-11-27"
+    },
+    {
+      "url": "https://commons.wikimedia.org/wiki/File:Liquid_Crystal_Phase_Transition.jpg",
+      "title": "Maze-like patterns in a liquid crystal under polarised light",
+      "description": "A liquid crystal magnified 100 times under polarised light shows vivid colours and a maze-like pattern caused by a phase transition.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a1/Liquid_Crystal_Phase_Transition.jpg/960px-Liquid_Crystal_Phase_Transition.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "source": "Wikimedia Picture of the Day",
+      "category": "visual",
+      "published": "2026-11-27",
+      "added": "2026-11-27"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Sodium",
+      "title": "On this day in 2001",
+      "description": "In 2001, astronomers reported sodium around the planet HD 209458 b, the first time an exoplanet's atmosphere was measured.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/27/Na_%28Sodium%29.jpg/330px-Na_%28Sodium%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "source": "Wikipedia On this day",
+      "category": "nerdy",
+      "published": "2026-11-27",
+      "added": "2026-11-27"
+    },
     {
       "url": "https://www.vox.com/down-to-earth/511999/home-depot-retention-pond-snorkel-joseph-ricketts",
       "title": "A few questions for the guy who went snorkeling in a Home Depot retention pond",
@@ -3580,6 +3770,10 @@
     "2026-11-26": {
       "model": "claude-sonnet-5-5",
       "note": "A wild turkey leads off for Thanksgiving. After that I went for curiosities (a 1977 alien broadcast hijack, a pond snorkeler, an island payphone), space and maths, and some art and comics. Two musician deaths and a hard story from Gaza are here too; I skipped most of the AI business news."
+    },
+    "2026-11-27": {
+      "model": "claude-sonnet-5-5",
+      "note": "I went for things that reward curiosity: a liquid crystal maze, sodium on a distant world, an overlooked architect and some hands-on electronics, plus comics and music for the holiday weekend. I skipped a magazine promo, an artists' opportunities listing and most of the industry news."
     }
   }
 }
