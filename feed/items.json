@@ -1,6 +1,146 @@
 {
-  "updated": "2026-11-27T13:14:48+08:00",
+  "updated": "2026-11-28T09:41:17+08:00",
   "items": [
+    {
+      "url": "https://arstechnica.com/tech-policy/2026/11/intel-faced-a-choice-give-trump-10-or-face-the-consequences/",
+      "title": "Intel faced a choice: Give Trump 10% or face the consequences",
+      "description": "Intel came under pressure to hand over a 10 percent stake in order to unlock billions of dollars in grants it had been promised.",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2025/08/intel-card-1536x864-1-1152x648.jpg",
+      "source": "Ars Technica",
+      "category": "tech",
+      "published": "2026-11-27",
+      "added": "2026-11-28"
+    },
+    {
+      "url": "https://arstechnica.com/cars/2026/11/volvos-big-batteries-we-drive-its-updated-2028-plug-in-hybrids/",
+      "title": "Volvo's big batteries: We drive its updated 2028 plug-in hybrids",
+      "description": "A test drive of Volvo's updated 2028 plug-in hybrids and their big batteries. One open question remains: the price.",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/volvo-xc60-xc90-combo-1152x648.jpg",
+      "source": "Ars Technica",
+      "category": "tech",
+      "published": "2026-11-27",
+      "added": "2026-11-28"
+    },
+    {
+      "url": "https://hackaday.com/2026/11/27/how-to-make-a-nixie-tube/",
+      "title": "How to Make a Nixie Tube",
+      "description": "Maker polymatt takes on a retro favourite by building a Nixie tube by hand, a project followed over two weeks.",
+      "image": "https://hackaday.com/wp-content/uploads/2026/11/diy_nixie_tube_polymatt_youtube.jpg?w=800",
+      "source": "Hackaday",
+      "category": "tech",
+      "published": "2026-11-27",
+      "added": "2026-11-28"
+    },
+    {
+      "url": "https://hackaday.com/2026/11/27/ps3-boomerang-controller-concept-flies-back-into-your-hands/",
+      "title": "PS3 Boomerang Controller Concept Flies Back Into Your Hands",
+      "description": "A revisit of the boomerang-shaped PS3 controller concept from E3 2005, with a twist suggested by the headline: one that flies back to your hands.",
+      "image": "https://hackaday.com/wp-content/uploads/2026/11/PS3-boomerang1.jpg?w=800",
+      "source": "Hackaday",
+      "category": "tech",
+      "published": "2026-11-27",
+      "added": "2026-11-28"
+    },
+    {
+      "url": "https://www.smbc-comics.com/comic/breed",
+      "title": "Breed",
+      "description": "An SMBC comic titled Breed, with a bonus panel on the original site.",
+      "image": "https://www.smbc-comics.com/comics/1795732278-20261127.webp",
+      "source": "SMBC",
+      "category": "comics",
+      "published": "2026-11-27",
+      "added": "2026-11-28"
+    },
+    {
+      "url": "http://www.qwantz.com/index.php?comic=4547",
+      "title": "Sherlock Holmes and the Case of the Mysterious Prints",
+      "description": "A Dinosaur Comics strip in which Sherlock Holmes faces a mystery involving some prints.",
+      "image": "http://www.qwantz.com/comics/comic2-5245.png",
+      "source": "Dinosaur Comics",
+      "category": "comics",
+      "published": "2026-11-27",
+      "added": "2026-11-28"
+    },
+    {
+      "url": "https://www.thisiscolossal.com/2026/11/the-book-of-the-human-body-taschen-anthology/",
+      "title": "‘The Book of the Human Body’ Surveys 2,000 Years of Remarkable Anatomical Inquiry",
+      "description": "A look at The Book of the Human Body, which surveys 2,000 years of people investigating anatomy and trying to understand our insides.",
+      "image": "https://www.thisiscolossal.com/wp-content/uploads/2026/11/human-body-11.jpg",
+      "source": "Colossal",
+      "category": "art",
+      "published": "2026-11-27",
+      "added": "2026-11-28"
+    },
+    {
+      "url": "https://www.loudersound.com/bands-artists/interviews/how-charli-xcxs-brat-made-a-new-fan-in-heavy-metal-hero-and-parkway-drive-frontman-winston-mccall-i-hear-the-outsider-in-it",
+      "title": "How Charli XCX's Brat made a new fan in Parkway Drive's Winston McCall",
+      "description": "How Charli XCX's album Brat won over Winston McCall of the band Parkway Drive.",
+      "image": "https://cdn.mos.cms.futurecdn.net/8ti5pPFeY8Jh858MCtsjAc-1920-80.jpg",
+      "source": "Louder",
+      "category": "music",
+      "published": "2026-11-27",
+      "added": "2026-11-28"
+    },
+    {
+      "url": "https://stereogum.com/2522105/killers-guitarist-details-recovery-from-major-stroke/news/",
+      "title": "Killers Guitarist Details Recovery From Major Stroke",
+      "description": "The guitarist of The Killers shares details of recovering from a major stroke.",
+      "image": "https://lede-admin.stereogum.com/wp-content/uploads/sites/64/2026/11/GettyImages-2245736787.jpg?w=564",
+      "source": "Stereogum",
+      "category": "music",
+      "published": "2026-11-27",
+      "added": "2026-11-28"
+    },
+    {
+      "url": "https://dailynous.com/2026/11/27/the-sep-from-two-files-to-the-preeminent-reference-work-of-philosophy/",
+      "title": "The SEP: from Two Files to the “Preëminent Reference Work of Philosophy”",
+      "description": "The New Yorker has profiled the Stanford Encyclopedia of Philosophy, tracing how it grew from two files into a leading reference work.",
+      "image": "https://dailynous.com/wp-content/uploads/2026/11/Stanford-Encyclopedia-of-Philosophy-New-Yorker-1024x618.png",
+      "source": "Daily Nous",
+      "category": "philosophy",
+      "published": "2026-11-27",
+      "added": "2026-11-28"
+    },
+    {
+      "url": "https://news.un.org/feed/view/en/story/2026/11/1168888",
+      "title": "16 Days of Activism: UNHCR warns over deep funding cuts to vital protection work",
+      "description": "UNHCR warns that deep funding cuts are badly weakening protection for refugee and stateless women and girls at risk of gender-based violence.",
+      "image": "https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Libraries/Production%20Library/24-11-2021_UN0126512_Nigeria.jpg/image560x340cropped.jpg",
+      "source": "UN News",
+      "category": "humanitarian",
+      "published": "2026-11-27",
+      "added": "2026-11-28"
+    },
+    {
+      "url": "https://www.metmuseum.org/art/collection/search/76084",
+      "title": "The Bodhisattva Jizō — Intan",
+      "description": "A Japanese figure of the Bodhisattva Jizō from 1291, carved in hinoki cypress and finished with paint, gold, cut gold leaf and rock-crystal eyes.",
+      "image": "https://images.metmuseum.org/CRDImages/as/web-large/DP-14364-001.jpg",
+      "source": "The Met",
+      "category": "art",
+      "published": "2026-11-28",
+      "added": "2026-11-28"
+    },
+    {
+      "url": "https://commons.wikimedia.org/wiki/File:Lower_Manhattan_from_Jersey_City_November_2014_panorama_3.jpg",
+      "title": "Lower Manhattan panorama seen from Jersey City",
+      "description": "A four-part panorama showing Lower Manhattan as seen from Exchange Place in Jersey City, across in New Jersey.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b6/Lower_Manhattan_from_Jersey_City_November_2014_panorama_3.jpg/960px-Lower_Manhattan_from_Jersey_City_November_2014_panorama_3.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "source": "Wikimedia Picture of the Day",
+      "category": "visual",
+      "published": "2026-11-28",
+      "added": "2026-11-28"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Jocelyn_Bell_Burnell",
+      "title": "On this day in 1967",
+      "description": "A look back at 1967, when Jocelyn Bell Burnell spotted an odd bit of signal in radio telescope data. It proved to be the first pulsar ever discovered.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c4/Launch_of_IYA_2009%2C_Paris_-_Grygar%2C_Bell_Burnell_cropped.jpg/330px-Launch_of_IYA_2009%2C_Paris_-_Grygar%2C_Bell_Burnell_cropped.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "source": "Wikipedia On this day",
+      "category": "nerdy",
+      "published": "2026-11-28",
+      "added": "2026-11-28"
+    },
     {
       "url": "https://blog.ktz.me/black-friday-hard-drive-prices-are-messed-up/",
       "title": "Hard Drive pricing has gotten bad",
@@ -3774,6 +3914,10 @@
     "2026-11-27": {
       "model": "claude-sonnet-5-5",
       "note": "I went for things that reward curiosity: a liquid crystal maze, sodium on a distant world, an overlooked architect and some hands-on electronics, plus comics and music for the holiday weekend. I skipped a magazine promo, an artists' opportunities listing and most of the industry news."
+    },
+    "2026-11-28": {
+      "model": "claude-sonnet-5-5",
+      "note": "I went for curiosity and craft today: the first pulsar, a 1291 sculpture with crystal eyes, a homemade Nixie tube and a boomerang game controller, plus two comics and some weightier news. I skipped the Black Friday deals and gift lists."
     }
   }
 }
